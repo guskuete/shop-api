@@ -1,0 +1,60 @@
+name: Deploy to FTP
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  deploy-via-ftp:
+    name: Deploy via FTP
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: "./"
+          server-dir: "./"
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.idea/**
+            **/.vite/**
+            **/.vsc/**
+            **/node_modules/**
+            **/.github/**
+            **/tests/**
+            **/dist/**
+            **/api/**
+            **/storage/logs/**
+            **/storage/framework/sessions/**
+            **/storage/framework/views/**
+            **/storage/framework/cache/**
+            .phpunit.result.cache
+            phpunit.xml
+            .vercelignore
+            vercel.json
+            .gitignore
+            .gitattibutes
+            .env.example
+            README.md
+            .env
+            .editorconfig
+            composer.lock
+            phpunit.xml
+            pnpm-lock.yaml
+            README.md
+            jsconfig.json
+            tsconfig.json
+            tailwind.config.js
+            postcss.config.js
+            .package.json

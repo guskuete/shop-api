@@ -49,7 +49,6 @@ jobs:
             README.md
             .env
             .editorconfig
-            composer.lock
             phpunit.xml
             pnpm-lock.yaml
             README.md

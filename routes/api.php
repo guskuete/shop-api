@@ -1,19 +1,13 @@
 <?php
 
 use App\Http\Controllers\Api\AuthController;
+use App\Http\Controllers\Api\HomeController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function (){
-    return response()->json([
-        'hello' => 'World',
-        'message' => 'The API is ready.'
-    ]);
-});
+Route::get('/', [HomeController::class, 'index']);
 
-Route::get('/user', function (Request $request) {
-    return $request->user();
-})->middleware('auth:sanctum');
+Route::get('/user',[AuthController::class, 'getUser'])->middleware('auth:sanctum');
 
 Route::post('/register',[AuthController::class, 'register']);
 Route::post('/login',[AuthController::class, 'login']);

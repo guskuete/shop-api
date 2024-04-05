@@ -36,19 +36,20 @@ class AuthController extends Controller
     public function register(Request $request): JsonResponse
     {
         try {
-            $validated = Validator::make($request->all(), [
+            $validator = Validator::make($request->all(), [
                 'name' => 'required|string',
                 'email' => 'required|string|email|unique:users',
                 'password' => 'required|min:4'
             ]);
 
-            if ($validated->fails()) {
+            if ($validator->fails()) {
                 return response()->json(
                     ApiResponse::validationError(
-                        errors: $validated->errors(),
+                        errors: $validator->errors(),
                         message: 'validation error'
                     ), Response::HTTP_UNAUTHORIZED);
             }
+            $validated = $validator->validated();
 
             $user = User::create([
                 'name' => $validated['name'],
@@ -88,19 +89,21 @@ class AuthController extends Controller
     public function login(Request $request): Response
     {
         try {
-            $validated = Validator::make($request->all(),
+            $validator = Validator::make($request->all(),
                 [
                     'email' => 'required|email',
                     'password' => 'required'
                 ]);
 
-            if ($validated->fails()) {
+
+            if ($validator->fails()) {
                 return response()->json(
                     ApiResponse::validationError(
-                        errors: $validated->errors(),
+                        errors: $validator->errors(),
                         message: 'validation error'
                     ), Response::HTTP_UNAUTHORIZED);
             }
+            $validated = $validator->validated();
 
             if (!Auth::attempt($request->only(['email', 'password']))) {
                 return response()->json(
@@ -109,7 +112,7 @@ class AuthController extends Controller
                     ), Response::HTTP_BAD_REQUEST);
             }
 
-            $user = User::where('email', $request->email)->first();
+            $user = User::where('email', $validated['email'])->first();
 
             return response()->json(
                 LoginResponse::success(

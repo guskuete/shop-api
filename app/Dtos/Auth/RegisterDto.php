@@ -10,12 +10,12 @@ use OpenApi\Attributes as OAT;
 )]
 class RegisterDto
 {
-    #[OAT\Property(type: 'string')]
+    #[OAT\Property(type: 'string', example: 'John Doe')]
     public string $name;
 
-    #[OAT\Property(type: 'string')]
+    #[OAT\Property(type: 'string', example: 'name@mail.dev')]
     public string $email;
 
-    #[OAT\Property(type: 'string')]
+    #[OAT\Property(type: 'string', minimum: 4, example: 'secret')]
     public string $password;
 }

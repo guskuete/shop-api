@@ -197,13 +197,17 @@
                 ],
                 "properties": {
                     "name": {
-                        "type": "string"
+                        "type": "string",
+                        "example": "John Doe"
                     },
                     "email": {
-                        "type": "string"
+                        "type": "string",
+                        "example": "name@mail.dev"
                     },
                     "password": {
-                        "type": "string"
+                        "type": "string",
+                        "minimum": 4,
+                        "example": "secret"
                     }
                 },
                 "type": "object"

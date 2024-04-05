@@ -21,10 +21,10 @@ class LoginResponse
     {
         $this->message = $message;
         $this->token = $token;
-        $this->$success = $success;
+        $this->success = $success;
     }
 
-    public static function success($token, ?string $message = null)
+    public static function success(string $token, ?string $message = null): self
     {
         return new self($token, $message, true);
     }

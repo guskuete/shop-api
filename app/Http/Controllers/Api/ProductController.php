@@ -61,4 +61,56 @@ class ProductController extends Controller
                 Response::HTTP_INTERNAL_SERVER_ERROR);
         }
     }
+
+    #[OAT\Get(
+        path: "/api/products/{id}",
+        summary: "Fetch a single product",
+        tags: ["Product"],
+        parameters: [
+            new OAT\Parameter(
+                name: 'id',
+                description: 'The ID of the product to fetch',
+                in: 'path',
+                required: true,
+                schema: new OAT\Schema(type: 'integer')
+            )
+        ],
+        responses: [
+            new OAT\Response(
+                response: Response::HTTP_OK,
+                description: "Product found",
+                content: new OAT\MediaType(
+                    mediaType: 'application/json',
+                    schema: new OAT\Schema(ref: '#/components/schemas/ProductReadDto')
+                )
+            ),
+            new OAT\Response(
+                response: Response::HTTP_NOT_FOUND,
+                description: "Product not found",
+                content: new OAT\JsonContent(type: ApiResponse::class)
+            ),
+            new OAT\Response(
+                response: Response::HTTP_INTERNAL_SERVER_ERROR,
+                description: "Server Error",
+                content: new OAT\JsonContent(type: ApiResponse::class)
+            )
+        ]
+    )]
+    public function show(int $id)
+    {
+        try {
+            $product = Product::find($id)->first();
+
+            return response()->json(
+                ApiResponse::success(
+                    data: $product,
+                    message: 'Product details'
+                ), Response::HTTP_OK);
+
+        } catch (\Throwable $th) {
+            return response()->json(
+                ApiResponse::fail(message: $th->getMessage()),
+                Response::HTTP_INTERNAL_SERVER_ERROR);
+        }
+    }
 }

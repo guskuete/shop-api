@@ -17,10 +17,10 @@ return new class extends Migration
             $table->string('name');
             $table->string('slug')->unique();
             $table->float('price');
-            $table->string('description')->nullable();
+            $table->text('description')->nullable();
             $table->boolean('is_new')->default(false);
             $table->boolean('is_online')->default(true);
-            $table->text('large_description')->nullable();
+            $table->longText('large_description')->nullable();
             $table->timestamps();
         });
     }

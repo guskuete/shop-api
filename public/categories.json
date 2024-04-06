@@ -1,0 +1,54 @@
+[
+	{
+		"id": 1,
+		"name": "Electronics"
+	},
+	{
+		"id": 2,
+		"name": "TV Screen"
+	},
+	{
+		"id": 3,
+		"name": "Telephones"
+	},
+	{
+		"id": 4,
+		"name": "Smartphones"
+	},
+	{
+		"id": 5,
+		"name": "High-Tech"
+	},
+	{
+		"id": 6,
+		"name": "Laptop"
+	},
+	{
+		"id": 7,
+		"name": "Desktop Computer"
+	},
+	{
+		"id": 8,
+		"name": "Computer"
+	},
+	{
+		"id": 9,
+		"name": "Smart Watch"
+	},
+	{
+		"id": 10,
+		"name": "Digital Smart TV"
+	},
+	{
+		"id": 11,
+		"name": "Android 4K TV"
+	},
+	{
+		"id": 15,
+		"name": "Gadget"
+	},
+	{
+		"id": 16,
+		"name": "Phone and Tablet"
+	}
+]

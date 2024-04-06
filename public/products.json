@@ -1,0 +1,1311 @@
+[
+	{
+		"name": "LATITUDE 5430",
+		"category_id": 5,
+		"short_description": "DELL INTEL core i5 2.6Ghz Ram: 4 GB DDR3 Hard drive: 320 GB HDD Graphics card: Intel HD 4000, 64 MB dedicated memory Total graphic memory: 2 GB Operating system: windows Size: 14.1\"",
+		"original_price": 100000.0,
+		"description": "DELL Product name Dell Latitude E5430 -Core i5-3320M -8GB -320GB Category LAPTOP Reference e5430-i5 Product Information Usage Versatile & Multimedia General Operating system Microsoft Windows 7 Professional 64-bit edition Product type Laptop Display Type 14\" LCD backlight technology LED Backlight Resolution 1366 x 768 (HD) Features Anti-glare Widescreen Yes Image format 16:9 Storage Optical drive DVD±RW Main storage 320 GB HDD SATA 3Gb/s / 7200 rpm Memory RAM 4 GB (2 x 2 GB) Technology DDR3 SDRAM Speed 1600 MHz Max supported RAM 8 GB Number of slots 2 Free memory slots 0 Audio & video Graphics processor Intel HD Graphics 4000 Camera Yes Sound Stereo speakers, microphone Communications Wireless 802.11a/b/g/n, Bluetooth 4.0 Network interface Gigabit Ethernet Connections & expansion Memory card reader Yes Slots 1 x ExpressCard/54 (1 free) 2 x PCI Express Half Mini Card (2 free) 1 x PCI Express Mini Card (1 free) Interfaces USB 2.0 USB 3.0 USB 3.0/eSATA LAN HDMI VGA Dock Headphone/microphone combo jack Software Microsoft Office preloaded Includes a preloaded image of specific Microsoft Office 2010 suites. To activate preloaded software on this PC, you must purchase an Office 2010 access key or disk. Included software Dell Webcam Central Input Type Keyboard, Touchpad, DualPoint Features Multi-touch touchpad Keyboard backlight Yes Battery Technology 6-cell Lithium Ion Capacity 60 Wh Miscellaneous Security Fingerprint reader Dockable Yes Anti-theft/anti-intrusion Security lock slot (lock sold separately) Security slot type Kensington security lock Environmental standards ENERGY STAR Certified Yes Broadband wireless technology HSPA 3G generation Controller Dell Wireless 5560 Navigation A-GPS receiver Search attributes Optical storage|Type DVD burner Processor / Chipset Cache 3 MB Chipset Mobile Intel HM77 Express CPU Intel Core i5 (3rd generation) 3320M / 2.6 GHz Number of cores Dual core 64-bit technology Yes Maximum turbo speed 3.3 GHz"
+	},
+	{
+		"name": "Alienware 13 R2",
+		"category_id": 5,
+		"short_description": "Alienware Processor: Intel Core i5-6200U 2.3 GHz Ram: 16 GB DDR3 Hard drive: 1000 GB HDD Graphics card: NVIDIA GeForce GTX 960M, 2 GB dedicated memory Total graphic memory: 11 GB Operating system: windows Size: 13\"",
+		"original_price": 300000.0,
+		"description": "Screen display size ‎13 inches Maximum screen resolution ‎1920 x 1080 pixels Processor ‎2.3 up to 2.8GHz core_i5 RAM ‎16GB DDR3L Memory speed ‎2.3 GHz Hard drive ‎1000 GB hybrid hard drive + flash cache Graphics coprocessor ‎NVIDIA GeForce GTX 960M with 2 GB of GDDR5 Chipset brand ‎NVIDIA Card description ‎Dedicated Graphic RAM size ‎2 Wireless type ‎802.11ac Number of USB 3.0 ports ‎3 Other technical details Brand ‎Alienware Series ‎Alienware 13 R2 Item model number ‎AW13R2-1678SLV Operating system ‎Windows 10 Item weight ‎4.63 pounds Product dimensions ‎12.91 x 9.25 x 1.14 inches Item Dimensions LxWxH ‎12.91 x 9.25 x 1.14 inches Color ‎Epic Silver Processor brand ‎Intel Number of processors ‎2 Flash memory size ‎8 Hard drive rotation speed ‎5400 rpm Power source ‎Battery powered Batteries ‎1 Lithium-ion battery required. (included)"
+	},
+	{
+		"name": "Acer aspire v5-591G",
+		"category_id": 5,
+		"short_description": "Acer Processor: Intel Core i5-6700HQ Skylake (2.6 GHz, 4 cores) Ram: 8 GB DDR3 Hard drive: 750 GB SSD Graphics card: NVIDIA GeForce GTX 950M, 2 GB dedicated memory Total graphic memory: 6 GB",
+		"original_price": 320000.0,
+		"description": "The Acer Aspire V15 V5-591G is ideal for family use. This Acer laptop offers the power and versatility you need every day. Plus, its 15.6-inch screen with Full HD resolution offers a perfect balance between comfort and mobility. With its Intel Core i5-6700HQ processor, 8 GB of DDR4 memory and NVIDIA GeForce GTX 950M graphics chipset, the Acer Aspire V15 V5-591G-79EB laptop offers excellent performance and quality display. Plus, its 256GB SSD and 500GB HDD hard drive offers large storage capacity."
+	},
+	{
+		"name": "GIGABYTE P34",
+		"category_id": 5,
+		"short_description": "Processor: intel core i7 4700HQ Ram: 16 GB DDR3 Hard drive: 1000 GB SSD Graphics card: Nvidia Gforce GTX 760M, 2 GB dedicated memory Total graphic memory: 10 GB Operating system: windows 10 Pro Size: 14\"",
+		"original_price": 350000.0,
+		"description": "Intel Core i7-4700HQ (6M cache, 2.40 GHz), 14\" IPS LED Full HD (1920x1080) display, 16 GB DDR3L, 256 GB SSD + 750GB SATA HDD, Intel HD Graphics 4600 + NVIDIA GeForce GTX 760M 2 GB GDDR5, Gigabit Ethernet, WLAN 802.11 ac/b/g/n, Bluetooth 4.0, HD Webcam, Windows 8.1 64 bits"
+	},
+	{
+		"name": "Macbook Pro retina 2015",
+		"category_id": 5,
+		"short_description": "Apple Processor: Intel Core i7) 2.8 GHz RAM: 16 GB DDR3 Hard Drive: 512 GB SSD Graphics Card: AMD Radeon R9 M370X, 2 GB Dedicated Memory Total Graphics Memory: 10 GB Operating System: Mac Os Catalina Size: 15.4\"",
+		"original_price": 530000.0,
+		"description": "Retina Display: 15.4-inch (diagonal) LED-backlit display with IPS technology; 2880 x 1800 pixel resolution at 220 pixels per inch with support for millions of colors Native Resolution: 2880 x 1800 pixels (Retina); scaled resolutions: 1920 x 1200, 1680 x 1050, 1280 x 800 and 1024 x 640 pixels Processor 2.8 GHz quad-core Intel Core i7 2.8 GHz (Turbo Boost up to 3.6 GHz) Configurable with a quad-core Intel Core i7 Memory 16 GB of 1600 MHz DDR3L onboard memory Storage 2.2 GHz – 512 GB 512 GB of PCIe flash storage Configurable to 1TB of flash storage. Dimensions and Weight Height: 1.8 cm Width: 35.89 cm Depth: 24.71 cm Weight: 2.04 kg Supports full native resolution on the built-in display and up to 3840 x 2160 pixels on two external displays, in millions of colors Digital video output Thunderbolt Mini DisplayPort native output DVI, VGA, dual-link DVI, and HDMI outputs supported using Mini DisplayPort adapters (sold separately) Supports 5120 x 2880 resolution at 60 Hz on a single external display (model with HDMI video output Supports 1080p resolution up to 60 Hz Supports 3840 x 2160 resolution at 30 Hz Supports 4096 x 2160 resolution at 24 Hz Camera 720p FaceTime HD camera Connections and Expansion MagSafe 2 power port Two Thunderbolt 2 ports (up to 20 Gbps) Two USB 3 ports (up to 5 Gbps) HDMI port Headphone jack 3.5 mm SDXC card reader Thunderbolt to FireWire Apple adapter (sold separately) 2/4 Apple Thunderbolt to FireWire adapter (sold separately) Apple Thunderbolt to Gigabit Ethernet adapter (sold separately) Wireless Wi‑Fi Wi‑Fi 802.11ac connectivity; IEEE 802.11a/b/g/n compatible Bluetooth Wireless Bluetooth 4.0 technology Audio Stereo speakers Two microphones 3.5 mm headphone jack Supports Apple iPhone earphones with remote and mic Supports audio line out (digital/analog) Keyboard and Trackpad Full-size backlit keyboard with 78 (US) or 79 (ISO) keys, including 12 function keys, 4 arrow keys (inverted T arrangement) and ambient light sensor Force Touch trackpad for precise cursor control and pressure-sensing capabilities; enables Force clicks, accelerators, pressure-sensitive drawing, and Multi-Touch gestures Battery and Power 104 Cycle 99.5 W/h integrated lithium polymer battery 85W MagSafe 2 Power Adapter with cable management system; MagSafe 2 power port Power and Operating Conditions Voltage: 100 to 240 V AC Frequency: 50 to 60 Hz Operating temperature: 10 to 35 °C Storage temperature: -25 to 45 °C Relative humidity: 0 to 90% non-condensing Operating altitude: tested up to 3,000 m Maximum storage altitude: 4,500 m Maximum shipping altitude: 10,500 m Warranty 3 months"
+	},
+	{
+		"name": "iphone 6s+",
+		"category_id": 3,
+		"short_description": "APPLE iPhone 6 Plus Screen size: 5.5\" Sensor resolution: 8 megapixels Internal memory capacity: 128 GB Mobile broadband generation: 4G Protection: Oleophobic anti-fingerprint coating Operating System: iOS",
+		"original_price": 110000.0,
+		"description": "The Apple iPhone 6s Plus is a high-end smartphone with a 5.5-inch display. It runs iOS 9 and features a 2 GHz Apple A9 processor with 2 GB of RAM. It is equipped with a 12-megapixel rear camera and a 5-megapixel front camera. It offers an internal storage capacity of 16, 64, or 128 GB without the possibility of expansion via microSD card."
+	},
+	{
+		"name": "Acer Aspire V3-772G",
+		"category_id": 5,
+		"short_description": "Acer Processor: Intel ® Core ™ i5-4200M RAM: 16 GB DDR3 Hard Drive: 128 GB SSD + 500 GB Graphics Card: NVIDIA GeForce GT 750M, 4 GB Dedicated Memory Total Graphics Memory: 10 GB Operating System: Windows 10 Pro Size: 17.3\"",
+		"original_price": 300000.0,
+		"description": "Processor: Intel ® Core ™ i5-4200M (2.5 / 3.2 GHz) * Memory: 16 GB DDR3 * Display: 17.3\" Full HD 1920 x 1080 resolution * Graphics Card: NVIDIA GeForce GT 750M with 4 GB dedicated memory * Data Storage: 128GB SSD +500GB HDD * Card Reader: Secure Digital (SD), Multi-Media Card (MMC), Memory Stick (MS), Memory Stick PRO™ (MS PRO), xD-Picture Card™ (xD) * Optical Drive: 8X DVD-Super Multi dual-layer * Network Connection Options: WIFI: Wi-Fi 802.11b/g/n CERTIFIED™, LAN: Gigabit Ethernet, Wake-on-LAN compatible, Bluetooth 4.0 * Battery: 4-cell Li-ion 48 Wh 4400 mAh. Duration: 2.5 hours * Operating System: Windows 8"
+	},
+	{
+		"name": "Acer Aspire V Nitro VN7",
+		"category_id": 5,
+		"short_description": "Acer Processor: Intel Core i5 4210H 2.9 GHz RAM: 16 GB DDR3 Hard Drive: 500 GB HDD Graphics Card: NVIDIA GeForce GTX 860M, 2 GB Dedicated Memory Total Graphics Memory: 11 GB Operating System: Windows 10 Size: 17.3\"",
+		"original_price": 300000.0,
+		"description": "Acer Model number ‎Acer Aspire VN7-791G-576F black Color ‎Black Manufacturer's Warranty ‎Manufacturer's Warranty: 1 year(s) Operating System ‎Windows 10 Hardware Platform ‎Laptop Description of the keyboard ‎QWERTY (English keyboard) Processor Brand ‎Intel Processor Type ‎Core i5 Processor Speed ‎2.9 GHz Number of Cores ‎4 RAM Size ‎16 GB Hard Drive Size 500GB Hard Drive Technology ‎HDD Hard Drive Interface ‎SATA 2.5 Screen Type ‎Non-touch Screen Size ‎17 Inches Screen Resolution ‎1920 x 1080 pixels Resolution ‎1080p Full HD Graphics Chipset Brand ‎NVIDIA Graphics Card Description ‎NVIDIA GeForce GTX 860M GPU ‎NVIDIA GeForce GTX 860M Dedicated Graphics Memory Size ‎2 GB Connectivity Type ‎802.11a/g/n + BT Wireless Technology Type ‎802.11n, 802.11a, 802.11g Bluetooth ‎Yes Hardware Interface ‎HDMI Number of HDMI Ports ‎1 Number of USB 2.0 Ports ‎2 Number of USB 3.0 Ports ‎2 Number of Ethernet Ports ‎1 Average Battery Life (in hours) ‎4 hours Included Software ‎Webcam Item Dimensions L x W x H ‎42.3 x 29.3 x 2.5 centimeters Product Weight ‎3 Kilograms"
+	},
+	{
+		"name": "Asus X555UB",
+		"category_id": 5,
+		"short_description": "Asus Processor: Core i7 6500U 2.5 GHz RAM: 16 GB DDR3 Hard Drive: 480 GB SSD Graphics Card: NVIDIA GeForce 940M, 2 GB Dedicated Memory Total Graphics Memory: 6 GB Operating System: Windows 10 Pro Size:",
+		"original_price": 330000.0,
+		"description": "ASUS SPLENDID Video Intelligence Technology, anti-glare, ASUS EyeCare Technology, Resolution:1366 x 768 (HD), LCD Backlight Technology:LED backlight, Wide Screen:Yes, Aspect Ratio:16:9, Type:15.6\", Audio Features:ASUS SonicMaster, Altec Lansing speakers, ASUS AudioWizard, Resolution:VGA, Camera:Integrated Webcam, Graphics Processor:NVIDIA GeForce 940M - 2 GB DDR3 SDRAM, Sound:Stereo speakers, microphone, Battery Capacity:37 Wh, Technology:2-cell lithium-polymer, Wireless:Bluetooth 4.0, 802.11a/b/g/n/ac, Network Interface:Gigabit Ethernet, Card Reader:3 in 1 (SD card, SDHC card, SDXC card), Interfaces:Headphone/microphone combo jack ¦ 2 x USB 3.0 ¦ VGA ¦ USB 2.0 ¦ HDMI ¦ LAN, Width:38.2 cm, Height:2.58 cm, Weight:2.3 kg, Depth:25.6 cm, Included Accessories:Power adapter, Features:Security lock slot (cable sold separately), system password, secure hard drive access, ASUS IceCool design, Features:Integrated numeric keypad, multi-touch touchpad, ASUS Smart Gesture technology, Type:Keyboard, touchpad, Included Software:ASUS WebStorage 16 GB (1 year), Technology:DDR3L SDRAM, Speed:1600 MHz, Number of Slots:1, Maximum Supported RAM:12 GB, Empty Slots:0, RAM:16 GB (8 GB + 8 GB (soldered)), Number of Cores:Dual core, Features:Intel Turbo Boost Technology 2.0, CPU:Intel Core i7 (6th generation) 6500U / 2.5 GHz, Cache:4 MB, Maximum Turbo Speed:3.1 GHz, 64-bit Computing:Yes, Optical Drive:DVD±RW (±R DL) / DVD-RAM, Main Storage: 480GB SSD / 5400 rpm, Interface:SATA"
+	},
+{
+	"name": "Asus X556UQ-DM866T",
+	"category_id": 5,
+	"short_description": "Asus Processor: Intel core_i7 Intel Core i7 7500U Ram: 16 GB DDR4 Hard drive: 1000 GB SSD Graphics card: Nvidia geforce 940mx, 2 GB dedicated memory Total graphic memory: 6 GB Operating system: windows 10 Pro Size: 15.6\"",
+	"original_price": 330000.0,
+	"description": "ASUS Model number X556UQ-DM866T Color Dark Blue Operating system Windows 10 Keyboard description QWERTY Processor brand Intel Processor type Core i7 RAM size 8 MB Hard drive size 1000 GB Hard drive technology Hard drive+SSD Screen type HD Screen size 15.6 Inches Screen resolution 1366x768 Resolution 1366x768 Graphics chipset brand NVIDIA Graphics card description Nvidia geforce 940mx GPU NVIDIA GeForce Graphics card RAM size 2048 Graphics card RAM type DDR3 SDRAM Wireless technology type 802.11bgn Bluetooth Yes Computer hardware interface VGA, USB, HDMI Number of HDMI ports 1 Number of USB 2.0 ports 1 Number of USB 3.0 ports 1 Connector type Bluetooth Average battery life 7 hours Product dimensions LxWxH 38.2 x 25.8 x 2.5 centimeters Product weight 2.3 Kilograms"
+},
+{
+	"name": "Latitude E6420",
+	"category_id": 5,
+	"short_description": "Dell Processor: Intel Core i5-2520M - 2.50GHz Ram: 4 GB DDR3 Hard drive: 500 GB HDD Graphics card: intel HD 3000, 64 MB dedicated memory Total graphic memory: 2 GB Operating system: windows 10 Size: 14.1\"",
+	"original_price": 110000.0,
+	"description": "The Dell Latitude E6420 is a benchmark and a safe value in the professional notebook market. Almost entirely built in magnesium alloy, it has sturdy screen hinges and a rather successful and sober design. The overall impression is very good and this Latitude honors the series with a harmonious look while maintaining great solidity. The E6420 features a homogeneous configuration: i5 2520M, 4 GB of RAM, and a 500 GB hard drive. Responsive, this configuration allows performing a wide variety of tasks without any problem, making it a very versatile laptop. Also enjoy the smoothness and speed of Windows 10. Simple and easy to use, it is unanimously appreciated by users."
+},
+{
+	"name": "Huawei y9 2019",
+	"category_id": 3,
+	"short_description": "The Huawei Y9 2019 is a mid-range smartphone announced in January 2019. It features a 6.5-inch screen with Full HD+ resolution, a Kirin 710 SoC supported by 4GB of RAM and 128GB storage, and a dual 13+2 megapixel sensor.",
+	"original_price": 90000.0,
+	"description": "The Huawei Y9 2019 is a mid-range smartphone announced in January 2019. It is equipped with a 6.5-inch screen with Full HD+ resolution, a Kirin 710 SoC supported by 4 GB of RAM, and a dual 13+2 megapixel sensor."
+},
+{
+	"name": "LG V30",
+	"category_id": 3,
+	"short_description": "LG V30 Phone RAM: 4 GB/ROM: 64 GB FullVision QHD+ OLED 6.0\" screen Crystalline F1.6 lens Cine Video Mode Point Zoom Wide-angle cameras",
+	"original_price": 85000.0,
+	"description": "The LG V30 is a phone that features a 6-inch OLED Quad HD touchscreen (with a resolution of 2880 x 1440px), 4 GB of RAM, and 64 GB of storage space. The smartphone also has a 3300 mAh battery, a 2.45 HGz Octa-core Snapdragon processor, and the Android mobile operating system."
+},
+{
+	"name": "Huawei mate 20 lite",
+	"category_id": 3,
+	"short_description": "Huawei mate 20 lite 64GB ROM 6GB RAM 6.3 inches 24+2 MP/ 20+2 MP 3750 mAh Dual sim",
+	"original_price": 85000.0,
+	"description": "HUAWEI Mate 20 lite 6.3\" Full HD screen - Resolution: 2340 x 1080 - RAM 4 GB - Memory expansion: Micro SD up to 256 GB - Fingerprint reader - 2 Nano SIM - 4G+ - Wifi - Bluetooth 4.2 - USB Type-C - USB 2.0 - Rear camera: 20 + 2 Mp - Front camera: 24 + 2 Mp."
+},
+	{
+		"name": "Samsung Galaxy A40",
+		"category_id": 3,
+		"short_description": "Samsung Galaxy A40\n64GB ROM \n4GB RAM \n2 SIM\nFront Camera 5MP\nRear Camera 16MP\nBattery 3100 mAh...",
+		"original_price": 100000.0,
+		"description": "Samsung Galaxy A40 was released in 2019. It measures 144.4 x 69.2 x 7.9 mm and weighs 140 g. It has a 5.9\" Super AMOLED screen. The screen resolution is 1080 x 2340 with a pixel density of 437 ppi. A 25 MP single camera is responsible for selfies and video calls. The main Dual camera is 16 MP. The device incorporates an Octa-core processor (2x1.77 GHz Cortex-A73 & 6x1.59 GHz Cortex-A53) and has 64 GB of memory and 4 GB RAM. The battery is 3100 mAh. For more details, continue reading."
+	},
+	{
+		"name": "Huawei y7 prime",
+		"category_id": 3,
+		"short_description": "Huawei y7 prime\n64GB ROM\n3GB RAM \n5.5” Screen\nCamera 8/12 MP \nBattery 4000 mAh \nDual SIM",
+		"original_price": 60000.0,
+		"description": "ROM 64GB\nRAM 3GB \n5.5” Screen\nCamera 8/12 MP \nBattery 4000 mAh \nDual SIM"
+	},
+	{
+		"name": "LG Q6",
+		"category_id": 3,
+		"short_description": "LG Q6\nROM 32GB\nRAM 3GB \n5.5” Screen\nCamera 5/13 MP\nBattery 2900 mAh",
+		"original_price": 55000.0,
+		"description": "ROM 32GB\nRAM 3GB \n5.5” Screen\nCamera 5/13 MP\nBattery 2900 mAh"
+	},
+	{
+		"name": "Macbook Pro retina 2015 A1398 with 1TB",
+		"category_id": 6,
+		"short_description": "Macbook Pro retina 2015 Intel i7 2.5 GHz / 16GB RAM DDR3 / 1TB SSD / 15.4\" UHD/ AMD RADEON 2GB dedicated graphics - / MacOS Big Sur",
+		"original_price": 500000.0,
+		"description": "Retina Display: 15.4-inch (diagonal) LED-backlit display with IPS technology; resolution of 2880 x 1800 pixels at 220 pixels per inch with support for millions of colors Native Resolution: 2880 x 1800 pixels (Retina); scaled resolutions: 1920 x 1200, 1680 x 1050, 1280 x 800, and 1024 x 640 pixels Processor 2.2 GHz quad-core Intel Core i7 to 2.8 GHz (Turbo Boost up to 3.2 GHz) Configurable with a quad-core Intel Core i7 Memory 16 GB of DDR3L memory at 1600 MHz integrated Storage 2.5 GHz –512 GB 1 TB of PCIe flash storage Configurable to 512 GB and 1 TB of flash storage. Dimensions and Weight Height: 1.8 cm Width: 35.89 cm Depth: 24.71 cm Weight: 2.04 kg Extended Desktop and Video Mirroring modes: simultaneous support of full native resolution on the built-in display and up to 3840 x 2160 pixels on two external monitors, in millions of colors Digital Thunderbolt video output Native Mini DisplayPort output DVI, VGA, dual-link DVI, and HDMI outputs supported with Mini DisplayPort adapters (sold separately) Supports 5120 x 2880 resolution at 60 Hz on a single external monitor (model with HDMI video output Supports 1080p resolution up to 60 Hz Supports 3840 x 2160 resolution at 30 Hz Supports 4096 x 2160 resolution at 24 Hz Camera 720p FaceTime HD camera Connections and Expansion MagSafe 2 power port Two Thunderbolt 2 ports (up to 20 Gbps) Two USB 3 ports (up to 5 Gbps) HDMI port 3.5 mm headphone jack SDXC card reader Apple Thunderbolt to FireWire adapter (sold separately) 2/4 Apple Thunderbolt to FireWire adapter (sold separately) Apple Thunderbolt to Gigabit Ethernet adapter (sold separately) Wireless Wi‑Fi Connectivity Wi‑Fi 802.11ac; compatible IEEE 802.11a/b/g/n Bluetooth Wireless Bluetooth 4.0 technology Audio Stereo speakers Two microphones 3.5 mm headphone jack Supports Apple iPhone earphones with remote and mic Supports audio line out (digital/analog) Keyboard and Trackpad Full-size backlit keyboard with 78 keys (US) or 79 keys (ISO), with 12 function keys, 4 arrow keys (inverted T layout) and ambient light sensor Force Touch trackpad for precise cursor control and pressure-sensing capabilities; Force click, accelerators, pressure-sensitive drawing, and Multi-Touch gestures Battery and Power 104 Cycle 99.5 W/h integrated lithium polymer battery 85W MagSafe 2 Power Adapter with cable management system; MagSafe 2 power port Power and Ambient Conditions Voltage: 100 to 240 V AC Frequency: 50 to 60 Hz Operating temperature: 10 to 35 °C Storage temperature: -25 to 45 °C Relative humidity: 0 to 90% non-condensing Operating altitude: tested up to 3,000 m Maximum storage altitude: 4,500 m Maximum shipping altitude: 10,500 m Warranty 3 months"
+	},
+	{
+		"name": "Huawei Watch GT 2e",
+		"category_id": 9,
+		"short_description": "HUAWEI WATCH GT 2e Smartwatch, 1.39 Inches AMOLED HD Touch Screen, 2 Weeks Battery Life, GPS & GLONASS, Custom Training Modes, VO2Max, Heart Rate Monitoring,",
+		"original_price": 120000.0,
+		"description": "The Huawei Watch GT 2e will allow you to be on time for all your appointments,\nbut also to track your daily routine and improve your exercise and health habits.\n\nIn this way, Huawei offers a smartwatch with ultra-long battery life,\n100 training modes, and automatic detection of sports routines.\nShipping Weight: 0.35 kg"
+	},
+	{
+		"name": "Samsung galaxy s5",
+		"category_id": 3,
+		"short_description": "Samsung galaxy s5\nROM 16GB\nRAM 2GB\nScreen 5.1”\nCamera 5/16 MP\nBattery 2800 mAh",
+		"original_price": 35000.0,
+		"description": "Samsung Galaxy S5 was released in 2014. It measures 142 x 72.5 x 8.1 mm and weighs 145 g. It has a 5.1\" Super AMOLED screen. The screen resolution is 1080 x 1920 with a pixel density of 432 ppi. A 2 MP single camera is responsible for selfies and video calls. The main Single camera is 16 MP. The device incorporates a Quad-core 2.5 GHz Krait 400 processor and has 16GB of memory and 2 GB RAM. The battery is 2800 mAh. For more details, continue reading."
+	},
+	{
+		"name": "LG 55UN73",
+		"category_id": 2,
+		"short_description": "Screen with true 4K resolution\nwebOS 5.0 and AI ThinQ with Magic Remote\nLG Channels, Netflix, Apple TV+, Disney+\nHDR enabled, Filmmaker mode, Bluetooth sound sync\nBuilt-in Google Assistant and Alexa, Apple Airplay 2 / Homekit",
+		"original_price": 340000.0,
+		"description": "Brand LG\nCompatible with Apple AirPlay\nCompatible with Apple Homekit\nCompatible with Google Assistant\nDimensions (with stand) 9.1 in x 30.9 in x 49 in\nDimensions (without stand) 3.4 in x 28.6 in x 49 in\nDisplay Type Direct LED-LCD\nHigh Dynamic Range (HDR) HDR10\nHigh Dynamic Range (HDR) HLG\nInputs - HDMI 1 HDMI 2.0\nInputs - HDMI 2 HDMI 2.0\nInputs - HDMI 3 HDMI 2.0\nModel 55UN7300AUD.AUS\nMotion Technology TruMotion 120\nNative Refresh Rate 60 Hz\nNumber of Digital Optical Audio Inputs 1\nNumber of HDMI Inputs 3\nNumber of USB Ports 2\nResolution 3840 x 2160\nScreen Size Class 55 inches\nScreen Type Flat\nSmart TV Platform webOS\nSpeaker Output 20 W\nVESA Mounting Standard 300x300\nWarranty Coverage 2 years\nWeight - with stand 32 pounds\nWeight - without stand 31.5 pounds\nWireless Standard 802.11ac"
+	},
+	{
+		"name": "LG 55UN73",
+		"category_id": 11,
+		"short_description": "Screen with true 4K resolution\nwebOS 5.0 and AI ThinQ with Magic Remote\nLG Channels, Netflix, Apple TV+, Disney+\nHDR enabled, Filmmaker mode, Bluetooth sound sync\nBuilt-in Google Assistant and Alexa, Apple Airplay 2 / Homekit",
+		"original_price": 340000.0,
+		"description": "Brand LG\nCompatible with Apple AirPlay\nCompatible with Apple Homekit\nCompatible with Google Assistant\nDimensions (with stand) 9.1 in x 30.9 in x 49 in\nDimensions (without stand) 3.4 in x 28.6 in x 49 in\nDisplay Type Direct LED-LCD\nHigh Dynamic Range (HDR) HDR10\nHigh Dynamic Range (HDR) HLG\nInputs - HDMI 1 HDMI 2.0\nInputs - HDMI 2 HDMI 2.0\nInputs - HDMI 3 HDMI 2.0\nModel 55UN7300AUD.AUS\nMotion Technology TruMotion 120\nNative Refresh Rate 60 Hz\nNumber of Digital Optical Audio Inputs 1\nNumber of HDMI Inputs 3\nNumber of USB Ports 2\nResolution 3840 x 2160\nScreen Size Class 55 inches\nScreen Type Flat\nSmart TV Platform webOS\nSpeaker Output 20 W\nVESA Mounting Standard 300x300\nWarranty Coverage 2 years\nWeight - with stand 32 pounds\nWeight - without stand 31.5 pounds\nWireless Standard 802.11ac"
+	},
+	{
+		"name": "Dell Latitude 6420",
+		"category_id": 6,
+		"short_description": "Dell Latitude E6420 Intel i5 2.6 GHz / 4GB RAM DDR3 / 320GB HDD / 14\" HD/ Intel HD 4000 - / Windows 10",
+		"original_price": 100000.0,
+		"description": "DELL Product name Dell Latitude E5430 -Core i5-3320M -8GB -320GB Category LAPTOP Reference e5430-i5 Information on the product Usage Versatile & Multimedia General Operating system Microsoft Windows 7 Professional 64-bit Edition Type of product Laptop Display Type 14\" LCD Backlight Technology LED backlight Resolution 1366 x 768 (HD) Features Anti-glare Widescreen Yes Image Aspect Ratio 16:9 Storage Optical drive DVD±RW Main storage 320 GB HDD SATA 3Gb/s / 7200 rpm Memory RAM 4 GB (2 x 2 GB) Technology DDR3 SDRAM Speed 1600 MHz Max Supported RAM 8 GB Number of slots 2 Free Memory Slots 0 Audio & Video Graphics Processor Intel HD Graphics 4000 Camera Yes Sound Stereo speakers, microphone Communications Wireless 802.11a/b/g/n, Bluetooth 4.0 Network Interface Gigabit Ethernet Connections & Expansion Card Reader Yes Slots 1 x ExpressCard/54 (1 free) 2 x PCI Express Half Mini Card (2 free) 1 x PCI Express Mini Card (1 free) Interfaces USB 2.0 USB 3.0 USB 3.0/eSATA LAN HDMI VGA Dock Headphone/microphone combo jack Software Microsoft Office preloaded Includes a preloaded image of specific Microsoft Office 2010 suites. To activate the preloaded software on this PC, you must purchase an Office 2010 access key or disk. Software Included Dell Webcam Central Input Type Keyboard, Touchpad, DualPoint Features Multi-touch touchpad Keyboard Backlight Yes Battery Technology 6-cell Lithium Ion Capacity 60 Wh Miscellaneous Security Fingerprint reader Dockable Yes Theft/Intrusion Protection Security lock slot (security lock sold separately) Type of security slot Kensington security lock Dimensions and weight Weight 2.04 kg Dimensions (WxDxH) 35 cm x 24 cm x 3.25 cm Environmental Standards Certified ENERGY STAR Yes Wireless Broadband Technology HSPA 3G Generation Controller Dell Wireless 5560 Navigation GPS Receiver Attributes of research Optical storage|Type of drive DVD Burner Processor / Chipset Cache 3 MB Chipset Mobile Intel HM77 Express CPU Intel Core i5 (3rd generation) 3320M / 2.6 GHz Number of cores Dual core 64-bit Computing Yes Maximum speed in turbo mode 3.3 GHz"
+	},
+	{
+		"name": "Acer Aspire V3-772G",
+		"category_id": 6,
+		"short_description": "Acer Aspire V3 Intel i7 2.9 GHz 4210M / 16GB RAM DDR3 / 128GB SSD + 500GB HDD / 17.3\" HD/ NVIDIA GeForce GT 750M, 4GB dedicated - / Windows 10",
+		"original_price": 350000.0,
+		"description": "Processor: Intel ® Core ™ i7-4210M (2.9 / 3.2 GHz) * Memory: 16 GB DDR3 * Display: 17.3\" Full HD resolution 1920 x 1080 * Graphics Card: NVIDIA GeForce GT 750M with 4 GB dedicated memory * Data Storage: 128GB SSD +500GB HDD hard drive * Card Reader: Secure Digital (SD), Multi-Media Card (MMC), Memory Stick (MS), Memory Stick PRO™ (MS PRO), xD-Picture Card™ (xD) * Optical Drive: 8X DVD-Super Multi dual-layer * Network Connection Options: WIFI: Wi-Fi 802.11b/g/n CERTIFIED™, LAN: Gigabit Ethernet, Wake-on-LAN compatible, Bluetooth 4.0 * Battery: 4-cell Li-ion 48 Wh 4400 mAh. Duration: 2.5 hours * Operating System: Windows 8"
+	},
+	{
+		"name": "Asus X556UQ-DM866T",
+		"category_id": 6,
+		"short_description": "Asus X556UQ Intel i7 7500U 2.70 GHz / 16 GB RAM DDR4 / 128 GB SSD + 1 TB HDD / 15.6\" HD/ Nvidia GeForce 940mx, 2 GB dedicated / Windows 10",
+		"original_price": 330000.0,
+		"description": "ASUS Model number X556UQ-DM866T Color Dark Blue Operating system Windows 10 Keyboard description QWERTY Processor brand Intel Processor type Core i7 RAM size 8 MB Hard drive size 1000 GB Hard drive technology Hard drive+SSD Screen type HD Screen size 15.6 Inches Screen resolution 1366x768 Resolution 1366x768 Graphics chipset brand NVIDIA Graphics card description Nvidia GeForce 940mx GPU NVIDIA GeForce Graphics card RAM size 2048 Graphics card RAM type DDR3 SDRAM Wireless technology type 802.11bgn Bluetooth Yes Computer hardware interface VGA, USB, HDMI Number of HDMI ports 1 Number of USB 2.0 ports 1 Number of USB 3.0 ports 1 Connector type Bluetooth Average battery life 7 hours Product dimensions LxWxH 38.2 x 25.8 x 2.5 centimeters Product weight 2.3 Kilograms"
+	},
+	{
+		"name": "Asus X555UB",
+		"category_id": 6,
+		"short_description": "Asus X555UB Intel i7 6500U 2.50 GHz / 16 GB RAM DDR4 / 500 GB SSD / 15.6\" HD/ Nvidia GeForce 940m, 2 GB dedicated / Windows 10",
+		"original_price": 330000.0,
+		"description": "ASUS SPLENDID Video Intelligence Technology, anti-glare, ASUS EyeCare Technology, Resolution: 1366 x 768 (HD), LCD backlight technology: LED Backlight, Widescreen: Yes, Aspect ratio: 16:9, Type: 15.6\", Audio features: ASUS SonicMaster, Altec Lansing speakers, ASUS AudioWizard, Resolution: VGA, Camera: Integrated webcam, Graphics processor: NVIDIA GeForce 940M - 2 GB DDR3 SDRAM, Sound: Stereo speakers, microphone, Battery Capacity: 37 Wh, Technology: 2-cell lithium polymer, Wireless: Bluetooth 4.0, 802.11a/b/g/n/ac, Network interface: Gigabit Ethernet, Memory card reader: 3-in-1 (SD, SDHC, SDXC), Interfaces: Headphone/microphone combo jack, 2 x USB 3.0, VGA, USB 2.0, HDMI, LAN, Width: 38.2 cm, Height: 2.58 cm, Weight: 2.3 kg, Depth: 25.6 cm, Included accessories: Power adapter, Features: Security lock slot (cable sold separately), system password, secure hard drive access, ASUS IceCool design, Features: Integrated numeric keypad, multi-touch touchpad, ASUS Smart Gesture technology, Type: Keyboard, touchpad, Included software: ASUS WebStorage 16 GB (1 year), Technology: DDR3L SDRAM, Speed: 1600 MHz, Number of slots: 1, Max supported RAM: 12 GB, Empty slots: 0, RAM: 16 GB (8 GB + 8 GB (soldered)), Number of cores: Dual core, Features: Intel Turbo Boost Technology 2.0, CPU: Intel Core i7 (6th generation) 6500U / 2.5 GHz, Cache: 4 MB, Max turbo speed: 3.1 GHz, 64-bit technology: Yes, Optical drive: DVD±RW (±R DL) / DVD-RAM, Main storage: 480 GB SSD / 5400 rpm, Interface: SATA"
+	},
+	{
+		"name": "Acer Aspire V Nitro VN7",
+		"category_id": 6,
+		"short_description": "Acer Aspire V17 Nitro Intel i5 4210H 2.90 GHz / 16 GB RAM DDR4 / 500 GB / 17.3\" HD/ NVIDIA GeForce GTX 860M, 2 GB dedicated / Windows 10",
+		"original_price": 300000.0,
+		"description": "Acer Model number Acer Aspire VN7-791G-576F black Color Black Manufacturer's warranty 1 year(s) Operating system Windows 10 Hardware platform PC Laptop Keyboard description QWERTY (English keyboard) Processor brand Intel Processor type Core i5 Processor speed 2.9 GHz Number of cores 4 RAM size 16 GB Hard drive size 500 GB Hard drive technology HDD Hard drive interface SATA 2.5 Screen type Non-touch Screen size 17 Inches Screen resolution 1920 x 1080 pixels Resolution 1080p Full HD Graphics chipset brand NVIDIA Graphics card description NVIDIA GeForce GTX 860M GPU NVIDIA GeForce GTX 860M Graphics card RAM size 2 GB dedicated Connectivity type 802.11a/g/n + BT Wireless technology type 802.11n, 802.11a, 802.11g Bluetooth Yes Computer hardware interface HDMI Number of HDMI ports 1 Number of USB 2.0 ports 2 Number of USB 3.0 ports 2 Number of Ethernet ports 1 Average battery life 4 hours Included software Webcam Product dimensions LxWxH 42.3 x 29.3 x 2.5 centimeters Product weight 3 Kilograms"
+	},
+	{
+		"name": "Macbook Pro retina 2013",
+		"category_id": 6,
+		"short_description": "Macbook Pro retina 2013 Intel i5 2.90 GHz / 8 GB RAM / 256 GB SSD / 13\" HD/ Intel Iris, 1.5 GB dedicated / MacOS Big Sur",
+		"original_price": 300000.0,
+		"description": "Apple Processor: Intel Core i5 ) 2.90 GHz Ram: 8 GB DDR3 Hard drive: 256 GB SSD Graphics card: 1536 MB Operating system: MacOS Big Sur Size: 13\""
+	},
+	{
+		"name": "GIGABYTE P34",
+		"category_id": 6,
+		"short_description": "GIGABYTE P34 Intel i7 4700HQ 2.40 GHz / 16 GB RAM / 128 GB SSD + 1 TB HDD / 14\" HD/ Nvidia GeForce GTX 760M 2 GB dedicated / Windows 10 Pro",
+		"original_price": 350000.0,
+		"description": "Intel Core i7-4700HQ (6M cache, 2.40 GHz), LED IPS 14\" Full HD (1920x1080), 16 GB DDR3L, 256 GB SSD + 750 GB SATA HDD, Intel HD Graphics 4600 + NVIDIA GeForce GTX 760M 2 GB GDDR5, Gigabit Ethernet, WLAN 802.11 ac/b/g/n, Bluetooth 4.0, HD Webcam, Windows 8.1 64-bit"
+	},
+	{
+		"name": "Acer Aspire V5-591G",
+		"category_id": 6,
+		"short_description": "Acer Processor: Intel Core i5-6700HQ Skylake (2.6 GHz, 4 cores) Ram: 8 GB DDR3 Hard drive: 256 GB SSD + 500 GB HDD Graphics card: NVIDIA GeForce GTX 950M, 2 GB dedicated memory Total graphic memory: 6 GB",
+		"original_price": 320000.0,
+		"description": "The Acer Aspire V15 V5-591G is ideal for family use. This Acer laptop offers the power and versatility you need on a daily basis. Furthermore, its 15.6-inch screen with Full HD resolution provides a perfect balance between comfort and mobility. With its Intel Core i5-6700HQ processor, 8 GB of DDR4 memory, and NVIDIA GeForce GTX 950M graphics chipset, the Acer Aspire V15 V5-591G-79EB laptop offers excellent performance and quality display. Moreover, its 256 GB SSD and 500 GB HDD provide ample storage capacity."
+	},
+	{
+		"name": "Alienware 13 R2",
+		"category_id": 6,
+		"short_description": "Alienware 13 R2 Intel i5 6200U 2.30 GHz / 16 GB RAM / 1 TB HDD / 13.3\" HD/ Nvidia GeForce GTX 960M 2 GB dedicated / Windows 10 Pro",
+		"original_price": 300000.0,
+		"description": "Screen size 13 inches Maximum screen resolution 1920 x 1080 pixels Processor 2.3 up to 2.8 GHz core_i5 RAM 16 GB DDR3L Memory speed 2.3 GHz Hard drive 1000 GB hybrid hard drive + flash cache Graphics coprocessor NVIDIA GeForce GTX 960M with 2 GB of GDDR5 Chipset brand NVIDIA Graphics card description Dedicated Graphic RAM size 2 Wireless type 802.11ac Number of USB 3.0 ports 3 Other technical details Brand Alienware Series Alienware 13 R2 Item model number AW13R2-1678SLV Operating system Windows 10 Item weight 4.63 pounds Product dimensions 12.91 x 9.25 x 1.14 inches Item Dimensions LxWxH 12.91 x 9.25 x 1.14 inches Color Epic Silver Processor brand Intel Number of processors 2 Flash memory size 8 Hard drive rotation speed 5400 rpm Power source Battery powered Batteries 1 Lithium-ion battery required. (included)"
+	},
+	{
+		"name": "LATITUDE 5420 i3",
+		"category_id": 6,
+		"short_description": "LATITUDE 5420 i3 Intel i3 2.60 GHz / 4 GB RAM / 320 GB HDD / 14\" HD/ intel HD 4000 / windows 10 Pro",
+		"original_price": 90000.0,
+		"description": "LAPTOP Reference e5430-i3 Product Information Usage Versatile & Multimedia General Operating System Microsoft Windows 7 Professional Edition 64-bit Type of Product Laptop Display Type 14\" LCD Backlight Technology LED Backlight Resolution 1366 x 768 (HD) Features Anti-glare Widescreen Yes Image Aspect Ratio 16:9 Storage Optical Drive DVD±RW Main Storage 250 GB HDD SATA 3Gb/s / 7200 rpm Memory RAM 4 GB (2 x 2 GB) Technology DDR3 SDRAM Speed 1600 MHz Max Supported RAM 8 GB Number of Slots 2 Free Memory Slots 0 Audio & Video Graphics Processor Intel HD Graphics 4000 Camera Yes Sound Stereo speakers, microphone Communications Wireless 802.11a/b/g/n, Bluetooth 4.0 Network Interface Gigabit Ethernet Connections & Expansion Card Reader Yes Slots 1 x ExpressCard/54 (1 free) 2 x PCI Express Half Mini Card (2 free) 1 x PCI Express Mini Card (1 free) Interfaces USB 2.0 USB 3.0 USB 3.0/eSATA LAN HDMI VGA Dock Headphone/microphone combo jack Software Microsoft Office preloaded Includes a preloaded image of specific Microsoft Office 2010 suites. To activate the preloaded software on this PC, you must purchase an Office 2010 access key or disk. Software Included Dell Webcam Central Input Type Keyboard, Touchpad, DualPoint Features Multi-touch touchpad Keyboard Backlight Yes Battery Technology 6-cell Lithium Ion Capacity 60 Wh Miscellaneous Security Fingerprint reader Dockable Yes Theft/Intrusion Protection Security lock slot (security lock sold separately) Type of security slot Kensington security lock Dimensions and weight Weight 2.04 kg Dimensions (WxDxH) 35 cm x 24 cm x 3.25 cm Environmental Standards Certified ENERGY STAR Yes Wireless Broadband Technology HSPA 3G Generation Controller Dell Wireless 5560 Navigation GPS Receiver Attributes of research Optical storage|Type of drive DVD Burner Processor / Chipset Cache 3 MB Chipset Mobile Intel HM77 Express CPU Intel Core i3 (3rd generation) 3320M / 2.6 GHz Number of cores Dual core 64-bit Computing Yes Maximum speed in turbo mode 3.3 GHz"
+	},
+	{
+		"name": "Huawei Watch GT 2e",
+		"category_id": 15,
+		"short_description": "HUAWEI WATCH GT 2e Smartwatch, 1.39 Inches AMOLED HD Touch Screen, 2 Weeks Battery Life, GPS & GLONASS, Custom Training Modes, VO2Max, Heart Rate Monitoring",
+		"original_price": 130000.0,
+		"description": "The Huawei Watch GT 2e will help you to be on time for all your appointments, but also to track your daily routine and improve your exercise and health habits. Thus, Huawei offers a smartwatch with ultra-long battery life, 100 training modes, and automatic detection of sports routines. Shipping Weight: 0.35 kg"
+	},
+	{
+		"name": "SAMSUNG S4",
+		"category_id": 3,
+		"short_description": "Samsung Galaxy S4 (I9500) - Unlocked Android Smartphone (13 MP, 16 GB, 2 GB RAM,), (Imported)-Blue",
+		"original_price": 32000.0,
+		"description": "Samsung Galaxy S4 (I9500) - Unlocked Android Smartphone (13 MP, 16 GB, 2 GB RAM,), (Imported)-Blue\n\nThe Samsung Galaxy S4 is the fourth installment of the Galaxy S series, this time with a 4.99 inches Full HD 441ppi Super AMOLED screen, a 13-megapixel rear camera, 2-megapixel front camera, 2 GB of RAM, Exynos 5 Octa 3G processor or Snapdragon 600 for the LTE version, Android 4.2.2 Jelly Bean, 16 GB of internal storage, a microSD slot, and various applications such as Smart Stay, Smart Scroll, S Health, S Voice and many improvements"
+	},
+	{
+		"name": "SAMSUNG S6",
+		"category_id": 3,
+		"short_description": "Samsung Galaxy S6 Unlocked Smartphone (Screen: 5.1 inches - 32 GB) White",
+		"original_price": 60000.0,
+		"description": "Screen: Capacitive AMOLED touchscreen, 16M colors - 5.1\" (screen-to-body ratio ~ 70.7%) - 1440 x 2560 pixels (density ~ 577 ppi pixels)\nProcessor: Quad-core 1.5 GHz Cortex-A53 and Quad-core 2.1 - Exynos 7420\nOS: Android, v5.0.2 (Lollipop)\nPrimary Camera: 16 MP, 2988 x 5312 pixels, optical image stabilization, autofocus, LED flash - Secondary Camera: 5 MP, 1080p at 30 frames per second, dual video call, auto HDR"
+	},
+	{
+		"name": "Samsung Galaxy S6 Edge",
+		"category_id": 3,
+		"short_description": "Samsung Galaxy S6 Edge Unlocked 4G Smartphone (32 GB - Screen: 5.1 inches - Single SIM - Android 5.0 Lollipop) Black",
+		"original_price": 65000.0,
+		"description": "Brand\tSamsung\nColor\tBlack\nProduct Type\tBar\nOperating System\tAndroid 5.1\nScreen\t5.7 Inches\nConnections\tUSB H+\nEffective Still Resolution\t16 Pixels\nSpecial Features\tLarge 5.7\" curved edge screen\nBattery Type\tLithium-ion"
+	},
+	{
+		"name": "SAMSUNG NOTE 4",
+		"category_id": 3,
+		"short_description": "Samsung Galaxy Note 4 Unlocked 4G Smartphone (Screen 5.7 inches - 32 GB",
+		"original_price": 50000.0,
+		"description": "Diagonal size: 5.7\"\nSensor resolution: 16 megapixels\nBattery capacity: 3220 mAh\nInternal memory capacity: 32 GB\nQuad-core\nRAM: 3 GB\nMobile broadband generation: 4G\nOperating System: Android"
+	},
+	{
+		"name": "huawei y7 prime",
+		"category_id": 3,
+		"short_description": "Huawei y7 prime\nROM 32GB\nRAM 3GB \n5.5” Screen\nCamera 8/12 MP \nBattery 4000 mAh \nDual SIM",
+		"original_price": 60000.0,
+		"description": "Huawei Y7 Prime images\nHuawei Y7 Prime was released in 2017. It measures 153.6 x 76.4 x 8.4 mm and weighs 165 g. It has a 5.5\" IPS LCD screen. The screen resolution is 720 x 1280 and the pixel density is 267 ppi. An 8 MP single camera is responsible for selfies and video calls. The main single camera is 12 MP. The device incorporates an Octa-core 1.4 GHz Cortex-A53 processor and has 32 GB memory, 3 GB RAM. The battery is 4000 mAh. For more details, continue reading."
+	},
+	{
+		"name": "huawei y7 prime",
+		"category_id": 3,
+		"short_description": "Huawei y7 prime\nROM 64GB\nRAM 3GB \n5.5” Screen\nCamera 8/12 MP \nBattery 4000 mAh \nDual SIM",
+		"original_price": 65000.0,
+		"description": "Huawei Y7 Prime images\nHuawei Y7 Prime was released in 2017. It measures 153.6 x 76.4 x 8.4 mm and weighs 165 g. It has a 5.5\" IPS LCD screen. The screen resolution is 720 x 1280 and the pixel density is 267 ppi. An 8 MP single camera is responsible for selfies and video calls. The main single camera is 12 MP. The device incorporates an Octa-core 1.4 GHz Cortex-A53 processor and has 64GB memory, 3 GB RAM. The battery is 4000 mAh. For more details, continue reading."
+	},
+	{
+		"name": "huawei G8",
+		"category_id": 3,
+		"short_description": "Huawei G8\nROM 32GB\nRAM 3GB \n5.5” Screen\nCamera 5/13 MP\nBattery 3000 mAh\nDual SIM",
+		"original_price": 50000.0,
+		"description": "The Huawei G8 is a mid-range smartphone with a 5.5-inch format. It runs Android 5.1 Lollipop and features a 1.7 GHz Snapdragon 615 processor assisted by 3 GB of RAM. It is equipped with a 13-megapixel rear camera and a 5-megapixel front camera. It offers 32 GB of internal storage capacity expandable via a microSD card."
+	},
+	{
+		"name": "Huawei Y6 (2019)",
+		"category_id": 3,
+		"short_description": "Huawei Y6 2019\nROM 64GB \nRAM 4GB\n6.09” Screen\nCamera 8/16 MP \nBattery 3020 mAh\nDual SIM",
+		"original_price": 70000.0,
+		"description": "Huawei Y6 (2019) images\nHuawei Y6 (2019) was released in 2019. It measures 156.3 x 73.5 x 8 mm and weighs 150 g. It has a 6.09\" IPS LCD screen. The screen resolution is 720 x 1560 and the pixel density is 282 ppi. An 8 MP single camera is responsible for selfies and video calls. The main single camera is 13 MP. The device incorporates a Quad-core 2.0 GHz Cortex-A53 processor and has 64 GB memory, 4 GB RAM. The battery is 3020 mAh."
+	},
+	{
+		"name" : "LATITUDE 5420 i3",
+		"category_id" : 6,
+		"short_description" : "LATITUDE 5420 i3 Intel i3  2.60 GHz  \/ 4 Go RAM \/  320 Go HDD \/ 14\" HD\/ intel HD 4000  \/  windows 10 Pro\n",
+		"original_price" : 90000.0,
+		"description" : " ORDINATEUR PORTABLE Référence e5430-i3 Informations sur le produit Usage Polyvalent & Multimédia Général Système d'exploitation Microsoft Windows 7 Professionnel Edition 64 bits Type de produit Ordinateur portable Affichage Type 14\" Technologie de rétroéclairage LCD Rétroéclairage par LED Résolution 1366 x 768 (HD) Fonctions Anti-éblouissement Grand écran Oui Format de l'image 16:9 Stockage Lecteur optique DVD±RW Stockage principal 250 Go HDD SATA 3Gb\/s \/ 7200 tours\/min Mémoire RAM 4 Go (2 x 2 Go) Technologie DDR3 SDRAM Vitesse 1600 MHz RAM max prise en charge 8 Go Nombre d'emplacements 2 Emplacements mémoire libre 0 Audio & vidéo Processeur graphique Intel HD Graphics 4000 Caméra Oui Son Haut-parleurs stéréo, microphone Communications Sans fil 802.11a\/b\/g\/n, Bluetooth 4.0 Interface réseau Gigabit Ethernet Connexions & extension Lecteur de carte mémoire Oui Emplacements 1 x ExpressCard\/54 (1 gratuit) 2 x PCI Express Half Mini Card (2 gratuit) 1 x PCI Express Mini Card (1 gratuit) Interfaces USB 2.0 USB 3.0 USB 3.0\/eSATA LAN HDMI VGA Socle Prise combo casque\/microphone Logiciels Microsoft Office préchargé Inclut une image préchargée de suites Microsoft Office 2010 spécifiques. Pour activer le logiciel préchargé sur ce PC, vous devez acheter une clé d'accès ou un disque Office 2010. Logiciel(s) inclus Dell Webcam Central Entrée Type Clavier, Pavé tactile, DualPoint Caractéristiques Pavé tactile multi-touches Rétroéclairage du clavier Oui Batterie Technologie 6 cellules Lithium Ion Capacité 60 Wh Divers Sécurité Lecteur d'empreintes digitales Ancrable Oui Protection antivol\/anti-intrusion Fente de verrouillage de sécurité (câble de verrouillage vendu séparément) Type de logement de sécurité Serrure de sécurité Kensington Dimensions et poids Poids 2.04 kg Dimensions (LxPxH) 35 cm x 24 cm x 3.25 cm Normes environnementales Certifié ENERGY STAR Oui Transmission à large bande sans fil Technologie HSPA Génération 3G Contrôleur Dell Wireless 5560 Navigation Récepteur A-GPS Attributs de recherche Stockage optique|Type de lecteur Graveur de DVD Processeur \/ Chipset Cache 3 Mo Chipset Mobile Intel HM77 Express CPU Intel Core i3 (3ème génération) 3320M \/ 2.6 GHz Nombre de coeurs Double coeur Technologie 64 bits Oui Vitesse maximale en mode Turbo 3.3 GHz"
+	},
+	{
+		"name" : "La Huawei Watch GT 2e",
+		"category_id" : 15,
+		"short_description" : "HUAWEI WATCH GT 2e Montre Connectée, Ecran Tactile AMOLED HD de 1.39 Pouces, Autonomie de 2 Semaines, GPS & GLONASS, Modes D'entrainement Personnalisés, VO2Max, Surveillance du Rythme Cardiaque,",
+		"original_price" : 130000.0,
+		"description" : "La Huawei Watch GT 2e vous permettra d'être à l'heure à tous vos rendez-vous, mais aussi de suivre votre routine quotidienne et d'améliorer vos habitudes d'exercice et de santé. De cette façon, Huawei met à portée de main une montre connectée avec une autonomie ultra-longue, 100 modes d'entraînement et une détection automatique des routines sportives. Poids d'expédition : 0,35 kg"
+	},
+	{
+		"name" : "SAMSUNG S4",
+		"category_id" : 3,
+		"short_description" : "Samsung Galaxy S4 (I9500) - Smartphone Débloqués Android (13 MP, 16 Go, 2 Go de RAM,), (Imported)-Blue",
+		"original_price" : 32000.0,
+		"description" : "Samsung Galaxy S4 (I9500) - Smartphone Débloqués Android (13 MP, 16 Go, 2 Go de RAM,), (Imported)-Blue\n\n\nLe Samsung Galaxy S 4 est le quatrième volet de la série Galaxy S, cette fois avec un écran de 4,99 pouces Full 441ppi HD Super AMOLED, un appareil photo arrière de 13 mégapixels, caméra frontale de 2 mégapixels, 2 Go de RAM, Exynos 5 processeur Octa 3G ou Snapdragon 600 Android 4.2.2 Jelly Bean la version pour la version LTE, 16 Go de stockage interne, un slot microSD, et diverses applications telles que Smart Stay, Smart Scroll, S Santé, S voix et de nombreuses améliorations"
+	},
+	{
+		"name" : "SAMSUNG S6",
+		"category_id" : 3,
+		"short_description" : "Samsung Galaxy S6 Smartphone débloqué (Ecran: 5.1 pouces - 32 Go) Blanc ",
+		"original_price" : 60000.0,
+		"description" : "Écran : écran tactile capacitif AMOLED, couleurs 16 Mpx - 1\" (rapport écran\/corps ~ 70,7 % ) - 1440 x 2560 pixels (densité ~ 577 ppi pixels)\nProcesseur : Quad-core 1,5 GHz Cortex-A53 et Quad-core 2,1 - Exynos 7420\nOS : Android, v5.0.2 (Lollipop)\nCaméra primaire : 16 Mpx, 2988 x 5312 pixels, stabilisation de l'image optique, autofocus, flash LED - Caméra secondaire : 5 Mpx, 1080 p à 30 images par seconde, double appel vidéo, HDR auto"
+	},
+	{
+		"name" : "Samsung Galaxy S6 Edge",
+		"category_id" : 3,
+		"short_description" : "Samsung Galaxy S6 Edge Smartphone débloqué 4G (32 Go - Ecran : 5,1 pouces - Simple SIM - Android 5.0 Lollipop) Noir",
+		"original_price" : 65000.0,
+		"description" : "Marque\t‎Samsung\nCouleur\t‎Noir\nType de produit\t‎Barre\nSystème d'exploitation\t‎Android 5.1\nEcran\t‎5.7 Pouces\nConnexions\t‎USB H+\nEffective Still Resolution\t‎16 Pixels\nCaractéristiques spéciales\t‎Grand écran 5,7\" aux bords incurvés\nType de batterie\t‎Lithium-ion"
+	},
+	{
+		"name" : "SAMSUNG NOTE 4",
+		"category_id" : 3,
+		"short_description" : "Samsung Galaxy Note 4 Smartphone débloqué 4G (Ecran 5.7 pouces - 32 Go",
+		"original_price" : 50000.0,
+		"description" : "Taille de la diagonale : 5.7\"\nRésolution du capteur : 16 mégapixels\nCapacité de la batterie : 3220 mAh\nCapacité de la mémoire interne : 32 Go\nQuadruple coeur\nRAM : 3 Go\nGénération à haut débit mobile : 4G\nSystème d'exploitation : Android "
+	},
+	{
+		"name" : "huawei y7 prime",
+		"category_id" : 3,
+		"short_description" : "\nHuawei y7 prime\nROM 32gb\nRAM 3gb \nÉcran 5.5”\nCaméra 8\/12 MP \nBatterie 4000 mAh \nDual sim",
+		"original_price" : 60000.0,
+		"description" : "Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images\nHuawei Y7 Prime est sorti en 2017 . Il mesure 153.6 x 76.4 x 8.4 mm et pèse 165 g. Il dispose d'un écran IPS LCD de 5.5\" pouces. La définition d'écran est de 720 x 1280 et la résolution est de 267 ppi. Un appareil photo Unique de 8 MP est responsable des selfies et les appels vidéo.. L'appareil principal Unique est de 12 MP. L'appareil intègre un processeur Octa-core 1.4 GHz Cortex-A53 et de mémoire 32 GB, 3 GB RAM. La batterie est de 4000 mAh. Pour plus de détails, continuer à lire."
+	},
+	{
+		"name" : "huawei y7 prime",
+		"category_id" : 3,
+		"short_description" : "Huawei y7 prime\nROM 64gb\nRAM 3gb \nÉcran 5.5”\nCaméra 8\/12 MP \nBatterie 4000 mAh \nDual sim",
+		"original_price" : 65000.0,
+		"description" : "Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images Huawei Y7 Prime photo, images\nHuawei Y7 Prime est sorti en 2017 . Il mesure 153.6 x 76.4 x 8.4 mm et pèse 165 g. Il dispose d'un écran IPS LCD de 5.5\" pouces. La définition d'écran est de 720 x 1280 et la résolution est de 267 ppi. Un appareil photo Unique de 8 MP est responsable des selfies et les appels vidéo.. L'appareil principal Unique est de 12 MP. L'appareil intègre un processeur Octa-core 1.4 GHz Cortex-A53 et de mémoire 64GB, 3 GB RAM. La batterie est de 4000 mAh. Pour plus de détails, continuer à lire."
+	},
+	{
+		"name" : "huawei G8",
+		"category_id" : 3,
+		"short_description" : "Huawei G8\nROM 32gb\nRAM 3gb \nÉcran 5.5”\nCaméra 5\/13 Mp\nBatterie 3000 mAh\nDual sim",
+		"original_price" : 50000.0,
+		"description" : "Le Huawei G8 est un smartphone milieu de gamme au format 5.5 pouces. Il fonctionne avec Android 5.1 Lollipop et embarque un processeur Snapdragon 615 cadencé à 1.7 GHz assisté par 3 Go de RAM. Il est équipé d'un capteur photo dorsal de 13 mégapixels et d'un capteur frontal de 5 mégapixels. Il offre une capacité de stockage interne de 32 Go extensible via une carte microSD."
+	},
+	{
+		"name" : "Huawei Y6 (2019) ",
+		"category_id" : 3,
+		"short_description" : "Huawei y6 2019\nROM 64gb \nRAM 4gb\nÉcran 6.09”\nCaméra 8\/16 MP \nBatterie 3020 mAh\nDual sim",
+		"original_price" : 70000.0,
+		"description" : "\nHuawei Y6 (2019) photo, images Huawei Y6 (2019) photo, images Huawei Y6 (2019) photo, images Huawei Y6 (2019) photo, images\nHuawei Y6 (2019) est sorti en 2019 . Il mesure 156.3 x 73.5 x 8 mm et pèse 150 g. Il dispose d'un écran IPS LCD de 6.09\" pouces. La définition d'écran est de 720 x 1560 et la résolution est de 282 ppi. Un appareil photo Unique de 8 MP est responsable des selfies et les appels vidéo.. L'appareil principal Unique est de 13 MP. L'appareil intègre un processeur Quad-core 2.0 GHz Cortex-A53 et de mémoire 64 GB, 4 GB RAM. La batterie est de 3020 mAh."
+	},
+	{
+		"name" : "HUAWEI MATE 7",
+		"category_id" : 3,
+		"short_description" : "Huawei mate 7\nROM 32gb\nRAM 3gb \nÉcran 6”\nCamera 5\/13 MP\nBatterie 4100 mAh \nDual sim",
+		"original_price" : 55000.0,
+		"description" : "\nHuawei Ascend Mate7 photo, images Huawei Ascend Mate7 photo, images Huawei Ascend Mate7 photo, images Huawei Ascend Mate7 photo, images\nHuawei Ascend Mate7 est sorti en 2014 . Il mesure 157 x 81 x 7.9 mm et pèse 185 g. Il dispose d'un écran IPS LCD de 6\" pouces. La définition d'écran est de 1080 x 1920 et la résolution est de 368 ppi. Un appareil photo Unique de 5 MP est responsable des selfies et les appels vidéo.. L'appareil principal Unique est de 13 MP. L'appareil intègre un processeur Octa-core (4x1.8 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7) et de mémoire 16 GB, 2 GB RAM\/ 32 GB, 3 GB RAM. La batterie est de 4100 mAh. Pour plus de détails,"
+	},
+	{
+		"name" : "Huawei Mate 10 lite",
+		"category_id" : 3,
+		"short_description" : "Huawei mate 10 lite\n\nROM 64gb \nRAM 4gb\nÉcran 5.9”\nCamera 13+2\/16+2 MP\nBatterie 3340 mAh\nDual sim",
+		"original_price" : 75000.0,
+		"description" : "Diagonale d’écran: 5.9 pouces\nMémoire vive (RAM): 4 Go\nMémoire interne: 64 Go\nCarte mémoire: oui\nCapteur photo: 16 Mpx\nCapteur photo avant: 2 Mpx\nCaptation vidéo: Full HD\n4G (LTE): oui\nDual-sim: oui\nCapteur d’empreintes digitales: oui"
+	},
+	{
+		"name" : "Huawei P10 lite",
+		"category_id" : 3,
+		"short_description" : "Huawei p10 lite\nROM 64gb \nRAM 4gb\nÉcran 5.2”\nCamera 8\/12 MP\nBatterie 3100 mAh\nDual sim",
+		"original_price" : 70000.0,
+		"description" : "Huawei P10 Lite est sorti en 2017 . Il mesure 146.5 x 72 x 7.2 mm et pèse 146 g. Il dispose d'un écran LTPS IPS LCD de 5.2\" pouces. La définition d'écran est de 1080 x 1920 et la résolution est de 424 ppi. Un appareil photo Unique de 8 MP est responsable des selfies et les appels vidéo.. L'appareil principal Unique est de 12 MP. L'appareil intègre un processeur Octa-core (4x2.1 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53) et de mémoire 64 GB, 4 GB RAM . La batterie est de 3000 mAh. "
+	},
+	{
+		"name" : "Lg V30",
+		"category_id" : 3,
+		"short_description" : "Lg V30\n\n64GB RAM\n4GB ROM\n6.0 pouce\n5MP\/16MP\n3300 mAh",
+		"original_price" : 90000.0,
+		"description" : "LG V30 est sorti en 2017 . Il mesure 151.7 x 75.4 x 7.3 mm et pèse 158 g. Il dispose d'un écran P-OLED de 6\" pouces. La définition d'écran est de 1440 x 2880 et la résolution est de 537 ppi. Un appareil photo Unique de 5 MP est responsable des selfies et les appels vidéo.. L'appareil principal Double est de 16 MP. L'appareil intègre un processeur Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo) et de mémoire 64 GB, 4 GB RAM (V30+) 64 GB, 4 GB RAM (V30). La batterie est de 3300 mAh. "
+	},
+	{
+		"name" : "LG V20",
+		"category_id" : 3,
+		"short_description" : "Lg v20\nROM 64gb\nRAM 4gb\nÉcran 5.7”\nCamera 5\/16 MP \nBatterie 3200 mAh",
+		"original_price" : 65000.0,
+		"description" : "\nLG V20 photo, images LG V20 photo, images LG V20 photo, images LG V20 photo, images LG V20 photo, images\nLG V20 est sorti en 2016 . Il mesure 159.7 x 78.1 x 7.6 mm et pèse 174 g. Il dispose d'un écran IPS LCD de 5.7\" pouces. La définition d'écran est de 1440 x 2560 et la résolution est de 513 ppi. Un appareil photo Unique de 5 MP est responsable des selfies et les appels vidéo.. L'appareil principal Double est de 16 MP. L'appareil intègre un processeur Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo) et de mémoire 32\/64 GB, 4 GB RAM. La batterie est de 3200 mAh. Pour plus de détails, continuer à lire."
+	},
+	{
+		"name" : "Lg Q8",
+		"category_id" : 3,
+		"short_description" : "Lg Q8\nROM 64gb\nRAM 4gb\nÉcran 6.3”\nCamera 5\/16 MP\nBatterie 3000 mAh",
+		"original_price" : 65000.0,
+		"description" : "LG Q8 2018 est sorti en 2017 . Il mesure 149 x 71.9 x 8 mm et pèse 146 g. Il dispose d'un écran IPS LCD de 5.2\" pouces. La définition d'écran est de 1440 x 2560 et la résolution est de 564 ppi. Un appareil photo Unique de 5 MP est responsable des selfies et les appels vidéo.. L'appareil principal Double est de 16 MP. L'appareil intègre un processeur Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo) et de mémoire 64 GB, 4 GB RAM. La batterie est de 3000 mAh."
+	},
+	{
+		"name" : "LG Q7",
+		"category_id" : 3,
+		"short_description" : "Lg Q7\nROM 32gb\nRAM 3gb\nÉcran 5.5”\nCamera 5\/16 MP\nBatterie 3000 mAh",
+		"original_price" : 55000.0,
+		"description" : "LG Q7 est sorti en 2018 . Il mesure 143.8 x 69.3 x 8.4 mm et pèse 145 g. Il dispose d'un écran IPS LCD de 5.5\" pouces. La définition d'écran est de 1080 x 2160 et la résolution est de 442 ppi. Un appareil photo Unique de 5 MP est responsable des selfies et les appels vidéo.. L'appareil principal Unique est de 13 MP. L'appareil intègre un processeur Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53) - Q7, Q7α\nOcta-core 1.8 GHz Cortex-A53 -  Q7+\n32 GB, 3 GB RAM - Q7, Q7α. La batterie est de 3000 mAh."
+	},
+	{
+		"name" : "HP PROBOOK 430 G2",
+		"category_id" : 6,
+		"short_description" : "HP PROBOOK 430 G2  Intel i5 up  2.60 GHz  \/ 4 Go RAM \/  500 Go HDD \/ 13.3\" HD\/ intel HD 4600  \/  windows 10 Pro\n\n",
+		"original_price" : 140000.0,
+		"description" : "Ordinateur portable HP PROBOOK 430 G1 \nProcesseur : Intel Core i5 4200U up 2.60GHz\nRAM : 4 Go\nRésolution : ‎1366 x 768 pixels\nStockage principal : 500 Go HDD \nProcesseur graphique : Intel HD Graphics 4600\nDurée de fonctionnement : Jusqu'à 4heures 30\nSystème d'exploitation : windows 10 Pro\n"
+	},
+	{
+		"name" : "Macbook Pro 2011",
+		"category_id" : 6,
+		"short_description" : "Macbook Pro 2011  Intel i5   2.30 GHz  \/ 4 Go RAM \/  500 Go HDD \/ 13\" HD\/ macOs  High Sierra \n",
+		"original_price" : 170000.0,
+		"description" : "Processeur : Intel Core i5 2.5 GHz\nRAM : 4 Go (4 x 4 Go)\nRésolution : 1280 x 800 (WXGA)\nFonctions : Brillant, verre bord-à-bord\nStockage principal : 500 Go HDD SATA 3Gb\/s \/ 5400 tours\/min\nProcesseur graphique : Intel HD Graphics 3000\nRAM: 4Go\nDurée de fonctionnement : Jusqu'à 4 heures\nSystème d'exploitation : Apple macOS High Sierra 10.13\nPoids : 2 kg\n"
+	},
+	{
+		"name" : "DELL LATITUDE E5250",
+		"category_id" : 6,
+		"short_description" : "DELL LATITUDE E5250  Intel i5 5th   2.50 GHz  \/ 4 Go RAM \/  500 Go HDD \/ 13\" HD\/intel HD 5500\/  windows 10 Pro",
+		"original_price" : 140000.0,
+		"description" : "Ordinateur portable ⚡DELL LATITUDE E5250⚡\nProcesseur :  Intel Core i5 5ème génération \nRAM : 4 Go ou 8\nRésolution : ‎1920 x 1080 pixels\nStockage principal : 500Go   \nProcesseur graphique : intel HD 5500\nTaille écran: 13.3''  \nDurée de fonctionnemen : Jusqu'à 4h\nSystème d'exploitation : windows 10 Pro"
+	},
+	{
+		"name" : "Dell venue Pro 5130",
+		"category_id" : 6,
+		"short_description" : "Tablette  Dell Venue 11 Pro 5130 avec clavier amovible (écran tactile FHD IPS de 10,8 pouces, Intel Core Quad core , 2048mb de RAM, SSD de 128 Go, Bluetooth, Windows 10) (renouvelé)",
+		"original_price" : 70000.0,
+		"description" : "Modèle : DELL Venue 11 Pro 5130\nFormat : Tablette Pc\nClavier : QWERTY (amovible)\nEcran : 10.8'' - Full HD - IPS tactile capacitive multitouch\nRésolution : 1920 x 1080\nProcesseur : Intel Core Quad core  1,60GHz - Turbo : 2,30 Ghz - DMI : 5 GT\/s - Cache : 3 Mo - Socket FCBGA1168\nMémoire Vive : 2048Mo - DDR3\nDisque dur : 128 Go SSD\nCarte graphique : Intégrée - Intel HD Graphics 4200\nCarte son : Intégrée - SRS Premium Sound\nWifi : 802.11ac\nBluetooth : 4.0 LE\nWebcam : Intégrée \/ 8 mégapixels (à l'arrière), 2 mégapixels (à l'avant)\nSystème d'exploitation installé : Microsoft Windows 10 \nDimensions : Hauteur : 1,54 cm \/\/ Largeur : 28 cm \/\/ Profondeur : 17,7 cm\nPoids : 726 grammes"
+	},
+	{
+		"name" : "MICROSOFT Surface Pro",
+		"category_id" : 6,
+		"short_description" : "Microsoft Surface Pro intel Core i5 7300U 2.6GHz \/ 8 Go RAM \/ 256 Go SSD \/ 12.3\" UHD  \/ intel Graphics 620 resolution 2736 x 1824 ( 2K) \/  windows 10 Pro",
+		"original_price" : 220000.0,
+		"description" : "Dernier processeur Intel Core i5-7200U à 2,6 GHz avec Intel HD Graphics 620, lecteur SSD de 256 Go et 8 Go de RAM\nDurée de vie de la batterie 68 % plus longue que la Surface Pro 3 et 50 % plus longue que la Surface Pro 4, 2,5 fois plus rapide que la Surface Pro 3 grâce à un puissant processeur Intel Core\nPorts : USB 3.0 pleine taille ; lecteur de carte microSD ; Prise casque ; Mini DisplayPort ; Port de couverture ; Port de charge, appareil photo : appareils photo avant de 5 MP et arrière de 8 MP\nAffichage : écran tactile PixelSense de 12,3 pouces ; Résolution 2736 x 1824, 802.11a\/b\/g\/n\/ac, Bluetooth 4.1\nSystème d'exploitation : Windows 10 Pro, jusqu'à 13,5 heures de lecture vidéo"
+	},
+	{
+		"name" : "MICROSOFT Surface Pro 4",
+		"category_id" : 6,
+		"short_description" : "Microsoft Surface Pro 4 intel Core i5 6300U 2.4GHz \/ 8 Go RAM \/ 256 Go SSD \/ 12.3\" UHD  \/ intel Graphics 520 resolution 2736 x 1824 ( 2K) \/  windows 10 Pro",
+		"original_price" : 250000.0,
+		"description" : "Processeur Intel Core i5-6300U (Dual-Core 2.40 GHz \/ 3.4 GHz Turbo - Cache 4 Mo)\n8 Go de mémoire DDR3L\nEcran tactile de 12.3 pouces avec haute résolution de 2736 x 1824 pixels (267 ppp)\nFonctionnement rapide avec un SSD de 256 Go\nCommunication sans fil Wi-Fi AC + Bluetooth 4.0\nPuce TPM, pour la sécurité en entreprise\nJusqu'à 9 heures d'autonomie (en lecture vidéo)\nCaméra frontale 5 Mégapixels + Caméra dorsale 8 Mégapixels avec Autofocus\nHaut-parleurs stéréo avec technologie Dolby\nCapteurs : capteur de lumière ambiante, accéléromètre, gyroscope et magnétomètre\nWindows 10 Professionnel 64 bits"
+	},
+	{
+		"name" : "Microsoft Surface Pro 4 - i7 ",
+		"category_id" : 6,
+		"short_description" : "Microsoft Surface Pro 4 intel Core i7 6650U 2.20GHz \/ 8 Go RAM \/ 256 Go SSD \/ 12.3\" UHD  \/ intel Graphics 540 resolution 2736 x 1824 ( 2K) \/  windows 10 Pro",
+		"original_price" : 300000.0,
+		"description" : "MICROSOFT Surface Pro 4 Procésseur : intel Core i7 6650U 2.20GH  Ram : 8 Go DDR3 Disque dur : 256 Go SSD Carte graphique : intel Graphics 540 resolution 2736 x 1824 ( 2K)  Système d'exploitation : Windows 10 Pro Taille : 12.3\""
+	},
+	{
+		"name" : "Imac retina late 2013 ",
+		"category_id" : 7,
+		"short_description" : "Imac retina Late 2013 Procésseur : intel Core i5 2.7GH Quad-core   Ram : 8 Go DDR3L Disque dur : 256 Go SSD Carte graphique : intel Iris Pro 1.5Go dedie resolution 1920 x 1080   Système d'exploitation : MacOs Cataline Pro Taille : 21.5\"",
+		"original_price" : 380000.0,
+		"description" : "L'iMac \"Core i5\" 2,7 21,5 pouces en aluminium (fin 2013\/Haswell) est doté d'un processeur Quad Core 22 nm \"Haswell\/Crystalwell\" Intel \"Core i5\" (4570R) à 2,7 GHz avec quatre cœurs de processeur indépendants sur une seule puce, un 4 Mo de cache partagé de niveau 3, 8 Go de SDRAM DDR3 à 1600 MHz, un disque dur de 256Go SSD et un processeur graphique \"intégré\" Intel Iris Pro 5200 avec 1.5Go  de DRAM intégrée \"Crystalwell\" (et mémoire système partagée). Il dispose également d'une webcam \"FaceTime HD\" intégrée et de haut-parleurs stéréo, mais il manque un lecteur optique. Ce modèle est doté d'un écran large IPS 16:9 rétroéclairé par LED de 21,5\" 1920x1080 avec le \"verre de protection entièrement laminé sur l'écran LCD et un revêtement antireflet\". rasoir mince 5 mm sur les bords. La connectivité comprend quatre ports USB 3.0, deux ports Thunderbolt, Gigabit Ethernet, Wi-Fi 802.11ac (compatible 802.11a\/b\/g\/n) et Bluetooth 4.0. Par rapport à son prédécesseur, ce modèle a essentiellement le même boîtier externe, mais il dispose d'un processeur et d'une architecture de \"quatrième génération\" beaucoup plus efficaces, ainsi que de graphiques plus rapides, d'un Wi-Fi plus rapide et de l'option d'un stockage plus rapide. Les modèles iMac \"fin 2013\" sont livrés avec un clavier sans fil Apple compact en aluminium et le choix entre une \"Magic Mouse\" multi-touch, un \"Magic Trackpad\" multi-touch ou une souris Apple filaire traditionnelle. mais il dispose d'un processeur et d'une architecture de \"quatrième génération\" beaucoup plus efficaces, ainsi que de graphiques plus rapides, d'un Wi-Fi plus rapide et de l'option d'un stockage plus rapide. Les modèles iMac \"fin 2013\" sont livrés avec un clavier sans fil Apple compact en aluminium et le choix entre une \"Magic Mouse\" multi-touch, un \"Magic Trackpad\" multi-touch ou une souris Apple filaire traditionnelle. mais il dispose d'un processeur et d'une architecture de \"quatrième génération\" beaucoup plus efficaces, ainsi que de graphiques plus rapides, d'un Wi-Fi plus rapide et de l'option d'un stockage plus rapide. Les modèles iMac \"fin 2013\" sont livrés avec un clavier sans fil Apple compact en aluminium et le choix entre une \"Magic Mouse\" multi-touch, un \"Magic Trackpad\" multi-touch ou une souris Apple filaire traditionnelle."
+	},
+	{
+		"name" : "Dell latitude 7350",
+		"category_id" : 6,
+		"short_description" : "Dell latitude 7350 écran tactile et détachable intel Core M up  2.60GHz \/ 8 Go RAM \/ 128 Go SSD \/ 13.3\" UHD  \/ intel Graphics 5300  \/  windows 10 Pro",
+		"original_price" : 185000.0,
+		"description" : "Le Dell Latitude 13 7350 est un appareil de la catégorie PC\/Convertible détachable. Dell combine une tablette de 13,3 pouces à refroidissement passif avec une station d'accueil pour clavier. L'appareil peut être comparé à un Ultrabook lorsqu'il est fermé, et il est conçu pour les utilisateurs professionnels : un TPM, un lecteur d'empreintes digitales et un lecteur SmartCard sont disponibles. Notre examen révèle si l'appareil est une bonne alternative aux ordinateurs portables conventionnels de 13,3 pouces ou 14 pouces, respectivement. Le Latitude combine plusieurs catégories de produits dans un seul appareil, ce qui signifie que les concurrents appartiennent également à différentes catégories. Par exemple, les cabriolets typiques avec un écran rotatif comme le Fujitsu Lifebook T904. Des tablettes comme la Microsoft Surface Pro 3 sont également concurrentes, tout comme les Ultrabooks normaux avec ou sans écran tactile\n\n"
+	},
+	{
+		"name" : "Lenovo Yoga 11e",
+		"category_id" : 6,
+		"short_description" : " lenovo Yoga 11e tactile Intel quad core  2.0Ghz .GHz \/ 4Go RAM \/ 1 To HDD \/ 11.6\" UHD  \/ intel Graphics \/  windows 10 Pro\n",
+		"original_price" : 120000.0,
+		"description" : "Suffisamment robuste pour n'importe quelle salle de classe occupée, le Yoga 11e durable est doté d'un traitement puissant et d'une batterie qui dure toute la journée. Il peut également être utilisé comme tablette, ordinateur portable ou tout autre élément intermédiaire. Et construit avec des matériaux recyclés post-consommation, c'est un choix intelligent et écologique pour les étudiants et les enseignants. Un pare-chocs en caoutchouc autour du capot supérieur absorbe la force des chocs latéraux. Et les coins sont 50 % plus résistants pour réduire les dommages potentiels en cas de chute à un angle. En effet, il peut résister à des chutes allant jusqu'à 90 cm. Des charnières aux ports, nous avons pensé à chaque détail pour faire du Yoga 11e un ordinateur portable robuste et durable. Les tests de spécifications militaires valident la robustesse, la durabilité et la qualité de cette machine. Avant de vous parvenir, le Yoga 11e doit passer les tests et procédures les plus rigoureux, y compris la haute pression, l'humidité, les vibrations, les chocs thermiques, les champignons, et de la poussière. Il est alors prêt pour tout, de la salle de classe aux grands espaces. Que vous l'utilisiez comme ordinateur portable pour prendre des notes ou comme tablette pour annoter des fichiers PDF, le Yoga 11e offre une expérience riche et intuitive avec son logiciel éducatif préchargé et ses applications intégrées. Avec jusqu'à 11,5 heures d'autonomie, vous n'aurez pas à vous soucier de chercher un chargeur au milieu de la classe."
+	},
+	{
+		"name" : "Lenovo Y50-70",
+		"category_id" : 6,
+		"short_description" : "Lenovo Y50-70  Intel quad core i7  4710HQ 2.50GHz \/ 4 Go RAM \/ 1To HDD \/ 15.6\" UHD  \/  Nvidia GTX 860M 2Go dedie  \/  windows 10 Pro\n",
+		"original_price" : 320000.0,
+		"description" : "Design mince et élégant avec moins de 24 mm d'épaisseur\nProcesseur Intel Core i7-4710HQ (Quad-Core 2.5 GHz \/ 3.6 GHz Turbo - cache 6 Mo)\n8 Go de mémoire vive DDR3L\nEcran large de 15.6\" avec résolution Ultra HD (1920 x 1080)\nChipset graphique NVIDIA GeForce GTX 860M avec 2 Go de mémoire dédiée\nSortie HDMI, pour le raccordement à un téléviseur HD\nDisque dur hybride (SSHD) de 1 To avec 8 Go de mémoire Flash, pour une meilleure réactivité\nLecteur de cartes mémoire multi-formats\n2 ports USB 3.0 : vitesse haut débit avec des périphériques compatibles\nCommunication sans fil Wi-Fi AC + Bluetooth 4.0\nClavier AccuType avec touches rétro-éclairées\nMicrosoft Windows 8.1 64 bits"
+	},
+	{
+		"name" : "Lenovo l540 I7",
+		"category_id" : 6,
+		"short_description" : "Lenovo L540   Core™core i7 - 2.90Ghz \/ 500Go SHDD\/ Ram 8Go\/15.6\"\/carte graphique Intel HD 4600 \/ AUTONOMIE 4H,WIFI, BLUETOOTH,BT  Wi-Fi Win10 ",
+		"original_price" : 180000.0,
+		"description" : "Design robuste, soumis à des tests rigoureux\nProcesseur Intel Core i7-4210M (Dual-Core 2.9 GHz \/ 3.6GHz Turbo - Cache 3 Mo)\n8 Go de mémoire DDR3L\nEcran de 15.6\" anti-reflets avec résolution Full HD (1920 x 1080)\nDisque dur hybride (SSHD) de 500 Go avec mémoire Flash\n1 port USB 3.0 + 3 port USB 2.0\nJusqu'à 11 heures d'autonomie (en fonction de l'utilisation)\nCommunication sans fil Wi-Fi N + Bluetooth 4.0\nHaut-parleurs intégrés avec technologie Dolby Advanded Audio\nWebcam HD 720p"
+	},
+	{
+		"name" : "LENOVO L450 i7",
+		"category_id" : 6,
+		"short_description" : "Lenovo L540  i7\nCore™core i7    - 2.90Ghz , 500Go SHDD, Ram 4Go  ,15.6\", carte graphique Intel HD 4600  , AUTONOMIE 4H,WIFI, BLUETOOTH,BT  Wi-Fi Win10\n",
+		"original_price" : 180000.0,
+		"description" : "Lenovo L540   core i7* \nCore™core i7    - 2.90Ghz , 500Go SHDD, Ram 4Go  ,15.6\", carte graphique Intel HD 4600  , AUTONOMIE 4H,WIFI, BLUETOOTH,BT  Wi-Fi Win10\n"
+	},
+	{
+		"name" : "Dell latitude e5430",
+		"category_id" : 6,
+		"short_description" : "DELL latitude E5430 core i5 -Processeur Intel core i5 3340M 2.5GHz-Disque dur  320Go SSHD -Ram 4Go LDDR3-carte graphique INTEL HD 4000 -autonomie de la batterie -taille écran 14.1 pouce -Wifi Bluetooth HDM",
+		"original_price" : 100000.0,
+		"description" : "Dell latitude E5430 Intel Core i5-3340M 2,5GHz 4Go DDR3 320Go Lecteur CD \/ DVD Intel HD Graphics Dynamic Video Memory Technology 5.0 14,1\" Windows 7 Édition Familiale Premium 64 bits PC Portable Dell Lalitude E5430 Intel Core i5-3340M 2,50G\nDELL LATITUDE E5430 a bénéficié d’un processus rigoureux,résultant de contrôles et de tests par nos techniciens sur 25 points.LÉGERS DÉFAUTS SUR PLASTURGIE RISQUE DE MICRO IMPACT DE -1CM produit 100% fonctionnel,clavier résistant aux projections de liqui"
+	},
+	{
+		"name" : "dell optiplex 7020 i3",
+		"category_id" : 7,
+		"short_description" : "Marque : DELL  optiplex 7020\nProcésseur : i5 4ème génération 3.30Ghz 4590 \nRam : 4 Go DDR3\nDisque dur : 500 Go \nCarte graphique : intel HD graphique 1Go dédié \nSystème d'exploitation :windows 10 Pro \nTaille : 23 pouce 16\/9",
+		"original_price" : 100000.0,
+		"description" : "Marque : DELL  optiplex 7020\nProcésseur : i5 4ème génération 3.30Ghz 4590 \nRam : 4 Go DDR3\nDisque dur : 500 Go \nCarte graphique : intel HD graphique 1Go dédié \nSystème d'exploitation :windows 10 Pro \nTaille : 23 pouce 16\/9"
+	},
+	{
+		"name" : "Dell optiplex 9020 i5",
+		"category_id" : 7,
+		"short_description" : "Mini ordinateur de bureau Dell 998-BFZU OptiPlex 9020 \/ intel core i5, 8 Go de RAM, 500 Go de disque dur,AMD Radeon 2 Go dedie , noir",
+		"original_price" : 130000.0,
+		"description" : "Exécutez vos tâches quotidiennes avec les processeurs Intel Core, ainsi que les derniers graphiques discrets. Dell propose également un cryptage complet, une authentification avancée et une prévention des logiciels malveillants à partir d'une source unique, afin que vous puissiez protéger les données de l'appareil vers le cloud. Les fonctions de gestion intégrées simplifient et automatisent la gestion du cycle de vie de votre OptiPlex."
+	},
+	{
+		"name" : "moniteur Dell P2214HB ",
+		"category_id" : 7,
+		"short_description" : "Dell P2214HB IPS 22\" Full HD (1920 x 1080) LED rétroéclairé. Cordon d'alimentation, câble convertisseur VGA et écran vers HDMI 6 pi Remis à neuf IPS 22\" Full HD (1920 x 1080) LED rétroéclairé. Cordon d'alimentation, câble convertisseur VGA et écran vers HDMI 6 pi Remis à neuf",
+		"original_price" : 35000.0,
+		"description" : "Livré avec un cordon d'alimentation, un câble de conversion VGA et écran vers HDMI de 1,8 m\n\nLe moniteur Dell 22 – P2214HB s'adapte à votre style de travail et offre pratiquement toutes les options de connectivité dont vous aurez besoin au cours de la journée. Passez facilement de l'orientation paysage à l'orientation portrait — vous donne la possibilité d'afficher de grandes pages Web avec moins de défilement.\n\nAffichage\nTaille de l'écran : 21,5 pouces\nRésolution : 1080p HD\nRésolution native : 1920 x 1080\nFormat d'image : 16:9\nType d'affichage : DEL\nType de rétroéclairage : LED\nÉcran tactile : Non\nTemps de réponse (gris à gris) : 8 ms\nTaux de rafraîchissement : 60 Hz\nRapport de contraste dynamique : 1000:1 \/ 2000000:1\n\nEntrées\/Sorties\nPrise en charge DVI-D : Oui\nPrise en charge HDCP : Oui\n\nPuissance\nHomologué ENERGY STAR : Non\n\nCaractéristiques du support\/montage\nMontable VESA : Oui\nTailles VESA prises en charge : 100 x 100\n\nCaractéristiques physiques\nCouleur : Argent\/Noir"
+	},
+	{
+		"name" : "HP Z230 Workstation",
+		"category_id" : 7,
+		"short_description" : "Station de travail HP Z230, 1 x Intel Core i3 double cœur (2 cœurs) i3-4130 4e génération 3,40 GHz, 4 Go de RAM SDRAM DDR3, 500 Go de disque dur,carte graphique intel hd 4600 , moniteur 22'', petit facteur de forme, Jack noir\n",
+		"original_price" : 100000.0,
+		"description" : "Le processeur Intel Core i3 3,40 GHz fonctionne intelligemment et de manière réactive pour vous permettre d'utiliser rapidement plusieurs applications\nLa mémoire de 4 Go est suffisante pour la plupart des besoins multitâches\nLe disque dur de 500 Go vous offre suffisamment d'espace pour stocker tous vos documents et contenus multimédias\nLecteur DVD super multiformat pour tous vos besoins d'enregistrement vidéo et de supports optiques. Lit et grave des DVD et des CD.\nJusqu'à 10 fois plus rapide que la connectivité Ethernet standard et fournit des liaisons montantes hautes performances\nAvec 5 ports USB 3.0, copiez rapidement des fichiers et connectez en toute transparence des appareils audio et vidéo\nLe système d'exploitation Windows 8,1 Professionnel gère intelligemment votre matériel et exécute efficacement les applications de routine\nL'unité d'alimentation (PSU) de 240 W répond aux exigences d'alimentation de votre système"
+	},
+	{
+		"name" : "MINI SOURIS SANS FIL BLEU",
+		"category_id" : 15,
+		"short_description" : "Une souris sans fil au format \"pocket\", qui deviendra le partenaire idéal lors de vos déplacements.",
+		"original_price" : 5000.0,
+		"description" : "Un format \"mini\" pour plus de praticité !\n• Souris optique 1 000 dpi\n• Technologie sans fil 2.4 Ghz\n• 3 boutons et 1 molette de défilement\n• Rangement du récepteur nano sous la souris"
+	},
+	{
+		"name" : "CABLE HDMI ",
+		"category_id" : 15,
+		"short_description" : "CABLE HDMI M\/M 1.4 SLIM PLUGS NOIR METAL 1.80 M",
+		"original_price" : 3000.0,
+		"description" : "Permet la connexion d’un lecteur DVD ou d’un appareil vidéo équipé d’une sortie HDMI à une TV LCD \/ plasma \/ LED \/ 3D.\n• 2 connecteurs mâles HDMI\n• Finition : Gold\n• Connecteurs Slim\n• Longueur : 1.80M"
+	},
+	{
+		"name" : "ADAPTATEUR USB 3.1 TYPE-C",
+		"category_id" : 15,
+		"short_description" : "ADAPTATEUR USB 3.1 TYPE-C\/HDMI+TYPE-C+USB-A MÂLE\/FEMELLES METAL GRIS",
+		"original_price" : 25000.0,
+		"description" : "- Boitier en aluminium\n- Port HDMI : connectez votre téléviseur HD, votre moniteur, votre ordinateur et tout autre écran HDMI à vos appareils USB de type C; résolution vidéo HD jusqu’à 4K * 2K (30 Hz) et un son de haute qualité.\n- Port USB-A 3.0 : taux de transfert jusqu'à 5 Gbit\/s (compatible USB 1.1, 2.0 et 3.0), compatible avec souris, lecteur de cartes, téléphone portable, clavier et autres appareils avec un port USB-A;\n- Port d'alimentation en type-C : peut charger votre appareil avec un chargeur secteur (non fournis) via cet adaptateur, puissance jusqu’à 60W (chargement sens unique à votre appareil)"
+	},
+	{
+		"name" : "ADAPTATEUR BT SANS FIL USB",
+		"category_id" : 15,
+		"short_description" : "ADAPTATEUR BT SANS FIL USB",
+		"original_price" : 7000.0,
+		"description" : "- Bluetooth version 4.0\n\n- Plug and Play.\n- fourni avec un CD driver (si non reconnu).\n- Compatible Windows.\n- Retro-compatible avec les versions antérieures : 3.0 \/ 2.1 \/ 2.0 \/ 1.1"
+	},
+	{
+		"name" : "Lenovo R400",
+		"category_id" : 6,
+		"short_description" : "Lenovo R400  Intel dual core  2.26GHz \/2 Go RAM \/ 160 Go HDD \/ 14.1\"HD  \/   windows 7 Pro",
+		"original_price" : 65000.0,
+		"description" : "Jeu de puces : Intel 5100 AGN\nCPU : Dual Core 2.26GHz\/800MHz\/2M\nTaille de l'écran : 14.1\"\nCarte graphique : Intel Integrated Graphics X4500\nHDD : 160GB\nRésolution d'affichage native : WXGA\nSystème d'exploitation : Vista Business 32 (XP Pro RCD)\nPériphérique optique : Multi -Brûleur\nRAM : 2Go possible de up 4Go\nPorts USB : 3\nCaméra : Oui\nBluetooth : Oui\nLecteur d'empreintes digitales : Oui\nBatterie : 3 Cell 2.6 Ah"
+	},
+	{
+		"name" : "Macbook Pro 2011",
+		"category_id" : 6,
+		"short_description" : " Macbook Pro 2012 Intel  core i5  2.50GHz \/5 Go RAM \/ 256 Go SSD \/ 13\"HD  \/ Carte Graphique: Intel HD Graphics 4000 1536 Mo\/  OS X Yosemite",
+		"original_price" : 250000.0,
+		"description" : " Macbook Pro 13 pouces mi-2012    Caractéristiques: Processeur: 2,7GHz Intel Core i5 Mémoire Vive: 4Go DDR3 1600 MHz Stockage:  256 Go SSD SATA Carte Graphique: Intel HD Graphics 4000 1536 Mo Clavier: AZERTY FR Système d'exploitation : OS X Yosemite 10.10.3   Contenu: Macbook Pro 13 pouces Chargeur Magsafe 1 60W  "
+	},
+	{
+		"name" : "Lenovo ThinkPad L440 I5",
+		"category_id" : 6,
+		"short_description" : "Lenovo ThinkPad L440 \nCpu intel core i5-4300U -2.60GHz, 500Gb, Ram 4Gb, 14.1\", carte graphique Intel HD 4600 Total 4Gb dedie 512Mb, Autonomie 4H, wi-fi, Bluetooth\nwin10 64bit ",
+		"original_price" : 145000.0,
+		"description" : "Présentation produit : Lenovo ThinkPad L440 - Core i5 4200M \/ 2.5…Haut de page ▲\nLenovo ThinkPad L440  - Core i5 4200M \/ 2.5 GHz - mise à niveau inférieur Windows 10 Pro 64 bits  - 4 Go RAM - 500 Go HDD - graveur de DVD - 14\" 1600 x 900 ( HD+ ) - Intel HD Graphics 4600 - mise à niveau possible 3G\/4G - clavier : QWERTY Suisse \/ Luxembourg - TopSeller - Des améliorations dans la conception de l'affichage LCD et une antenne interne plus compacte aboutissent à un cadre dont la taille est réduite par rapport aux générations précédentes. Pourtant, les ThinkPad manifestent toujours une fiabilité légendaire et satisfont à des normes de résistance rigoureuses. Autre avantage, ces portables se replient, pour optimiser utilisation et partage d'informations. Ces tests valident la robustesse, la durabilité et la qualité de fabrication des produits ThinkPad en les soumettant à huit catégories de tests: haute pression, humidité, vibrations, haute température, choc thermique, basse pression, basse température et poussière. De taille standard et résistant aux liquides, le célèbre clavier ergonomique du ThinkPad est réputé pour son jeu de touches complet, son toucher et son dispositif de pointage TrackPoint. Profitez d'une journée entière d'autonomie. Qu'il s'agisse de travailler en déplacement ou de profiter de votre temps libre, une seule charge tiendra plus d'une journée. Appréciez les graphismes éblouissants de l'écran haute résolution offert en standard. Le L440 offre le choix entre un écran anti reflets."
+	},
+	{
+		"name" : "Lenovo Legion 5 15IMH05H ",
+		"category_id" : 6,
+		"short_description" : "LENOVO LEGION 5 15IMH05H, I7-10750H\/ 16 Go\/ 1 To + SSD 512 Go\/ GTX 1660 TI 6 Go dedie \/ 15,6 FHD\/ WIN10 ",
+		"original_price" : 600000.0,
+		"description" : "Marque :  Lenovo\nModèle : LEGION 5 15IMH05H (81Y6003YUS)\nProcesseur :  Intel Core i7-10750H\nMémoire RAM :  16 Go DDR4\nStockage :  1 To + 512 Go SSD\nTaille de l'écran :  15,6 pouces FHD\nCarte graphique :  Nvidia GeForce GTX 1660 Ti 6 Go dedie \nSystème d'exploitation :  Windows 10"
+	},
+	{
+		"name" : "Macbook Pro 2016 ",
+		"category_id" : 6,
+		"short_description" : "APPLE MacBook Pro sans Touch Bar 13\" 2016\/ i5 - 2 Ghz \/ 8 Go RAM\/ 256 Go SSD \/Intel Iris Graphics 540\/ MacOs Big sur ",
+		"original_price" : 450000.0,
+		"description" : "Processeur : Intel Core i5 2 GHz\nRAM : 8 Go (la mémoire fournie est soudée)\nRésolution : 2560 x 1600 (WQXGA)\nFonctions : Gamme Wide Color\nStockage principal : 256 Go SSD soudé PCIe\nProcesseur graphique : Intel Iris Graphics 540\nDurée de fonctionnement : Jusqu'à 10 heures\nSystème d'exploitation : Apple macOS Catalina 10.15\nPoids : 1.37 kg"
+	},
+	{
+		"name" : "hp Probook 645 G1",
+		"category_id" : 6,
+		"short_description" : "HP ProBook 645 G1  AMD A6 2,70 GHz \/ HDD 500 GB\/ 8 GB\/ AMD RADEON HD GRAPHICS 768MB dedie \/ taille ecran 14''  \/windows 10 pro",
+		"original_price" : 150000.0,
+		"description" : "CPU AMD Détails CPU AMD A6-5500M CPU Cache 3 Mo Fréquence Base Processeur 2.7 GHz Fréquence Turbo Maximum Processeur 3.50 GHz Disque dur 500Go SATA RAM 8 Go DDR3-SDRAM Extension maximale RAM 16 Go Vitesse max mémoire 1600 MHz Slot Mémoire RAM 2 x SO-DIMM Carte graphique AMD Radeon HD 7640G Fréquence dynamique Carte graphique 515 - 720 MHz Unité optique DVD Taille écran 35,6 cm (14\") Connectivité étendue\/connectivité Webcam, Bluetooth, WiFi, 4 USB 3.0, 1 DisplayPorts, 1 VGA (D-Sub), 1 Ethernet LAN (RJ-45), jack combiné pour microphone\/écouteurs, connecteur docking, jack DC-in Résolution écran 1366 x 768 pixels, système d'exploitation Microsoft Windows 10 Pro Upgrade Windows 7 Dimensions écran 14 Type HD Capacité de la batterie 55 Wh, adaptateur de dissipation de puissance AC 65 W, adaptateur de fréquence AC 50\/60 Hz Année sur le marché nov 2013 Dimensions : 34 x 23,7 x 2,53 cm. Poids : 2 kg."
+	},
+	{
+		"name" : "DELL E5430 i5",
+		"category_id" : 6,
+		"short_description" : "DELL LATITUDE E5430  i5 \nProcesseur intel core i5 3340M 2.70GHz\nDisque dur  320Go SSHD ou  128ssd ultra rapide \nRam 4Go LDDR3\ncarte graphique INTEL HD 4000 disponible\nautonomie de la batterie 4H15H\n taille ecran 14.1 pouce \nWifi Bluetooth -HDMDELL LATITUDE E5430  i5 \nProcesseur intel core i5 3340M 2.70GHz\nDisque dur  320Go SSHD ou  128ssd ultra rapide \nRam 4Go LDDR3\ncarte graphique INTEL HD 4000 disponible\nautonomie de la batterie 4H15H\n taille ecran 14.1 pouce \nWifi Bluetooth -HDM",
+		"original_price" : 95000.0,
+		"description" : "DELL LATITUDE E5430  i5 \nProcesseur intel core i5 3340M 2.70GHz\nDisque dur  320Go SSHD ou  128ssd ultra rapide \nRam 4Go LDDR3\ncarte graphique INTEL HD 4000 disponible\nautonomie de la batterie 4H15H\n taille ecran 14.1 pouce \nWifi Bluetooth -HDM\n"
+	},
+	{
+		"name" : "MICROSOF SURFACE LAPTOP 3",
+		"category_id" : 7,
+		"short_description" : "Processeur\tIntel Core i5-1065G7\nFréquence processeur\t1.80 GHz\nMémoire vive (RAM)\t08 Go\nType de mémoire vive\tDDR4L-SDRAM\nCapacité de stockage principal\t256 Go\nType de stockage principal\tSSD\nInterface stockage principal\tM.2, PCI-Express\nSeconde baie disque\tNon\nCalcul de la capacité totale (en Go)\t256 Go\nRésolution WebCam\t8 Mpx\nPavé numérique\tNon\nClavier retroéclairé\tOui",
+		"original_price" : 550000.0,
+		"description" : "Processeur\tIntel Core i5-1065G7\nFréquence processeur\t1.80 GHz\nMémoire vive (RAM)\t08 Go\nType de mémoire vive\tDDR4L-SDRAM\nCapacité de stockage principal\t256 Go\nType de stockage principal\tSSD\nInterface stockage principal\tM.2, PCI-Express\nSeconde baie disque\tNon\nCalcul de la capacité totale (en Go)\t256 Go\nRésolution WebCam\t8 Mpx\nPavé numérique\tNon\nClavier retroéclairé\tOui"
+	},
+	{
+		"name" : "DELL LATITUDE E6430 I5",
+		"category_id" : 6,
+		"short_description" : "Modèle DELL Latitude E6430 i5\nProcesseur : Intel Core i5-3340M 2,7 GHz\nMémoire Vive : 4 Go - DDR3\nDisque stockage : 500 Go\n",
+		"original_price" : 135000.0,
+		"description" : "Modèle DELL Latitude E6430 i5\nFacteur de forme : Ordinateur portable\nProcesseur : Intel Core i5-3340M 2,7 GHz\nChipset : Mobile Intel QM77 Express Chipset\nMémoire Vive : 4 Go - DDR3\nDisque stockage : 500 Go\nLecteur optique : NON\nCarte graphique : Intégrée - Intel HD Graphics\nCarte son : Intégrée - Enceintes et microphone\nRéseau : 100\/1000 - Gigabit Ethernet\nWifi : Oui Intel\nBluetooth : Oui Version 4.0\nWebcam : Oui\nPavé numérique : Non\nClavier : QWERTY français\nEcran : 14.1'' HD - LED - MAT Antireflets\nRésolution de la dalle : 1600 x 900\nSystème d'exploitation installé : Microsoft Windows 7 Professionnel 64 bits (avec licence)\nDimensions : Hauteur : 3.2 cm - Largeur : 35.2 cm - Profondeur : 24.1 cm\nPoids : 2.1 Kg\nCouleur : Noir et Gris\nPorts de connexion\n2 x Hi-Speed USB (2.0)  \/ eSATA combo\n2 x USB 3.0\n1 x VGA - HD D-Sub (HD-15) 15 broches\n1 x HDMI\n1 x Lecteur de cartes mémoires : SD\n1 x Express Card 54\n1 x Gigabit Ethernet (RJ45) 10\/100\/1000Mbps\n1 x Station d'accueil \/ duplicateur de ports\n1 x Microphone - entrée \/ Audio - sortie de ligne\/casque\nGarantie : 3 MOIS\nType de produit : Reconditionné"
+	},
+	{
+		"name" : "Lenovo E560 i3",
+		"category_id" : 6,
+		"short_description" : "LENOVO E560 Core i3 6eme génération\nIntel Core i3 6ieme génération @2.30Ghz\n8GB RAM DDR4\n500Go SHDD\nCarte graphique 4Go dédiée 15.6\" pouces FHD avec pavé numérique\nWiFi Bluetooth webcam\nAutonomie 5h environ\nWindows 10 pro",
+		"original_price" : 145000.0,
+		"description" : "LENOVO E560 Core i3 6eme génération\nIntel Core i3 6ieme génération @2.30Ghz\n8GB RAM DDR4\n500Go SHDD\nCarte graphique 4Go dédiée 15.6\" pouces FHD avec pavé numérique\nWiFi Bluetooth webcam\nAutonomie 5h environ\nWindows 10 pro"
+	},
+	{
+		"name" : "Imac 21,5'' 2011",
+		"category_id" : 7,
+		"short_description" : " Apple iMac MC309LL\/A 21.5 Mid-2011 Intel Core i5 2.5GHz 12GB Ram 500GB DD Mac OS X 10.10.3 Yosemite A",
+		"original_price" : 200000.0,
+		"description" : "Faits saillants du produit Intel Core i5 Quad-Core de 2,5 GHz RAM de 12 Go (8+4Go) Disque dur de 500 Go 7200rpm Graveur DVD 8x SuperDrive, fente pour carte SDXC AMD Radeon HD 6750M 512 Mo GPU Écran panoramique rétroéclairé LED de 21,5 po Appareil photo FaceTime HD Bluetooth 2.1 + EDR, 802.11a \/ b \/ g \/ n Wi-Fi Mac OS X 10.10.3 Yosemite Condition: Grade A- Livré avec clavier et souris génériques\nNULL"
+	},
+	{
+		"name" : "HP PROBOOK 650 G2 i5",
+		"category_id" : 6,
+		"short_description" : "HP ProBook 650 G2 is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The HP ProBook 650 G2 packs 512GB of HDD storage.\n\nGraphics are powered by Intel HD Graphics 520. Connectivity options include Wi-Fi 802.11 a\/b\/g\/n, Bluetooth and it comes with Headphone and Mic Combo Jack, VGA Port, RJ45 (LAN) ports.",
+		"original_price" : 180000.0,
+		"description" : "HP ProBook 650 G2 is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The HP ProBook 650 G2 packs 512GB of HDD storage.\n\nGraphics are powered by Intel HD Graphics 520. Connectivity options include Wi-Fi 802.11 a\/b\/g\/n, Bluetooth and it comes with Headphone and Mic Combo Jack, VGA Port, RJ45 (LAN) ports."
+	},
+	{
+		"name" : "DELL E6440",
+		"category_id" : 6,
+		"short_description" : "Dell Latitude E6440 - Core i5 4200M \/ 2.5 GHz - Windows 10 Pro 64-bit - 4 GB RAM - 500 GB HDD - DVD-Writer - 14\" 1366 x 768 ( HD ) - Intel HD Graphics",
+		"original_price" : 170000.0,
+		"description" : "ntel Core  4th Generation i5-4200M Processor (Dual Core, 3M Cache, 2.5 GHz, w\/HD Graphics 4600).\n500 GB SATA Hard Drive (7200 RPM), 4GB DDR3L at 1600MHz, 8X DVD ROM Drive.\n14.0 Inch HD (1366x768) Anti-Glare LED-backlit, Dell Wireless 1506 802.11b\/g\/n.\nDell ControlVault, Fingerprint Reader, Smartcard and Contactless Smartcard Reader and Express Card"
+	},
+	{
+		"name" : "dell latitude 6440",
+		"category_id" : 6,
+		"short_description" : "Dell Latitude E6440  Intel Core i5 2.70Ghz\/ 4 Go  RAM\/ 500 Go\/ AMD RADEON 2 GO dedie  \/ Windows 10)",
+		"original_price" : 145000.0,
+		"description" : "Processeur : Intel Core i5-4310U 2.70Ghz\nUnité de traitement graphique : AMD RADEON 2Go dedie \nAFFICHAGE : 14,0\", Full HD (1920 x 1080), Twisted Nematic\nSTOCKAGE : 500 Go HDD\nRAM : 2 Go DDR3\nPorts et connectivité : 4x USB 3.1 Gen 1, HDMI, VGA, lecteur de carte SD, Ethernet LAN, Wi-Fi 802.11n, Bluetooth 4.0, prise audio casque\/microphone, port de station d'accueil, ExpressCard\/54\nFonctionnalités : caméra Web, microphone, haut-parleurs, lecteur optique, emplacement pour verrou de sécurité\nBatterie : 60 Wh Li -Matériau du\ncorps ionique : magnésium, aluminium, plastique"
+	},
+	{
+		"name" : "Dell Latitude E6430  i5",
+		"category_id" : 6,
+		"short_description" : "DELL Latitude E6430 \/intel i5 3740QM \/4 Go ram \/ 500 Go\/ 14''\/  NVIDIA NVS 520 1 Go dedie\/windows 10  ",
+		"original_price" : 130000.0,
+		"description" : "Processeur Intel Core 3e génération intel i5-3740QM (2,7 GHz, 6 Mo de cache\nNvidia NVS 5200M 1 Go DDR5 Discrete Graphics 14,0 pouces HD (1600 x 900) antireflet rétroéclairé par LED avec panneau Premium\nIntel WiFi Link 6205 (802.11a\/g\/n 2X2) 1\/2 MiniCard Webcam intégrée avec microphone numérique\n4 Go DDR3 SDRAM 1600MHz 128 Go SSD Lecteur DVD +\/- RW 8X\nClavier anglais rétroéclairé interne à double pointage Windows 10 Professionnel"
+	},
+	{
+		"name" : "HP probook 650 G2 i5",
+		"category_id" : 6,
+		"short_description" : "HP ProBook 650 G2 \/ (Intel Core i5 6th, 8Go de RAM, 500 Go\/Intel HD Graphics 520 \/ 15.6''\/ Windows 10)",
+		"original_price" : 200000.0,
+		"description" : "Modèle : HP ProBook 650 G2\nFormat : Ordinateur portable\nClavier : QWERTY\nEcran : 15.6”\nAspect de la dalle : MAT – Anti-Reflet\nProcesseur : Intel Core i5-6200U 6th 2.30 GHz – Turbo : 2.80 Ghz – DMI : 5 GT\/s – Cache : 3 Mo – FCBGA1356\nMémoire Vive : 8 Go – DDR4\nDisque dur : 500Go\nLecteur optique : aucun\nCarte graphique : Intégrée – Intel HD Graphics 520\nCarte son : Intégrée\nRéseau : Intel I218-LM – Gigabit Ethernet\nWifi : Intel centrino\nWebcam : Oui – Intégrée\nSystème d’exploitation installé : Microsoft Windows 10 64 bits avec licence officielle Microsoft MAR (version à choisir lors de la commande)\nDimensions : Hauteur : 25.3 cm \/\/ Largeur : 37.8 cm \/\/ Profondeur : 25,7 cm\nPoids : 2.32 Kg\nPORTS"
+	},
+	{
+		"name" : "Apple Macbook M3",
+		"category_id" : 6,
+		"short_description" : "Apple MacBook (2016) 12\" Or rose \/Intel CORE M3 (1.2 GHZ) 8 GO SSD 256 GO 12\" LED WI-FI AC\/BLUETOOTH WEBCAM MacOs Big Sur ",
+		"original_price" : 380000.0,
+		"description" : "Ecran Retina de 12 pouces avec haute résolution de 2304 x 1440 pixels\nDalle IPS : couleurs lumineuses et angles de vision larges (178°)\nProcesseur Intel Skylake : Intel Core m3 (Dual-Core 1.2 GHz \/ 2.2 GHz Turbo - cache 4 Mo)\n8 Go de mémoire LPDDR3 (intégrée)\nFonctionnement fluide et rapide avec un stockage SSD PCIe de  256 Go\nCommunication sans fil performante Wi-Fi AC + Bluetooth 4.0\nPort USB Type C avec prise en charge : recharge, USB 3.1, sortie DisplayPort 1.2 (native)\nCompatibilité VGA ou HDMI via adaptateurs (non fournis)\nWebcam Facetime 480p\nClavier avec touches rétro-éclairées individuellement par LED + capteur de luminosité\nTrackpad Force Touch : contrôle précis du curseur et capacités de détection de la pression\nBatterie offrant jusqu'à 10 heures d'autonomie (en navigation Web sans fil) \/ 11 heures (en lecture de films iTunes)\nPrise casque avec prise en charge des écouteurs Apple iPhone avec télécommande et micro\nSystème d'exploitation Mac OS  Big Sur "
+	},
+	{
+		"name" : "Surface Laptop ",
+		"category_id" : 6,
+		"short_description" : "Microsoft Surface Laptop\/Core i5 7200U\/ 2.5 GHz\/ - 8 Go RAM \/ 256 Go SSD \/ Intel HD Graphics 620 \/ 13.5\" écran tactile 2256 x 1504\/ windows 10",
+		"original_price" : 420000.0,
+		"description" : "Processeur : Intel Core i5 (7ème génération) 7200U \/ 2.5 GHz\nRAM : 8 Go\nRésolution : 2256 x 1504\nFonctions : Gamme de couleurs étendue sRGB de 100 %, Corning Gorilla glass 3, PixelSense\nStockage principal : 256 Go SSD\nProcesseur graphique : Intel HD Graphics 620\nDurée de fonctionnement : Jusqu'à 14.5 heures\nSystème d'exploitation : Windows 10 in S mode\nPoids : 1.252 kg"
+	},
+	{
+		"name" : "lenovo V110",
+		"category_id" : 6,
+		"short_description" : "Lenovo V110\/Core i5 7200U \/ 2.5 GHz\/ 8 Go RAM DDR4\/ 256 Go SSD\/ intel UHD 620\/ 15.6\"\/ windows 10 pro ",
+		"original_price" : 320000.0,
+		"description" : "Processeur Intel Core i5- 7200U ( 2.5 GHz - Cache 6 Mo)\n8 Go de mémoire DDR4  maximum 16 Go au total)\nEcran large de 15.6\" anti-reflets au format 16\/9 (1366 x 768)\nSortie HDMI, pour le raccordement à un téléviseur HD\nDisque dur de 256 Go SSD\nCommunication sans fil Wi-Fi AC + Bluetooth 4.1\n2 port USB 3.0 : vitesse haut débit avec des périphériques compatibles\nBatterie offrant jusqu'à 7h30 d'autonomie (selon l'utilisation et les programmes installés)\nWebcam intégrée 0,3 Mégapixel\nSécurité : puce TPM 2.0 intégrée\nHaut-parleur monaural (1x 1.5 W) + microphone monaural intégré\nWindows 10 Famille 64 bits"
+	},
+	{
+		"name" : "HP Probook 6475B",
+		"category_id" : 6,
+		"short_description" : "HP PROBOOK 6475B \/ AMD A6 4400M (2,7 GHz) \/ 4 Go DDR3 \/ 320 Go HDD \/  (14'') , AMD Radeon HD 7520G \/ Windows 10 Pro ",
+		"original_price" : 100000.0,
+		"description" : "Processeur\tAMD® A6-4400M (Dual-Core, 2,7 - 3,2 GHz)\nJeu de puces\tAMD® A70M Fusion™\nMémoire\t4 Go DDR3 1600 MHz\nAffichage\t14\" LED HD mate TFT 16 : 9 (1366 x 768)\nStockage de masse\tDisque dur 320 Go 7200 tr\/min\nLecteur optique\tGraveur\/lecteur DVD (SuperMulti)\nVidéo\tAMD Radeon™ HD 7520G\nSysteme audio\tHaut-parleurs stéréo intégrés\nMultimédia\tCaméra Web HD intégrée ; lecteur de carte SD\nClavier\tHongrois, anti-goutte\nSystème opérateur\tDVD Windows 7 Professionnel + Windows 8 Professionnel\nInterface\t10\/100\/1000 Mbps LAN, Bluetooth v4.0 + HS, D-Sub, DisplayPort, Dock Connector, ExpressCard, FireWire I-link IEEE1394, Combiné eSATA \/ USB 2.0, USB 2.0 (1 pièce), USB 3.0 (2 pièces ) , LAN sans fil 802.11 b\/g\/n (WiFi)\nBatterie\tLithium-ion à 6 cellules (55 Wh)\nSécurité\tPuce TPM; lecteur d'empreintes digitales\nUtilisation\tà des fins commerciales (haute sécurité, tribunal durable)\nGarantie \t3 ans à l'international, au niveau national en porte à porte\nTaille:\t33,8 x 23,13 x 3,4 cm"
+	},
+	{
+		"name" : "Lenovo X250",
+		"category_id" : 6,
+		"short_description" : "Lenovo X250\/ Intel i5-4300U 1,90 GHz \/ 8 Go RAM DDR3 \/ 500Go HDD \/ 12.5\" HD - LED \/ WiFi \/ Windows 10",
+		"original_price" : 165000.0,
+		"description" : "Processeur Intel Core i5-4300U avec 2 x 1,9 à 2,9 GHz Turbo Takt (2 cœurs \/ 4 threads).\nMémoire RAM DDR3 8 Go - Disque dur 500 Go\n12,5 pouces\/31,75 cm - 1366 x 768 pixels - USB 3.0 - Webcam - Bluetooth - Connecteur VGA et mini DisplayPort.\nInclus : BullGuard Internet Security & SoftMaker Office – Standard.\nLe système d'exploitation Windows ainsi que tous les pilotes nécessaires sont préinstallés"
+	},
+	{
+		"name" : "Zed bookG",
+		"category_id" : 6,
+		"short_description" : "Life Digital ZED ZED Book Gris Ordinateur portable 10,1 pouces (Atom\/1 Go\/32 Go SSD + 64Go SD carte \/Windows 10 Home\/Integrated Graphics), Gris",
+		"original_price" : 60000.0,
+		"description" : "Processeur Intel Atom 1,8 GHz quad core \n1 Go de RAM DDR3\nDisque SSD 32 Go + 64Go carte SD \nÉcran de 10,1 pouces, Intel HD Graphics 500 Graphics\nSystème d'exploitation Windows 10 Famille\nOrdinateur portable de 1,37 kg\nOrdinateur portable 2 en 1 détachable + Tablette"
+	},
+	{
+		"name" : "Intel core i5 10500 LGA 1200",
+		"category_id" : 15,
+		"short_description" : "i5-10500 - Processeur Intel -10e génération - I5 - 6 Cœurs - 12 Thread - Jusqu’à 4.5 GHz - Socket INTEL LGA 1200 - 65 W - Cache 12 Mo - Intel UHD Graphics 630.",
+		"original_price" : 120000.0,
+		"description" : "Référence constructeur : BX8070110500\nMarque : Intel\nArchitecture : Comet Lake\nFréquence : Max : 4.50 Ghz, Min : 3.10 Ghz\nSocket : LGA 1200\nNombre de cœurs : 6\nNombre de Threads : 12\nMémoire Cache : 12 Mb\nNombre PCIE : 16 lignes\nPrise en charge mémoire : DDR4-2666\nFinesse de Gravure : 14 nm\nGraphique intégré : Intel® UHD Graphics 630\nConsommation en Watts : 65 Watt\nVentirad inclus : Non"
+	},
+	{
+		"name" : "Epson EMP-83H",
+		"category_id" : 15,
+		"short_description" : "Projecteur LCD Epson EMP-83H HD portable",
+		"original_price" : 75000.0,
+		"description" : "Technologie d'affichage :\nACL\nModèle:\nPowerLite 83+\nRapport de contraste:\n400 : 1\nConnectivité :\nRéseau filaire\nTaper:\nBureau\nNPP :\nV11H303040\nLuminosité de l'image :\n2200 Lumens ANSI\nRésolution native :\nXGA, 1024x768, 4: 3\nRapport de projection :\n1,44 - 1,70 : 1\nTaille de l'image:\n29,9 po - 300 po\nMarque:\nEpson"
+	},
+	{
+		"name" : "Lenovo ThinkCentre M72z ",
+		"category_id" : 7,
+		"short_description" : "LENOVO TOUT EN UN  ThinkCentre M72Z\nINTEL dual core 2.70Ghz 4 GO 500 GO écran  20\" GRAVEUR\/WEBCAM\/ DVD WI-FI  WINDOWS  PROFESSIONNEL 64 BITS",
+		"original_price" : 70000.0,
+		"description" : "Processeur Intel Pentium G640 (2.8 GHz)\n4 Go de mémoire DDR3, pour assurer rapidité et stabilité\nEcran large de 20\" au format 16\/9 (1600 x 900)\nConnectez un moniteur supplémentaire sur la sortie DisplayPort pour améliorer vos possibilités en multitâche\nGraveur DVD multi-formats\nRéseau sans fil Wi-Fi N\nClavier et souris USB fournis\nWindows 7 Professionnel 64 bits"
+	},
+	{
+		"name" : "HP Zbook 17 G2 ",
+		"category_id" : 6,
+		"short_description" : "HP ZBook 17 G2 \/ Core i7 4700MQ 2,4GHz \/ 16Go RAM \/ K3100M 4Go dedie GDDR5 \/ SSD 128Go+ 1To HDD",
+		"original_price" : 420000.0,
+		"description" : "Marque : HP\nModèle : Station de travail mobile ZBook 17 G2\nProcesseur : Intel Core i7-4700MQ 2.4GHz 4Core 8TH Turbo 3,4GHz\nMémoire : 16 Go 1600 MHz PC3L-12800U SO-DIMM\nCarte vidéo : Nvidia Quadro K3100M 4 Go GDDR5\nSSD :  128 Go + 1To \nDVD-ROM : DVDRW\nRéseau : Sans fil N6235\/LAN\/Bluetooth 4.0\nInterfaces : VGA, DisplayPort, Thunderbolt,\nCarte Express 54mm\nLecteur de carte : Carte mémoire SDHC, Carte mémoire SDXC, SDXC UHS-II\nAffichage : 17,3 pouces (1920 x 1080), LED antireflet\nClavier : QWERTY (États-Unis)\nLogiciel : pas de Windows\/OS"
+	},
+	{
+		"name" : "Samsung Galaxy Buds Live",
+		"category_id" : 15,
+		"short_description" : "Samsung Galaxy Buds Live, Mystic Black Casque écouteur Noir Galaxy Buds Live, Mystic Black, Casque, écouteur, Appels et Musique, Noir, Binaural, Multi-clés SM-R180NZKAEUA",
+		"original_price" : 85000.0,
+		"description" : "Présentation des Galaxy Buds Live. . La nouvelle forme de véritables écouteurs sans fil. L'écouteur conçu pour s'adapter à chaque instant. Avec une forme emblématique et un design ergonomique, un ajustement qui laisse dans votre environnement naturel et un haut-parleur optimisé pour une meilleure expérience. C'est un son fait pour vos oreilles. Son live et profond. . Écoutez chaque son prendre vie. Sentez-vous comme si vous étiez au premier rang ou si vous faisiez partie de quelque chose de plus grand. Les haut-parleurs de 12 mm avec son d'AKG s'associent à la conception ergonomique du Galaxy Buds Live pour offrir un son spacieux, tandis que le grand haut-parleur et le conduit de graves aident à émettre des basses profondes avec un flux d'air qui permet au son de circuler en toute transparence. Ergonomique. . Fait pour vos oreilles. Les Galaxy Buds Live reposent doucement à l'intérieur de l'oreille, vous offrant ainsi un confort tout au long de la journée avec moins de fatigue. Son design ergonomique est confortable mais non intrusif avec deux tailles de bout d'aile pour un meilleur ajustement. Alors, rendez-vous au bureau, allez chez un ami et plus encore sans que vos papilles quittent vos oreilles. Suppression active du bruit. . Refusez les distractions. La première suppression active du bruit (ANC) pour le type ouvert sur les véritables écouteurs sans fil de Galaxy empêche le bruit de pénétrer, mais laisse entrer le monde. Elle réduit les bruits de fond sans manquer ce qui est important, comme les voix et les annonces, pour que vous entendiez plus de ce que vous voulez entendre - le tout avec une simple pression longue pour l'allumer. Mise en charge. . De la puissance pour encore plus de temps de jeu. Rechargez en quelques minutes pour vous remettre dans le rythme. Cinq minutes vous donnent une heure, que ce soit pour votre liste de lecture préférée ou le dernier podcast. Si vous avez besoin d'un peu plus, vous pouvez même utiliser la puissance de votre smartphone pour recharger les Galaxy Buds Live lors de vos déplacements. Réveil vocal Bixby. . Un assistant intelligent qui vous écoute. Le réveil vocal Bixby est prêt chaque fois que vous appelez. Il se réveille à votre voix, vous permettant de contrôler votre téléphone sans lever le petit doigt. Gérez vos appels, réglez le volume ou consultez la météo lors de vos déplacements. Vous parlez, Bixby écoute. Associez-le à un PC pour travailler facilement. . Associez-le facilement à votre PC. Mettez Galaxy Buds Live en mode d'appairage près d'un PC et faites votre meilleur travail. Utilisez Swift Pair de Windows 10 PC pour un moyen plus simple et plus simple de connecter les deux."
+	},
+	{
+		"name" : "Huawei GR5 2017",
+		"category_id" : 3,
+		"short_description" : "HUAWEI\nGR5 2017 Dual Sim 32 Go LTE 4G Argent 3 Go de RAM",
+		"original_price" : 60000.0,
+		"description" : "5,5 pouces LTPS, 16 millions de couleurs.\nAppareil photo : 12 MP + 5 MP appareil photo 2 MP (double) ; pour appareil photo : 8 MP.\nHisilicon Kirin 655, Octa Core (4 x 2,1 GHz + 4 x 1,7 GHz) ; 32 Go de ROM, 3 Go de RAM.\nDouble SIM (Micro SIM\/nano SIM, Double veille)"
+	},
+	{
+		"name" : "Lenovo  ThinkCentre  M71z i5",
+		"category_id" : 7,
+		"short_description" : "LENOVO TOUT EN UN ThinkCentre M72Z INTEL core i5  2.50Ghz 8 GO 500 GO écran 20\" GRAVEUR\/WEBCAM\/ DVD WI-FI WINDOWS PROFESSIONNEL 64 BITS",
+		"original_price" : 150000.0,
+		"description" : "ENOVO TOUT EN UN ThinkCentre M72Z INTEL core i5  2.50Ghz 8 GO 500 GO écran 20\" GRAVEUR\/WEBCAM\/ DVD WI-FI WINDOWS PROFESSIONNEL 64 BITS"
+	},
+	{
+		"name" : "Lenovo Yoga C940 2-en-1",
+		"category_id" : 6,
+		"short_description" : "Lenovo Yoga C940-15,6\" FHD tactile - i7-9750H - NVIDIA GTX 1650  4Go dedie -12 Go - SSD 256 Go - Gris",
+		"original_price" : 500000.0,
+		"description" : "Lenovo - Ordinateur portable Yoga C940 2-en-1 15,6\" à écran tactile - Intel Core i7 - 12 Go de mémoire - NVIDIA GeForce GTX 1650 4Go  - 256 Go SSD - Iron Grey\n\nCaractéristiques :\n\nsystème d'exploitation\nWindows 10 Windows 10 ramène le menu Démarrer de Windows 7 et introduit de nouvelles fonctionnalités,\ncomme le navigateur Web Edge qui vous permet de marquer des pages Web sur votre écran Écran\n\nmultipoint 15,6\" Full HD 10 points\nLa résolution 1920 x 1080 offre des couleurs et une clarté impressionnantes.\nTouchez, touchez, glissez et tirez le meilleur parti de Windows 10. Technologie IPS pour des angles de vision larges.\n\nProcesseur mobile Intel Core i7-9750H de 9e génération\nPuissante performance de traitement à 6 cœurs et 12 voies\n\nMémoire système de 12 Go pour un multitâche intense\nDes rames de RAM LPDDR4 à large bande passante\n\nSolid State Drive (PCI-e)\nEnregistrez rapidement des fichiers et stockez plus de données\n\nGraphiques NVIDIA GeForce GTX 1650\nSoutenu par 4 Go de mémoire vidéo dédiée GDDR5 pour un GPU rapide et avancé pour une édition vidéo et photo plus rapide.\n\nConception rabattable à 360 °\nBarre de son rotative avec système de haut-parleurs Dolby Atmos\nBoîtier métallique durable\nPort Thunderbolt pour connecter des moniteurs avancés et des disques externes\nPort Thunderbolt pour connecter des moniteurs avancés et des disques externes\nWebcam HD intégrée avec microphone à double matrice\nClavier rétroéclairé pour faciliter taper dans des endroits sombres ou sombres\n\nPèse 4,34 lb. et mesure 0,8\" mince\nbatterie lithium-ion à 4 cellules\n\nLecteur d'empreintes digitales intégré\nRationalise les paramètres de sécurité pour un accès rapide et sans faute de frappe\n\nPackage logiciel de base inclus Essai de\n30 jours d'essai de Microsoft Office 2019\n\nPort supplémentaire\nPrise combinée casque\/microphone\n\nRemarque : cet ordinateur portable n'inclut pas de lecteur DVD\/CD intégré"
+	},
+	{
+		"name" : "Dell Inspiron G7 15 7500 ",
+		"category_id" : 6,
+		"short_description" : "Dell Inspiron G7 15 7500 15,6\" Gaming (dernier modèle) Core I9-10885H (16 cœurs) 1 To SSD PCIe 32 Go 3200 MHz RAM RTX 2070 8 Go Full HD (1920 x 1080) 3MS 300 Hz 4-Zone RGB rétroéclairé Win 10 Home (renouvelé)",
+		"original_price" : 900000.0,
+		"description" : "Processeur : Intel Core i9-10885H de 10e génération (cache 16 Mo, jusqu'à 5,3 GHz, 16 cœurs)\nMémoire et stockage : 32 Go de RAM DDR4 double canal 2933 MHz, mise à niveau jusqu'à 64 Go | Disque SSD M.2 PCIe NVMe de 1 To\n\"Affichage:15,6\"\" FHD (1920 x 1080) 300Hz 300 nits WVA Anti-éblouissement LED rétroéclairé écran à bordure étroite | 100 % sRGB\"\nGraphiques : NVIDIA GeForce RTX 2070 8 Go GDDR6 avec conception Max-Q\nSystème d'exploitation et logiciels : Windows 10 Famille | Microsoft Office Famille et Étudiant 2019 | Abonnement de 15 mois à McAfee Security Center\nClavier et batterie : Clavier rétroéclairé noir RVB | Batterie 6 cellules, 86 Wh\nPorts E\/S:1 port RJ45 | Port HDMI 2.0 | 3x USB 3.2 Gen 1 | 1 emplacement pour carte SD | 1xprise audio\nAutres : Centre de commande Alienware | Killer Wi-Fi 6 AX1650 (2x2) | Bluetooth 5.0 | Lecteur d'empreintes digitales | Audio 3D Nahimic"
+	},
+	{
+		"name" : "Lenovo Legion Y520-15IKBN",
+		"category_id" : 6,
+		"short_description" : "Lenovo légion Y520\/ Core i7 2.80Ghz  7700HQ 7ème génération \/ 16Go ram \/ disque dur 128 Go SSD + 1To HDD\/ carte graphique Nvidia GTX 1050ti 4Go dédié \/ taille écran 15.6''\/ clavier rétro éclairage \/batterie 4h\/ ",
+		"original_price" : 500000.0,
+		"description" : "Écran 15,6\" FHD (1920 x 1080) IPS antireflet ; carte graphique NVIDIA GeForce GTX 1050 2 Go\nProcesseur quadricœur Intel Core i7-7700HQ de 7e génération 2,8 GHz (vitesse d'accélération maximale jusqu'à 3,8 GHz) 6 Mo de cache,\n16 Go DDR4 SDRAM 2133 MHz, 128 Go SSD  1 To HDD , SANS lecteur optique\nAC sans fil (2 x 2) + Bluetooth 4.1 ; 2 haut-parleurs certifiés Harman 2 W avec Dolby Audio Premium, caméra HD 720p avec microphone en réseau ; 1 x USB 3.0 (Type-C) , 2 x USB 3.0 , 1 x USB 2.0 , 1 x MiniDP (avec modèle GTX1050 uniquement) , 1 x HDMI , prise audio , prise microphone , RJ45 LAN, lecteur de carte 4-en-1 (SD, SDHC, SDXC, MMC) (Avec GTX1050Ti)\nWindows 10 home 64 bits, clavier rétroéclairé rouge"
+	},
+	{
+		"name" : "Lenovo légion 5",
+		"category_id" : 6,
+		"short_description" : "Lenovo légion 5\/ Ryzen 5 3.0 Ghz  4600H 10ème génération \/ 8Go ram \/ disque dur 256 Go SSD + 1To HDD\/ carte graphique Nvidia GTX 1650ti 4Go dédié \/ taille écran 15.6''\/ clavier rétro éclairage \/batterie 5h",
+		"original_price" : 550000.0,
+		"description" : "Processeur : AMD Ryzen 5 4600H ; Vitesse de base : 3,0 GHz, vitesse maximale : 4,0 GHz, 6 cœurs, 12 threads, 8 Mo de cache\nSystème d'exploitation : Windows 10 Home préchargé avec validité à vie\nMémoire et stockage : 8 Go de RAM DDR4-3200 | 512 Go SSD M.2\nAffichage : 15,6\" Full HD (1920x1080) | Grand angle de vision | Anti-éblouissant | Taux de rafraîchissement de 120 Hz\nGraphiques : NVIDIA GeForce GTX 1650 4 Go GDDR6\nRefroidissement : Coldfront 2.0 avec mécanisme thermique Dual Channel | Q Control 3.0 pour choisir entre les modes thermiques Quiet, Balance et Performance\nClavier : clavier rétroéclairé pleine taille avec des commutateurs 100 % anti-ghosting et d'atterrissage en douceur"
+	},
+	{
+		"name" : "Dell Optiplex 390",
+		"category_id" : 7,
+		"short_description" : "Dell Optiplex 390\/ intel core i3 3.30Ghz\/ ram 4 Go \/disque dur 500 Go \/ carte graphique intel HD \/ taille moniteur 22'' Dell \/ windows 10 Pro ",
+		"original_price" : 90000.0,
+		"description" : "Dell Optiplex 390\/ intel core i3 3.30Ghz\/ ram 8 Go \/disque dur 500 Go \/ carte graphique intel HD \/ taille moniteur 22'' Dell \/ windows 10 Pro "
+	},
+	{
+		"name" : "Macbook Pro retina 2015 A1398",
+		"category_id" : 6,
+		"short_description" : "Macbook Pro retina 2014 Intel i7 2.6 GHz \/ 16 Go RAM DDR3 \/ 1 To SSD \/ 15.4\" UHD\/ 3.5 Go dédiée - \/ MacOs Big Sur",
+		"original_price" : 530000.0,
+		"description" : "Processeur : Intel Core i7  2.6 GHz\nRAM : 16 Go (la mémoire fournie est soudée)\nRésolution : 2880 x 1800 (WQXGA+)\nFonctions : Gamme Wide Color\nStockage principal : 1 To SSD PCIe\nProcesseur graphique : Intel HD Graphics iris Pro  1.5 Go dedie \nDurée de fonctionnement : Jusqu'à 7 heures\nSystème d'exploitation : Apple macOS Catalina 10.15\nPoids : 1.83 kg"
+	},
+	{
+		"name" : "HP PAVILION  gaming laptop 15-",
+		"category_id" : 6,
+		"short_description" : "HP PAVILLON 15\/ intel core i5  2.30 GHZ 8ème génération \/ 16Go ram \/ disque dur  128 Go SSD + 1To HDD\/ carte graphique NVIDIA GTX 1050TI 4Go dédié \/ taille écran 15.6''\/ clavier rétro éclairage \/batterie 5h",
+		"original_price" : 450000.0,
+		"description" : "Processeur : Processeur Intel(R) Core(TM) i5+8300H de 8e génération (mémoire Core i5 et Intel Optane), quadricœur, 2,3 GHz jusqu'à 4,0 GHz.\nCarte graphique vidéo : NVIDIA GeForce GTX 1050 Ti (4 Go GDDR5 dédiés).\nÉcran : 15,6 pouces de diagonale FHD IPS antireflet à micro-bords à rétroéclairage WLED (1920 x 1080) avec un taux de rafraîchissement de 144 Hz.\nMémoire : 16 Go DDR4-2666 SDRAM (non extensible).\nDisque dur : 128 Go SSD + 1 To HDD  5 400 tr\/min.\nAutonomie de la batterie : jusqu'à 8 heures et 45 minutes (usage mixte) ; jusqu'à 7 heures et 45 minutes (lecture vidéo) ; jusqu'à 5 heures et 30 minutes (diffusion sans fil).\nDimensions et poids (sans emballage) : 14,40 pouces (L) x 10,01 pouces (P) x 1,00 pouce (H) ; 5,18 livres.\nSystème d'exploitation : Windows 10 ."
+	},
+	{
+		"name" : "DELL LATITUDE E6540",
+		"category_id" : 6,
+		"short_description" : "Dell latitude E6540 \/ Core i5 2.7Ghz 4ème génération   \/ 4 Go ram \/ disque dur 500 Go HDD\/ carte graphique AMD RADEON 8790M 2 Go dédié \/ taille écran 15.6''\/ batterie 4h",
+		"original_price" : 180000.0,
+		"description" : " DELL Latitude E6540\nFormat : Ordinateur portable\nEcran : 15,6'' Full-HD - LED\nRésolution : 1920 x 1080\nAspect de la dalle : MAT - Anti-Reflet\nProcesseur : Intel Core i5-4800M 2,70 GHz - Turbo : 3,70 Ghz - DMI : 5 GT\/s - Cache : 6 Mo - Socket G3 \/ FCPGA946\nChipset : Mobile Intel QM87 Express Chipset\nMémoire Vive : 4 Go - DDR3\nDisque dur :500 Go HDD\nLecteur optique : Graveur DVD\nCarte graphique :  AMD Radeon HD 8790M 2 Go Dédié\nCarte son : Intégrée - Intel Lynx Point PCH\nRéseau : Intel I217-LM - Gigabit Ethernet\nWifi : Intel® Centrino® \nWebcam : Oui - Intégrée\nSystème d'exploitation installé : Microsoft Windows 10 64 bits avec licence officielle Microsoft MAR (version à choisir lors de la commande)\nDimensions : Hauteur : 3,5 cm \/\/ Largeur : 37.9 cm \/\/ Profondeur : 27.5 cm\nPoids : 3.0 Kg"
+	},
+	{
+		"name" : "Acer Aspire E 15",
+		"category_id" : 6,
+		"short_description" : "Acer Aspire E 15 \/  AMD A10-9600P 3.30Ghz  7ème génération\/ 16Go ram \/ disque dur  128Go SSD 1To HDD \/ carte graphique AMD RADEON 2Go dédié \/ taille écran 15.6''\/ clavier rétro éclairage \/batterie 3H30 ",
+		"original_price" : 350000.0,
+		"description" : "Ordinateur portable, écran 39,62 cm, 15,6 pouces, écran ComfyView (mat), rétroéclairage LED, résolution : 1366 x 768, AMD, processeur AMD quad-core A10, modèle 9600P, 2,4 GHz, 16 Go RAM, DDR4, disque dur 1 000 Go, 5 400 tours\/minute, disque dur SSD 128 Go, carte graphique AMD Radeon R8 M445DX double carte graphique, 2 048 Mo de mémoire graphique, graveur DVD, webcam intégrée, lecteur de carte, Bluetooth, version 4.0, réseau LAN gigabit, réseau LAN sans fil, IEEE 802.11 a, IEEE 802.11 ac, IEEE 802.11 b, IEEE 802.11 g, IEEE 802.11 n, fonctionnement bi-bande, HDMI, 1 x USB 2.0, 2 x USB 3.0, 1 x USB 3.1 Type C (Gen. 1), système d'exploitation"
+	},
+	{
+		"name" : "Dell XPS 15 9560",
+		"category_id" : 6,
+		"short_description" : "Dell XPS 15 9560 \/ intel core i7 7700HQ   2.80GHZ  7ème génération \/ 8Go ram \/ disque dur   256 Go SSD \/ carte graphique NVIDIA GeForce GTX 1050ti  4Go dédié \/ taille écran 15.6''\/ clavier rétro éclairage",
+		"original_price" : 500000.0,
+		"description" : "Ecran 15,6 pouces 4K - 3480 x 2160 - Stockage et mémoire : 8 Go de RAM, SSD 256 Go - Processeur : Intel Core i7-7700HQ - Carte graphique : Nvidia GeForce GTX 1050 4Go - Connectivité : Ports (PRTS), 2 ports USB 3.0 (dont un avec fonction Power Share), 1 port Thunderbolt 3 - Système d'exploitation : Windows 10 Professionnel\nProduit en TRES BON ETAT, garantie 12 mois, vendeur professionnel, expédition soignée et rapide."
+	},
+	{
+		"name" : "Asus ROG STRIX GL553vd ",
+		"category_id" : 6,
+		"short_description" : "Asus ROG STRIX  \/  intel core i5 7300HQ 7ème génération 2.5 Ghz \/ 8Go ram \/ disque dur  512 Go  SSD\/ carte graphique NVIDIA GTX 1050 2 Go dédié \/ taille écran 15.6''\/ clavier rétro éclairage \/batterie 5h",
+		"original_price" : 400000.0,
+		"description" : "Processeur Intel Core i5-7300HQ (Quad-Core 2.5 GHz \/ 3.8 GHz Turbo - Cache 6 Mo)\n8 Go de mémoire vive DDR4 (2 slots - maximum 32 Go au total)\nEcran anti-reflets de 15.6\" avec résolution Full HD (1920 x 1080 pixels)\nChipset graphique performant NVIDIA GeForce GTX 1050 avec 2 Go de mémoire dédiée GDDR5\nSSD M.2 SATA de 512 Go \nGraveur DVD multi-formats\nCommunication sans fil performante : Wi-Fi AC + Bluetooth 4.0\nLecteur de cartes mémoire intégré\nClavier chiclet (touches plates et isolées) avec touches rétroéclairées\n1 port réversible USB 3.0 Type C + 2 ports USB 3.0 offrant de hautes vitesses de transfert\nWindows 10 Famille 64 bits\nGarantie constructeur 2 ans (enlèvement et retour sur site en France métropolitaine)"
+	},
+	{
+		"name" : "Apple iphone 5 32 Go ",
+		"category_id" : 6,
+		"short_description" : "iphone 5 32 Go ",
+		"original_price" : 35000.0,
+		"description" : "iphone 5 32 Go "
+	},
+	{
+		"name" : "Dell latitude E5440",
+		"category_id" : 6,
+		"short_description" : "Dell latitude E5440 \/ Core i5 2.40Ghz 4ème génération   \/ 4 Go ram \/ disque dur 500 Go HDD\/ carte graphique intel HD 4600  \/ taille écran 14''\/ batterie 5h ",
+		"original_price" : 130000.0,
+		"description" : "Processeur : Intel Core i5 (4ème génération) 4310U \/ 2.40 GHz\nRAM : 4 Go (1 x 4 Go)\nRésolution : 1366 x 768 (HD)\nFonctions : Anti-éblouissement, sans BFR\/PVC\nStockage principal : 500 Go lecteur hybride SATA 3Gb\/s (8 Go flash) \/ 5400 tours\/min\nProcesseur graphique : Intel HD Graphics 4600\nSystème d'exploitation : Microsoft Windows 10 Professionnel Edition 64 bits \nPoids : 1.99 kg"
+	},
+	{
+		"name" : "Macbook Pro retina 2014 A2876",
+		"category_id" : 6,
+		"short_description" : "Macbook Pro retina 2014 Intel i7 2.6 GHz \/ 16 Go RAM DDR3 \/ 1 To SSD \/ 15.4\" UHD\/ 1.5 Go dédiée - \/ MacOs Big Sur",
+		"original_price" : 500000.0,
+		"description" : "Processeur : Intel Core i7  2.6 GHz\nRAM : 16 Go (la mémoire fournie est soudée)\nRésolution : 2880 x 1800 (WQXGA+)\nFonctions : Gamme Wide Color\nStockage principal : 1 To SSD PCIe\nProcesseur graphique : Intel HD Graphics iris Pro  1.5 Go dedie \nDurée de fonctionnement : Jusqu'à 7 heures\nSystème d'exploitation : Apple macOS Catalina 10.15\nPoids : 1.83 kg"
+	},
+	{
+		"name" : "Dell G5 15 5500 ",
+		"category_id" : 6,
+		"short_description" : "Dell G5 15 5500 (5500-0269)\nINTEL CORE I7-10750H 16 GO SSD 512 GO 15.6\" LED FULL HD 300 HZ NVIDIA GEFORCE RTX 2070 8 GO dedie WI-FI AX\/BLUETOOTH WEBCAM WINDOWS 10 Pro 64 BITS",
+		"original_price" : 850000.0,
+		"description" : "Processeur Intel Core i7-10750H (Hexa-Core 2.6 GHz \/ 5 GHz Turbo - 12 Threads - Cache 12 Mo)\n16 Go de mémoire vive DDR4 3200 MHz (2 x 8 Go - 2 slots - maximum 32 Go au total)\nEcran de niveau IPS 15.6\" avec résolution Full HD (1920 x 1080 pixels) et fréquence de 300 Hz\nCarte graphique NVIDIA GeForce RTX 2070 Max-Q avec 8 Go de mémoire dédiée GDDR6\nSSD M.2 PCIe NVMe de 512 Go\nCommunication sans fil performante : Wi-Fi AX + Bluetooth 5.0\nConnecteurs : HDMI 2.0, mini DisplayPort, Thunderbolt 3, USB 3.0, 2x USB 2.0, RJ45\nClavier avec touches rétroéclairées\nSystème audio stéréo avec technologie Nahimic 3D\nWebcam HD\nAdaptateur secteur 240 Watts\nWindows 10 Famille 64 bits"
+	},
+	{
+		"name" : "macbook 2015 core M a1534",
+		"category_id" : 6,
+		"short_description" : "Apple MacBook (2015) 12\" Or rose \/Intel CORE M (1.2 GHZ) 8 GO  500 GO SSD 12\" LED WI-FI AC\/BLUETOOTH WEBCAM MacOs Big Sur ",
+		"original_price" : 350000.0,
+		"description" : "Ecran Retina de 12 pouces avec haute résolution de 2304 x 1440 pixels\nDalle IPS : couleurs lumineuses et angles de vision larges (178°)\nProcesseur Intel Skylake : Intel Core m (Dual-Core 1.2 GHz \/ 2.2 GHz Turbo - cache 4 Mo)\n8 Go de mémoire LPDDR3 (intégrée)\nFonctionnement fluide et rapide avec un stockage SSD PCIe de  500 Go SSD\nCommunication sans fil performante Wi-Fi AC + Bluetooth 4.0\nPort USB Type C avec prise en charge : recharge, USB 3.1, sortie DisplayPort 1.2 (native)\nCompatibilité VGA ou HDMI via adaptateurs (non fournis)\nWebcam Facetime 480p\nClavier avec touches rétro-éclairées individuellement par LED + capteur de luminosité\nTrackpad Force Touch : contrôle précis du curseur et capacités de détection de la pression\nBatterie offrant jusqu'à 10 heures d'autonomie (en navigation Web sans fil) \/ 11 heures (en lecture de films iTunes)\nPrise casque avec prise en charge des écouteurs Apple iPhone avec télécommande et micro\nSystème d'exploitation Mac OS  Big Sur "
+	},
+	{
+		"name" : "Lenovo x260",
+		"category_id" : 6,
+		"short_description" : "Lenovo X260 \/  intel core i5   2.4 Ghz 6th  \/ 16Go ram \/ disque dur  512 GO SSD\/ carte graphique intel Hd 520 \/ taille écran 12.5''\/ clavier rétro éclairage \/batterie 6H",
+		"original_price" : 200000.0,
+		"description" : "ThinkPad x260, Intel Core i5-6300U 2,40 GHz, 3 Mo 12,5 1366x768, Windows 7 professionnel 64 préinstallé via les droits de rétrogradation dans Windows 10 Pro, 16,0 Go, 1x500 Go SATA III, Intel HD 520, Intel 8260, caméra HD 720P, batterie avant à 3 cellules , batterie arrière 3 cellules, clavier rétroéclairé"
+	},
+	{
+		"name" : "microsoft surface pro 6 ",
+		"category_id" : 6,
+		"short_description" : "microsoft surface pro 6  \/ intel core i5  8225U Up 3.40 Ghz \/ 8Go ram \/ disque dur  226 GO SSD\/ carte graphique 4 Go \/ taille écran 13'' tactile \/ clavier amobible  rétro éclairage  \/batterie 6h",
+		"original_price" : 400000.0,
+		"description" : "Usage : Polyvalent & Multimédia\nProcesseur : Intel Core i5 (8ème génération) 8350U \/ 1.7 GHz\nRAM : 8 Go\nRésolution : 2736 x 1824\nFonctions : Verre Corning Gorilla, PixelSense, revêtement oléophobe résistant aux empreintes digitales\nStockage principal :256 Go SSD PCIe - NVM Express (NVMe)\nProcesseur graphique : Intel UHD Graphics 620\nDurée de fonctionnement : Jusqu'à 13.5 heures\nSystème d'exploitation : Windows 10 Pro\nPoids : 770 g"
+	},
+	{
+		"name" : "Lenovo U41",
+		"category_id" : 6,
+		"short_description" : "Lenovo U41\/ intel core i7  2.40 GHZ 5ème génération \/ 8Go ram \/ disque dur  256 Go SSD \/ carte graphique NVIDIA Geforce 940M 2Go dédié \/ taille écran 14''\/ clavier rétro éclairage \/batterie 4h",
+		"original_price" : 300000.0,
+		"description" : "Processeur : Intel Core i7-5500U (2,40 GHz, avec Turbo Boost jusqu'à 3,0 GHz 4 Mo de cache intelligent)\nParticularités : beau, fin et léger, certification Dolby Home Theater, SSD rapide de 256 Go, Nvidia GeForce 940M\nBatterie : 4 heures d'autonomie, batterie 2 cellules \/ 20Wh\nContenu de la livraison : ordinateur portable grise  Lenovo U41-80JV 35,5 cm (14 pouces), batterie, bloc d'alimentation"
+	},
+	{
+		"name" : "acer v17 nitro vn7-792g-75C9",
+		"category_id" : 6,
+		"short_description" : "Acer V 17 nitro  \/intel core i7  2.6 Ghz 6700HQ \/ 8Go ram \/ disque dur  500 GO SHDD\/ carte graphique Nvidia Gforce GTX 950M dédié \/ taille écran 17.3''\/ clavier rétro éclairage \/batterie 4",
+		"original_price" : 390000.0,
+		"description" : "Processeur Intel Core i7-6700HQ (Quad-Core 2.6 GHz \/ 3.5 GHz Turbo - Cache 6 Mo)\n8 Go de mémoire DDR4 (1x 8 Go - 2 slots)\nEcran de 17.3 pouces avec dalle mate et résolution Full HD (1920 x 1080)\nDalle IPS : couleurs lumineuses et angles de vision larges\nChipset graphique NVIDIA GeForce GTX 950M avec 4 Go de mémoire dédiée\n500 Go avec 5400 RPM (rotations par minute)\n1 port réversible USB 3.1 Type C compatible Thunderbolt 3\nCommunication sans fil Wi-Fi AC + Bluetooth 4.0\nClavier chiclet avec touches rétroéclairées (couleur rouge)\nAccès sécurisé : lecteur d'empreinte digitale intégré\nWebcam HD intégrée\nWindows 10 Famille 64 bits"
+	},
+	{
+		"name" : "Captiva notebook gaming ",
+		"category_id" : 6,
+		"short_description" : "Captiva notebook Gaming \/ intel core i7  2.60GHZ 10750H 10ème génération \/ 32Go ram \/ disque dur   1 To SSD\/ carte graphique NVIDIA RTX 2060 Max-Q 6Go dédié \/ taille écran 17.3'\/ clavier rétro éclairage \/batterie 5h",
+		"original_price" : 800000.0,
+		"description" : "Captiva notebook Gaming \/ intel core i7  2.60GHZ 10750H 10ème génération \/ 32Go ram \/ disque dur   1 To SSD\/ carte graphique NVIDIA RTX 2060 Max-Q 6Go dédié \/ taille écran 17.3'\/ clavier rétro éclairage \/batterie 5h"
+	},
+	{
+		"name" : "macbook pro 2015 a1502",
+		"category_id" : 6,
+		"short_description" : "Apple MacBook Pro A1502, 13 pouces Retina mi-2015 avec processeur Intel Core i7 3,1 GHz, 16 Go de RAM et 500 Go de stockage flash (SSD)",
+		"original_price" : 350000.0,
+		"description" : "Macbook Pro 2015 13''\nProcesseur : Intel Core i7  3.1 GHz\nRAM : 8 Go (la mémoire fournie est soudée)\nRésolution : 2560 x 1600 (WQXGA)\nStockage principal : 256 Go SSD\nProcesseur graphique : Intel Iris Graphics\nDurée de fonctionnement : Jusqu'à 5 heures\nSystème d'exploitation : Apple macOS Sierra 10.12\nPoids : 1.57 kg"
+	},
+	{
+		"name" : "hp laptop 15 dv3015cl",
+		"category_id" : 6,
+		"short_description" : "hp laptop 15  \/ intel core i5  jusqu'à 4,2 GHz 1135G7 11ème génération \/ 16Go ram \/ disque dur 1 To SSD\/ carte graphique Irix Xe Graphics \/ taille écran 15.6''\/ clavier rétro éclairage \/batterie 5h",
+		"original_price" : 400000.0,
+		"description" : "Processeur : 11e génération Intel Core i5-1135G7 (jusqu'à 4,2 GHz avec la technologie Intel Turbo Boost, 8 Mo de cache L3, 4 cœurs)\nSystème d'exploitation et logiciels préinstallés : Windows 10 Home | Microsoft Office Famille et Étudiant 2019 | Dans la boîte : ordinateur portable avec batterie incluse, chargeur\nÉcran : 15,6 pouces FHD IPS antireflet micro-bords rétroéclairé WLED, 250 nits, 45 % NTSC (1920 x 1080)\nMémoire et stockage : 16 Go DDR4-2666 SDRAM (2 x 4 Go), extensible jusqu'à 32 Go |  1 To PCIe NVMe M.2 SSD "
+	},
+	{
+		"name" : "Kuu KBook Pro",
+		"category_id" : 6,
+		"short_description" : "KUU KBOOK Pro 14.1\" Ordinateur portable HD 1920 × 1080 IPS Processeur Intel Celeron Quad core  N3450 6 Go 128 Go SSD avec interface RJ45 et HDMI, ordinateur portable fin et léger (6 Go de RAM+128 Go de SSD)",
+		"original_price" : 130000.0,
+		"description" : "Processeur CPU \/ carte graphique : par rapport au KBOOK, KBOOK Pro est équipé d'un processeur Intel Celeron N3350. Intel HD Graphics 500 Très faible consommation d'énergie, performances de traitement ultra-élevées, vous apporte une expérience extraordinaire.\nDisque\/stockage : les différentes spécifications de ROM peuvent répondre à vos besoins de travail quotidiens. 6 Go de RAM vous permet de gérer différents travaux en même temps.\nÉcran\/clavier\/système d'exploitation : écran IPS 14,1\" 1920 x 1080 de qualité HD, excellente visualisation et de regarder des films et des jeux vidéo, expérience visuelle parfaite. Clavier américain. Le système d'exploitation Windows 10 prend en charge de nombreuses applications intelligentes.\nPort et batterie : 8 ports disponibles – LHMZNIY SBOOK est équipé de 2 micro USB 3.0, 1 micro USB 2.0, 1 HDMI, 1 RJ45, 1 prise casque, 1 emplacement pour carte TF, 1 interface d'alimentation. 2 batteries 4000 mAh\/30,4 Wh, longue veille, très adaptées pour la maison, le bureau et les voyages.\nExpédié en 3 à 5 jours, assistance en ligne 7 x 24, sans risque. Nous offrons une garantie de 1 an et si vous avez des problèmes de qualité, veuillez nous contacter."
+	},
+	{
+		"name" : "macbook Air 2015 A1466",
+		"category_id" : 6,
+		"short_description" : "Apple MacBook Air A1466 (MJVE2LL\/A - Début 2015) 13.3\" Core i5 1,6 GHz 8Go de RAM 256Go SSD Mac OSX Big Sur ",
+		"original_price" : 320000.0,
+		"description" : "Processeur : Intel Core i5 (5ème génération) 1.6 GHz\nRAM : 8 Go\nRésolution : 1440 x 900 (WXGA+)\nFonctions : Brillant\nStockage principal : 256 Go SSD\nProcesseur graphique : Intel HD Graphics 6000\nDurée de fonctionnement : Jusqu'à 12 heures\nSystème d'exploitation : Apple macOS Big Sur 11.0\nPoids : 1.35 kg"
+	},
+	{
+		"name" : "APPLE MacBook Air 2017 A1466",
+		"category_id" : 6,
+		"short_description" : "APPLE MacBook Air 13\" 2017 i5 - 1,8 Ghz - 8 Go RAM - 256 Go SSD - Gris  - Très bon état",
+		"original_price" : 370000.0,
+		"description" : "Processeur : Intel Core i5 (5ème génération) 1.8 GHz\nRAM : 8 Go\nRésolution : 1440 x 900 (WXGA+)\nFonctions : Brillant\nStockage principal : 256 Go SSD PCIe\nProcesseur graphique : Intel HD Graphics 6000\nDurée de fonctionnement : Jusqu'à 12 heures\nSystème d'exploitation : Apple macOS Catalina 10.15\nPoids : 1.35 kg"
+	},
+	{
+		"name" : "Lenovo Y50 core i7",
+		"category_id" : 6,
+		"short_description" : "Lenovo Y50-70\nINTEL CORE I7-4710HQ 16 GO 256 Go SSD  15.6\" LED NVIDIA GEFORCE GTX 860M 4 Go dedie WI-FI AC\/BLUETOOTH WEBCAM WINDOWS 8.1 64 BITS",
+		"original_price" : 380000.0,
+		"description" : "Design mince et élégant avec moins de 24 mm d'épaisseur\nProcesseur Intel Core i7-4720HQ (Quad-Core 2.6 GHz \/ 3.6 GHz Turbo - cache 6 Mo)\n16 Go de mémoire vive DDR3L (2x 8 Go)\nEcran large de 15.6\" avec résolution 4K Ultra HD (3840 x 2160)\nChipset graphique NVIDIA GeForce GTX 860M avec 4 Go de mémoire dédiée GDDR5\nSortie HDMI, pour le raccordement à un téléviseur HD\nDisque dur (SSD) de 256 Go mémoire Flash, pour une meilleure réactivité\nLecteur de cartes mémoire multi-formats\n2 ports USB 3.0 : vitesse haut débit avec des périphériques compatibles\nCommunication sans fil Wi-Fi AC + Bluetooth 4.0\nClavier AccuType avec touches rétro-éclairées\nMicrosoft Windows 10 Pro 64 bits"
+	},
+	{
+		"name" : "HP Pavilion 15",
+		"category_id" : 6,
+		"short_description" : "Ordinateur portable de jeu HP Pavilion Power 15-cb053TX 2017 15,6 pouces (Intel i5-7300HQ\/8 Go DDR4 RAM\/256 Go SSD + 1 To HDD\/NVIDIA GTX 1050 2 Go dedie \/Win 10\/MS Office H&S 2016), Noir",
+		"original_price" : 320000.0,
+		"description" : "Processeur : Processeur quadricœur Intel Core i5-7300HQ de 7e génération (2,5 GHz, TurboBoost 2.0 jusqu'à 3,5 GHz, 6 Mo SmartCache)\nRAM : 8 Go DDR4-2400 (19,2 Go\/s)| Disque dur : 256 Go NVMe Solid State Drive + 1 To Disque dur\nCarte graphique vidéo : NVIDIA GeForce GTX 1050 (2 Go GDDR5 dédiés) ; Transformez votre ordinateur portable en une centrale créative pour les applications visuellement exigeantes. Les technologies NVIDIA Pascal et Game Ready pilotent les derniers jeux dans toute leur splendeur\nÉcran : 15,6 pouces de diagonale Full HD (1920 x 1080) IPS antireflet à rétroéclairage WLED ; Profitez d'images éclatantes et cristallines avec des angles de vision larges de 178 degrés\nAudio : deux haut-parleurs HP, amplification audio HP et réglage personnalisé par les experts de B&O play, vous pouvez profiter d'un son riche et authentique, laissez le son vous émouvoir\nSystème d'exploitation : Windows 10 Famille (64 bits) | Microsoft Office Famille et Étudiant 2016 pré-inclus\nBatterie : batterie polymère à charge rapide à 4 cellules. Jusqu'à 11 heures et 30 minutes (usage mixte), jusqu'à 8 heures et 15 minutes (lecture vidéo)"
+	},
+	{
+		"name" : "Acer V5-591G",
+		"category_id" : 6,
+		"short_description" : "Acer V5-591G \/ Intel i5-6300HQ  \/ 8 Go DDR4 RAM\/ 500 Go SHDD   \/ 15,6 pouces \/  NVIDIA GTX 950M 2 Go dedie \/Win 10\/MS Office H&S 2016), Noir",
+		"original_price" : 320000.0,
+		"description" : "Processeur Intel Core i5-6300HQ (2,3 GHz \/ 3,2 GHz Turbo) - Ecran 15,6'' Full HD Acer ComfyView LED - Résolution de 1920 x 1080 pixels - RAM 8 Go - Disque dur 500 Go - Carte graphique NVIDIA GeForce GTX 950M 2 Go - Port HDMI - Réseau Ethernet - Réseau sans fil WiFi AC - Bluetooth 4.0 - Lecteur de cartes SD - 1 Port USB 2.0 - 2 Ports USB 3.0 - Webcam HD intégrée - Microphone intégré - 2 Haut-parleurs stéréo - Clavier rétroéclairé - Batterie 6 cellules - Autonomie de 8h00 - Poids de 2,4 Kg - Windows 10"
+	},
+	{
+		"name" : " Kingston DataTraveler 100",
+		"category_id" : 15,
+		"short_description" : "KINGSTON - Clé USB - DataTraveler 100 G3 - 32Go - USB 3.0 (DT100G3\/32GB)",
+		"original_price" : 10000.0,
+		"description" : "Conforme aux spécifications USB 3.01, la clé USB DataTraveler® 100 G3 (DT100G3) de Kingston peut être utilisée avec les plus récents appareils numériques, PC portables et PC de bureau. Avec la clé DT100G3, le stockage et le transfert de documents, présentations, musiques, vidéos et d'autres fichiers deviennent plus faciles que jamais.\n\nLa clé DT100G3 est dotée d'une conception élégante et économique qui permet de bénéficier d'une expérience USB 3.0 avec un investissement minimal. Disponible en capacités allant de 32 à 256Go2, la DT100G3 est rétrocompatible USB 2.0 "
+	},
+	{
+		"name" : " Kingston DataTraveler 100",
+		"category_id" : 15,
+		"short_description" : "KINGSTON - Clé USB - DataTraveler 100 G3 - 32Go - USB 3.0 (DT100G3\/32GB)",
+		"original_price" : 10000.0,
+		"description" : "Conforme aux spécifications USB 3.01, la clé USB DataTraveler® 100 G3 (DT100G3) de Kingston peut être utilisée avec les plus récents appareils numériques, PC portables et PC de bureau. Avec la clé DT100G3, le stockage et le transfert de documents, présentations, musiques, vidéos et d'autres fichiers deviennent plus faciles que jamais.\n\nLa clé DT100G3 est dotée d'une conception élégante et économique qui permet de bénéficier d'une expérience USB 3.0 avec un investissement minimal. Disponible en capacités allant de 32 à 256Go2, la DT100G3 est rétrocompatible USB 2.0 "
+	},
+	{
+		"name" : "kingston datatraveler microduo 3c 32gb",
+		"category_id" : 15,
+		"short_description" : "Clé USB et USB-C Kingston DataTraveler MicroDuo 3C – 32Go",
+		"original_price" : 12000.0,
+		"description" : "Double interface USB de type-A et de type-C\nStockage supplémentaire pour les dispositifs innovants dont les ports d'expansion sont limités\nVitesses de transfert élevées : jusqu’à 100Mo\/s en lecture et 15Mo\/s en écriture\nCompatible Windows Vista (SP2) \/ 7 (SP1) \/ 8 \/ 8.1, Mac OS X, Linux, Chrome OS\nGarantie constructeur 5 ans avec assistance technique gratuite"
+	},
+	{
+		"name" : "Kingston DataTraveler MicroDuo 3C 64 Go ",
+		"category_id" : 15,
+		"short_description" : "Kingston DataTraveler MicroDuo 3C DTDUO3C\/64GB USB 3.0\/3.1 Type-A et Type-C",
+		"original_price" : 15000.0,
+		"description" : "Polyvalente - La DT microDuo 3C est compatible avec les dispositifs USB de Type-C, tels que les smartphones et tablettes, mais également avec les ports USB de type-A existants\nPlus de stockage - Jusqu’à 64Go d’espace de stockage supplémentaire pour les smartphones, tablettes, PC et Mac dotés de ports USB de Type-C\nRapidité - Performances USB 3,1, avec des vitesses de transfert pouvant atteindre 100 Mo\/s (lecture) et 15 Mo\/s (écriture). Vous n'aurez plus à attendre les transferts de fichiers volumineux\nGarantie - La DataTraveler microDuo 3C bénéficie d’une garantie de cinq ans, de l’assistance technique gratuite et de la fiabilité légendaire de Kingston\nVeuillez vérifier la compatibilité avec votre appareil avant d'acheter ce produit\nTempérature de fonctionnement 0 ° C à 60 ° C Température de stockage -20 ° C à 85 ° C"
+	},
+	{
+		"name" : "Lenovo Yoga 11e",
+		"category_id" : 6,
+		"short_description" : "lenovo Yoga 11e tactile Intel quad core 2.0Ghz .GHz \/ 4 Go RAM \/ 128 Go HDD \/ 11.6\" UHD \/ intel Graphics \/ windows 10 Pro",
+		"original_price" : 140000.0,
+		"description" : "Suffisamment robuste pour n'importe quelle salle de classe occupée, le Yoga 11e durable est doté d'un traitement puissant et d'une batterie qui dure toute la journée. Il peut également être utilisé comme tablette, ordinateur portable ou tout autre élément intermédiaire. Et construit avec des matériaux recyclés post-consommation, c'est un choix intelligent et écologique pour les étudiants et les enseignants. Un pare-chocs en caoutchouc autour du capot supérieur absorbe la force des chocs latéraux. Et les coins sont 50 % plus résistants pour réduire les dommages potentiels en cas de chute à un angle. En effet, il peut résister à des chutes allant jusqu'à 90 cm. Des charnières aux ports, nous avons pensé à chaque détail pour faire du Yoga 11e un ordinateur portable robuste et durable. Les tests de spécifications militaires valident la robustesse, la durabilité et la qualité de cette machine. Avant de vous parvenir, le Yoga 11e doit passer les tests et procédures les plus rigoureux, y compris la haute pression, l'humidité, les vibrations, les chocs thermiques, les champignons, et de la poussière. Il est alors prêt pour tout, de la salle de classe aux grands espaces. Que vous l'utilisiez comme ordinateur portable pour prendre des notes ou comme tablette pour annoter des fichiers PDF, le Yoga 11e offre une expérience riche et intuitive avec son logiciel éducatif préchargé et ses applications intégrées. Avec jusqu'à 11,5 heures d'autonomie, vous n'aurez pas à vous soucier de chercher un chargeur au milieu de la classe."
+	},
+	{
+		"name" : "Samsung Galaxy TAB S7+ 5G",
+		"category_id" : 16,
+		"short_description" : "Samsung Galaxy TAB S7+, 12.4\", 5G, WiFi, 6Gb RAM, 128Gb Mémoire Interne, Couleur Noir",
+		"original_price" : 420000.0,
+		"description" : "Samsung Galaxy Tab S7 + 5G SM-T976B. Taille de l'écran: 31,5 cm (12.4 \"), Résolution de l'écran: 2800 x 1752 pixels, Technologie d'écran: Super AMOLED. Capacité de stockage interne: 128 Go. Fréquence du processeur: 2,4 GHz, Famille de processeur: Qualcomm Snapdragon, Modèle de processeur: 865+. Mémoire interne: 6 Go. Résolution de la caméra arrière (numérique): 5 MP, Résolution de la caméra frontale (numérique): 8 MP. Norme Wi-Fi: Wi-Fi 6 (802.11ax). Carte de lecture intégrée. Poids: 575 g. Installé système d'exploitation : Android 10. Couleur du produit : Noir"
+	},
+	{
+		"name" : "Ram 4 Go PC3L",
+		"category_id" : 15,
+		"short_description" : "Crustal  PC3L 12800S Mémoire RAM DDR3 SO Dimm Bas voltage 4 Go 1600 MHz",
+		"original_price" : 10000.0,
+		"description" : "Puces d'origine Crustal \nBasse tension : 1,35 V (convient aussi parfaitement à 1,5 V)\nSO.Dimm pour ordinateur portable\n100 % rétrocompatible avec 1 333 MHz (PC3-10600S)\nSans mémoire tampon, compatible avec le double canal (nécessite deux modules)"
+	},
+	{
+		"name" : "Acer Aspire VN7-571G",
+		"category_id" : 6,
+		"short_description" : "Acer Aspire V Nitro VN7-571G-54QA\nINTEL CORE I5-5200U 6 GO SSHD 500 Go 15.6\" LED HD NVIDIA GEFORCE GTX 840M 2Go dedie GRAVEUR DVD WI-FI N\/BLUETOOTH 4.0 WEBCAM",
+		"original_price" : 250000.0,
+		"description" : "Profil fin et une finition métal, ultra Performance et divertissement sans limite\nProcesseur Intel Core i5-5200U (Dual-Core 2.2 GHz \/ 2.7 GHz Turbo - Cache 3 Mo - TDP 15W)\n6 Go de mémoire DDR3L\nEcran LED de 15.6\"  avec résolution HD\nChipset graphique NVIDIA GeForce 840M avec 2 Go de mémoire dédiée\nSortie HDMI, pour le divertissement grand format sur un téléviseur HD\nDisque dur hybride (SSHD) de 500 Go  avec 8 Go de mémoire SSD\n3 ports USB 3.0 : transferts haut débit avec des périphériques compatibles\nGraveur DVD multi-formats\nCommunication sans fil Wi-Fi N + Bluetooth 4.0\nClavier rétroéclairé\nMicrosoft Windows 8.1 64 bits"
+	},
+	{
+		"name" : "MSI Gf65 thin 10sdr",
+		"category_id" : 6,
+		"short_description" : "MSI GF65 Thin 10SDR-255FR\nINTEL CORE I7-10750H 16 GO SSD 512 GO 15.6\" LED FULL HD 120 HZ NVIDIA GEFORCE GTX 1660 TI 6 GO DEDIE  WI-FI AX\/BLUETOOTH WEBCAM WINDOWS 10 FAMILLE 64 BITS",
+		"original_price" : 600000.0,
+		"description" : "Processeur Intel Core i7-10750H (Hexa-Core 2.6 GHz \/ 5 GHz Turbo - 12 Threads - Cache 12 Mo)\nEcran 15.6\" de niveau IPS avec résolution Full HD (1920 x 1080 pixels) et fréquence de 120 Hz\n16 Go de mémoire vive DDR4 2666 MHz (2x 8 Go - 2 slots avec maximum 64 Go)\nPuce graphique NVIDIA GeForce GTX 1660 Ti avec 6 Go de mémoire dédiée GDDR6\nSSD M.2 PCIe 3.0 de 512 Go + slot libre pour SSD M.2 PCIe\nCommunication sans fil fiable et performante avec les technologies Wi-Fi AX et Bluetooth 5.1\nHaut-parleurs format XL avec technologie audio Nahimic 3\nTechnologie Audio Boost (amélioration du son via un casque audio)\nRefroidissement performant à double ventilateur avec technologie Cooler Boost 5\nWebcam HD 720p et microphone intégrés\nAdaptateur d'alimentation 180 Watts\nWindows 10 Famille 64 bits"
+	},
+	{
+		"name" : "Alienware 15 R3",
+		"category_id" : 6,
+		"short_description" : " Alienware 15 R3 AW15R3 avec Quad-Core i7-7700HQ jusqu'à 3,80 GHz Turbo, 16 Go DDR4, 128SSD + 1 To HDD et NVIDIA GeForce GTX1070 8 Go dedie GDDR5 (noir)",
+		"original_price" : 650000.0,
+		"description" : "Couleur : Argent\nTaille écran (pouces) : 15\nCapacité de stockage : 128 Go SSD + 1 To HDD \nType de stockage : HDD + SSD\nMémoire : 16 Go\nTaille de mémoire max (Go) : 32\nModèle : Alienware 15 R3\nVitesse du processeur : 2,8 GHz\nMarque du processeur : Intel\nNom de la Carte Graphique : NVIDIA GeForce GTX 1070\nTaille mémoire vidéo (Go) : 8 GO dedie \nSystème d'exploitation : Windows 10\nRésolution : 1920 x 1080\nBluetooth : Oui\nWebcam : Oui\nMicrophone : Oui\nClavier rétroéclairé : Oui\nPavé numérique : Non\nLecteur de cartes : Oui\nLecteur optique : Non\nProcesseur : Core i7-7700HQ\nType et langue du clavier : QWERTY - Anglais (US)\nÉcran tactile : Non\nDate de sortie : 2018\nSérie : Alienware\nAnnée de sortie : 2016\nCouleur principale : Gris\nMarque : Dell\nPoids : 3490 g"
+	},
+	{
+		"name" : "HP EliteBook Revolve 810 G3 ",
+		"category_id" : 6,
+		"short_description" : "HP EliteBook Revolve 810 G3 11,6 pouces écran tactile 2-en-1 - Intel Core i5 5200U 5e génération 2,20 GHz 8 Go 256 Go SSD Windows 10 Pro 64 bits - Webcam, ",
+		"original_price" : 165000.0,
+		"description" : "HP EliteBook Revolve 810 G3. Cette tablette PC dispose d'un SSD de 256 Go. Avoir un SSD signifie une meilleure fiabilité et de meilleures performances par rapport à un disque dur standard. Cela signifie accéder plus rapidement à vos fichiers, charger vos programmes plus rapidement, démarrer plus rapidement votre système d'exploitation. Cela signifie également une consommation d'énergie réduite et une durée de vie de la batterie améliorée. Autre bonus : pas de pièces mobiles, donc pas de bruit de disque dur ! Avec une capacité de stockage de 256 Go, stockez jusqu'à 64 000 chansons, 150 590 photos ou 64 films HD 1080p ! Avec 8 Go de SODIMM DDR3L, il en a plus qu'assez pour gérer en toute transparence votre charge de travail quotidienne. Offrant des performances fiables et rapides, le processeur Intel Core i5 de 5e génération du HP EliteBook Revolve 810 G3 affiche une vitesse de base de 2,60 GHz. La taille de l'écran de 11,6 pouces rend l'article très léger et très portable."
+	},
+	{
+		"name" : "MacBook Pro A1398 –  2013",
+		"category_id" : 6,
+		"short_description" : "Apple MacBook Pro 15 Rétina Mi-2013 A1398 - Intel Core i7 2.4Ghz - RAM 8Go - SSD 256Go - Rétinal 15.4\" 2880x1800 - Intel HD 1.5GB",
+		"original_price" : 400000.0,
+		"description" : "Apple MacBook Pro 15 Rétina Mi-2013 A1398 - (Produit reconditionné Garantie 6 mois ) Intel Core i7 2.4Ghz - RAM 8Go - SSD 256Go - 15.4\" 2880x1800 - Intel HD graphics 4000 1.5Go - OS X Big Sur - HDMI - 2xUSB 3.0 - SD - clavier : QWERTY transformé en"
+	},
+	{
+		"name" : " HP Pavilion Gaming laptop 15-dk0xxx",
+		"category_id" : 6,
+		"short_description" : "HP Pavilion Gaming 15,6 pouces Micro-EDGE, processeur Intel Core i5-9300H, NVIDIA GeForce GTX 1650 (4 Go dedie), 16 Go SDRAM, 256 Go SSD, Windows 10 Home (15-dk0020nr, Shadow Black\/Acid Green)",
+		"original_price" : 450000.0,
+		"description" : "Multitâche rapide et facile : découvrez des graphismes et une puissance de traitement de haute qualité qui répondent à vos besoins de jeu et de multitâche pour les derniers jeux, notamment Fortnight, PUBG et Overwatch\nGestion thermique avancée : la conception thermique optimisée et le capteur IR gardent votre ordinateur portable au frais au toucher, sans affecter l'acoustique\nProcesseur rapide : processeur Intel(r) core(tm) i5-9300h de 9e génération, quadricœur, 2,4 GHz jusqu'à 4,1 GHz avec Intel) Turbo Boost\nGraphiques réalistes : nvidia(r) geforce(r) GTX 1650 (4 Go GDDR5 dédiés). profitez de nouveaux niveaux de réalisme et de performances de jeu avec les technologies de lancer de rayons en temps réel. Vr\/mr prêt. Écran FHD IPS antireflet à micro-bords à rétroéclairage WLED de 15,6 pouces de diagonale (1920 x 1080) avec taux de rafraîchissement de 60 Hz\nMémoire et stockage : 16 Go DDR4-2400 SDRAM (extensible avec 2 emplacements de mémoire accessibles) et démarrage rapide, transfert de fichiers et expérience plus rapide avec le disque SSD interne de 256 Go pcie(r) nvme(tm) M.2\nRécupération et protection du bios : vérifie automatiquement la santé de votre PC, protège contre les accès non autorisés, sécurise le stockage local et se rétablit des problèmes de démarrage\nPorts : USB 3.1 Gen 2 Type-C(tm), 3 USB 3.1 Gen 1 Type-A, RJ-45, HDMI, combo casque-microphone\nAutonomie de la batterie : jusqu'à 8 heures et 15 minutes (usage mixte) ; jusqu'à 6 heures et 45 minutes (lecture vidéo) ; jusqu'à 5 heures et 30 minutes (diffusion sans fil).\nMince et léger (non emballé) : 14,17 pouces (L) x 10,08 pouces (P) x 0,92 pouces (H) ; 4,92 livres"
+	},
+	{
+		"name" : "MACBOOK PRO 15\" TOUCH BAR 2017",
+		"category_id" : 6,
+		"short_description" : "MacBook Pro 15,4\" Retina avec Touch Bar - Intel Core i7 - RAM 16Go - 512Go SSD - carte graphique AMD RADEON 560  4 Go dedie-Gris Sidéral",
+		"original_price" : 750000.0,
+		"description" : "Processeur : Intel Core i7  2.8 GHz\nRAM : 16 Go (la mémoire fournie est soudée)\nRésolution : 2880 x 1800 (WQXGA+)\nFonctions : Gamme Wide Color\nStockage principal : 512 Go SSD soudé PCIe\nProcesseur graphique : AMD Radeon Pro 560 4 Go dedie  \/ Intel HD Graphics 630 1.5 Go dedie \nDurée de fonctionnement : Jusqu'à 10 heures\nSystème d'exploitation : Apple macOS BigSur \nPoids : 1.83 kg"
+	},
+	{
+		"name" : "hp envy 15 notebook pc",
+		"category_id" : 6,
+		"short_description" : "HP ENVY 15.6'' pouces tactile (processeur Intel i7-4720HQ quadricœur, 8 Go de RAM, disque dur de 256 Go SSD , clavier rétroéclairé, Windows 10 Professionnel)",
+		"original_price" : 280000.0,
+		"description" : "Processeur Intel CoreTM i7 – 4720HQ 2,6 GHz de 4ª Gen\/3,6 GHz Turbo Quad Core, Windows 10 Professionnel 64 bits\nvisualización de wled-backlit HD BrightView (1366 x 768) non-touch, Beats Audio, HDMI, LAN Gigabit\nIntel HD Graphics 4600 (jusqu'à 1792 Mo au total) ; 8 Go de mémoire RAM DDR3L 1600 MHz, graveur optique SuperMulti DVD\nDisque SSD eluktro Pro Performance SATA III en option ; WLAN 802.11b\/g\/n (1 x 1)\nClavier standard pleine taille, trackpad HP Control zonetm, lecteur d'empreintes digitales, webcam HD"
+	},
+	{
+		"name" : "hp laptop 15-dy205lwm",
+		"category_id" : 6,
+		"short_description" : "INTEL CORE I5-1135G7  11em generation  8 Go DDR4 256 Go SSD 15\" FHD (1920x1080) INTEL IRIS XE WINDOWS 10 ARGENT",
+		"original_price" : 350000.0,
+		"description" : "Série HP :\nModèle : hp laptop 15-dy205lwm\nTaille de l'écran : 15,6\"\nRésolution de l'écran : HD Écran\ntactile : NON\nProcesseur : i5-1135G7\nVitesse : 2,4 GHz\nCarte vidéo : Intel Iris Xe Graphics intégré\nRAM partagée : 8 Go\nsolide State Drive : 256 Go\n\nSystème d'exploitation : Windows 10 Home\n"
+	},
+	{
+		"name" : "Apple Macbook pro 2018",
+		"category_id" : 6,
+		"short_description" : "APPLE MacBook Pro Touch Bar 15\" 2018 i7 - 2,6 Ghz - 16 Go RAM - 512Go SSD - graphique AMD RADEON Pro 560X 4 Go dedie -Argent - - Très bon état",
+		"original_price" : 800000.0,
+		"description" : "Processeur : Intel Core i7 (8ème génération) 2.6 GHz\nRAM : 16 Go (la mémoire fournie est soudée)\nRésolution : 2880 x 1800 (WQXGA+)\nFonctions : Sans BFR\/PVC, sans mercure, Gamme Wide Color, verre sans arsenic, sans béryllium, affichage Retina, affichage True Tone\nStockage principal : 512 Go SSD soudé\nProcesseur graphique : AMD Radeon Pro 560X  4 Go dedie \/ Intel UHD Graphics 630 1.5 Go dedie \nDurée de fonctionnement : Jusqu'à 10 heures\nSystème d'exploitation : Apple macOS Catalina 10.15\nPoids : 1.83 kg"
+	},
+	{
+		"name" : "Lenovo ThinkPad T590",
+		"category_id" : 6,
+		"short_description" : "Lenovo ThinkPad T590 INTEL CORE I5-8365U 8em generation - 16 GO ram -SSD 256 GO -15.6\" LED FULL HD IPS  WI-FI AC\/BLUETOOTH - WEBCAM -WINDOWS 10 PROFESSIONNEL 64 BITS",
+		"original_price" : 350000.0,
+		"description" : "Processeur Intel Core i5-8365U 8th (Quad-Core 1.6 GHz \/ 4.4 GHz Turbo - Cache 8 Mo)\n16 Go de mémoire DDR4 2400 MHz (8 Go intégrés + 1 x 8 Go - maximum 40 Go au total)\nEcran de 15.6 pouces avec résolution Full HD (1920 x1080)\nDalle IPS : couleurs lumineuses et angles de vision larges\nSSD M.2 PCIe de 256 Go\nCommunication sans fil Wi-Fi AC + Bluetooth 5.0\nClavier ThinkPad avec touches rétroéclairées\nWebcam intégrée HD 720p avec opturateur ThinkShutter\nSécurité : lecteur d'empreinte digitale (touch style), puce TPM 2.0 et lecteur Smart Card\nBatterie offrant jusqu'à 14 heures d'autonomie (selon l'utilisation)\nWindows 10 Professionnel 64 bits"
+	},
+	{
+		"name" : "Lenovo T15",
+		"category_id" : 6,
+		"short_description" : " Lenovo ThinkPad T15 (20S6000MFR) est une bête de somme. Il est conçu pour que vous restiez productif tout en étant mobile. Il est équipé d'un puissant processeur Intel Core i5 10em generation , de 8 Go de RAM DDR4, d'un SSD 256 Go et de la connexion réseau sans-fil ultra-rapide Wi-Fi 6 AX.",
+		"original_price" : 320000.0,
+		"description" : "Processeur Intel Core i5-10310U (Quad-Core 1.7 GHz \/ 4.6 GHz Turbo - 8 Threads - Cache 6 Mo - TDP 15W) \n8 Go de mémoire DDR4 2666 MHz (mémoire soudée)\nEcran15.6\" avec résolution Full HD (1920 x 1080 pixels)\nSSD M.2 PCIe de 256 Go\nCommunication sans fil Wi-Fi AX + Bluetooth 5.0\nClavier à touches rétroéclairées\nSécurité : puce TPM 2.0 et lecteur d'empreinte digitale\nLecteur SmarCard intégré\nWebcam HD 720p avec cache ThinkShutter\nAdaptateur secteur 65 Watts avec connecteur USB Type C\nWindows 10 Professionnel 64 bits"
+	},
+	{
+		"name" : "Lenovo T560",
+		"category_id" : 6,
+		"short_description" : "Lenovo ThinkPad T550  - 15.6\"  ecran tactile - Core i5 5300U - 8 Go RAM - 256 Go SSD - carte graphique intel HD 5500- Windows 10 Pro 64 bits ",
+		"original_price" : 270000.0,
+		"description" : "Sortie : 45 W, entrée : 120\/230 V CA (50\/60 Hz), processeur graphique : Intel HD Graphics 5500, audio : haut-parleurs stéréo, deux microphones, résolution : 720p, appareil photo : webcam intégrée, norme de conformité : audio haute définition, Codec : Realtek ALC3232, Tec. Technologie : GSM, GP. RS, EDGE, HSPA, LTE, fournisseur de services : assistance non incluse, génération : 4G, contrôleur : Sierra Wireless EM7345 - M.2 carard, technologie : 3 cellules polymère de lithium, Qt. Installation : 1, Capacité : 44 Wh, Qt. Max prise en charge : 2, durée de vie avec batterie supplémentaire incluse : jusqu'à 14,8 heures, contrôleur sans fil : Intel Dual Band Wireless-AC 7265 – Carte M.2, interface réseau : Gigabit Ethernet, sans fil : Bluetooth 4.0, 802.11ac, contrôleur Ethernet : Intel I218-LM, lecteur de cartes mémoire : 4 en 1 (carte SD, Medium, MultiSD, Medium, Multimédia, Medium, Carte ACard, carte SDHC. HC, carte SDX), interfaces : 3 x USB 3.0 ¦ VGA ¦ Mini DisplayPort ¦ LAN ¦ Jack combiné pour casque\/microphone ¦ Dock, largeur : 38,06 cm, poids : 2,13 kg, hauteur : 2,245 cm, profondeur : 25,82 cm, SO préinstallé : Windows 10, type produit : Ultrabook, système Fonctionnement : Microsoft Windows 10 Professional 64-bit Edition\/descendance depuis Windows 8.1 Pro 64-bit Edition, caractéristiques : pavé numérique intégré, protection contre les projections de liquides, pavé tactile multi-touch, pavé tactile sans boutons, type : TrackPoint, UltraNav, clavier rétroéclairé, interface : SATA 6 Gb\/s, stockage principal : 256 Go SSD - TCG Opal Encryption 2, vitesse : 1600 MHz \/ PC3L-12800, RAM : 8 Go (1 x 8 Go), Max RAM supportée : 16 Go, N. fentes : 2, Technologie : DDR3L SDRAM, Emplacements vides : 1, Format: SO DIMM 204-pin, Norme de conformité : RoHS, GREENGUARD, Caractéristiques : Trou pour verrouillage de sécurité (verrouillage pour câble vendu séparément). ), mot de passe amateur. ministrateur, mot de passe disque dur, mot de passe à l'allumage,"
+	},
+	{
+		"name" : "Lenovo t580",
+		"category_id" : 6,
+		"short_description" : "Lenovo ThinkPad T580  INTEL CORE I5-6300U 6th  8 GO ram  500 GO disque dur  15.6\" LED FULL HD WI-FI AC\/BLUETOOTH WEBCAM WINDOWS 10 PROFESSIONNEL 64 BITS",
+		"original_price" : 280000.0,
+		"description" : "Processeur Intel Core i5-6300U (Quad-Core 2.4 GHz \/ 3.4 GHz Turbo - Cache 6 Mo)\n8 Go de mémoire DDR3 (1x8 Go - 2 slots - maximum 16 Go au total)\nEcran de 15.6 pouces avec résolution Full HD (1920 x1080)\nDalle IPS : couleurs lumineuses et angles de vision larges\nDisque dur 500 Go 7200 tpm\nCommunication sans fil Wi-Fi AC + Bluetooth 4.1\nClavier ThinkPad avec touches rétroéclairées\nWebcam intégrée HD 720p\nSécurité : lecteur d'empreinte digitale, puce dTPM 2.0 et lecteur Smart Card\nBatterie intégrée + batterie externe (24Wh+32Wh) offrant en tout jusqu'à 13 heures d'autonomie\nWindows 10 Professionnel 64 bits"
+	},
+	{
+		"name" : "Dell inspiron 15-5578",
+		"category_id" : 6,
+		"short_description" : "Dell inspiron 15-5578  core i3 7130U 7em generation  2.70Ghz  4 Go ram \/ disque dur  1 To \/ écran 15.6\" ecran tactile\/carte graphique intel FHD 620 WI-FI WINDOWS PROFESSIONNEL 64 BITS",
+		"original_price" : 250000.0,
+		"description" : "Écran IPS de 15,6 pouces (1920 x 1080)\nProcesseur Intel Core i3-7130U (Dual-Core, 2,7 GHz, 3 Mo de cache)\n4 Go de mémoire système DDR4\nDisque dur SATA (HDD) 1 To (5 400 tr\/min)\nCarte graphique Intel HD intégrée\n2 x USB 3.0, 1 x USB 2.0, 1 x HDMI\nClavier et pavé tactile standards\nWebcam 1MP et microphone intégré\n10\/100\/1000 Gigabit Ethernet, 802.11AACBGN et Bluetooth 4.1\nBatterie lithium-ion à 3 cellules\nSystème d'exploitation Microsoft Windows 10 Professionnel"
+	},
+	{
+		"name" : "Dell latitude 5590",
+		"category_id" : 6,
+		"short_description" : "Dell Latitude 5590 INTEL CORE I7-8650U - Ram 8 GO - disque dur  SSD 256 GO 15.6\" LED FULL HD WI-FI AC\/BLUETOOTH WEBCAM WINDOWS 10 PROFESSIONNEL 64 BITS",
+		"original_price" : 350000.0,
+		"description" : "Processeur Intel Core i7-8650U (Quad-Core 1.9 GHz \/ 3.6 GHz Turbo - Cache 6 Mo)\n8 Go de mémoire DDR4 (1x 8 Go - 2 slots SO-DIMM - maximum 32 Go)\nEcran de 15.6\" avec résolution Full HD (1920 x 1080 pixels)\nSSD M.2 SATA de 256 Go\nCommunication sans fil Wi-Fi AC + Bluetooth\nConnecteur numérique HDMI\n3 ports USB 3.0 + 1 port USB 3.0 Type C (Alt Mode)\nWebcam HD 720p\nClavier avec touches rétroéclairées\nWindows 10 Professionnel 64 bits"
+	},
+	{
+		"name" : "MSI GL63 8RC",
+		"category_id" : 6,
+		"short_description" : "MSI GL63 8RC  INTEL CORE I7-10750H \/ Ram 16GO \/   15,6\" LED FULL HD\/ carte graphique  NVIDIA GEFORCE GTX 1660 Ti 6 GO dedie  WI-FI AC\/BLUETOOTH WEBCAM \/ windows 10 Pro  ",
+		"original_price" : 550000.0,
+		"description" : "Processeur Intel Core i7-10750H  2.60 GHz \/ 4 GHz Turbo - Cache 8 Mo)\nEcran de 15.6 pouces avec résolution Full HD (1920 x 1080 pixels)\nDalle \"Wide View\" avec angles de vision larges et affichage de 94% du Gamut NTSC\n16 Go de mémoire vive DDR4 2666 MHz (2x 8 Go - 2 slots avec maximum 32 Go)\nChipset graphique NVIDIA GeForce GTX 1660 avec 6 Go de mémoire dédiée GDDR5\nAffichage multiple sur jusqu'à 3 écrans (dont 2 externes) - connecteurs mini DisplayPort et HDMI\nDisque dur de 512Go SSD  (7200 RPM) + slot libre pour SSD M.2 SATA ou M.2 PCIe\n1 port USB 3.0 Type C + 3 ports USB 3.0\nCommunication sans fil fiable et performante avec les technologies Wi-Fi AC et Bluetooth 5.0\nHaut-parleurs format XL avec technologie audio Nahimic 3\nTechnologie Audio Boost (amélioration du son via un casque audio)\nRefroidissement performant à double ventilateur avec technologie Cooler Boost 3\nWebcam HD 720p et microphone intégrés\nAdaptateur d'alimentation 135 Watts"
+	},
+	{
+		"name" : "Dell Inspiron 15 7000 Gaming",
+		"category_id" : 6,
+		"short_description" : "Dell Inspiron 15 7000 Gaming  : Core i5-7300HQ, disque dur SSD 256 Go + 1 To HDD , RAM 24 Go, GTX 1050Ti 4 Go  Dedie , écran Full HD 15,6 pouces \/ windows 10 Pro ",
+		"original_price" : 480000.0,
+		"description" : "Taille de l'écran : 15,6 pouces\nRésolution de l'écran : 1920 x 1080 (Full HD)\nType d'écran : Écran large Full HD LED\nType de stockage : SSD 256 Go + 1 To HDD\nGraphiques : NVIDIA GeForce GTX 1050 Ti 4 Go dedie \nMémoire système (RAM) : 24 Go\nVitesse du processeur (base) : 2,5 GHz\nModèle de processeur : Intel Core i5-7300HQ 7e génération\nPorts : USB 2.0 type A x 1, USB 3.0 type A x 1, USB type A x 1, HDMI x 1\nLecteur de carte multimédia : Oui\nClavier rétroéclairé : Oui\nFente pour câble antivol : Fente de sécurité Kensington (fente K)\nSystème d'exploitation : Windows 10"
+	},
+	{
+		"name" : "HP Omen 15-en0",
+		"category_id" : 6,
+		"short_description" : "HP OMEN, écran FHD 15,6\" 144 Hz, AMD Ryzen 7 4800H jusqu'à 4,2 GHz, 16 Go de RAM, disque dur SSD NVMe 512 Go, NVIDIA GeForce GTX 1660 Ti 6 Go dedie , HDMI, Mini DisplayPort, Wi-Fi, Bluetooth, Windows 10 Pro",
+		"original_price" : 750000.0,
+		"description" : "Profitez des jeux quotidiens avec cet ordinateur portable HP OMEN. Le processeur AMD Ryzen 7 et la RAM DDR4 offrent un jeu sans décalage, tandis que le stockage assure un chargement rapide des applications. Cet ordinateur portable HP OMEN est doté d'une carte graphique NVIDIA GeForce GTX 1660 Ti qui produit des visuels réalistes sur l'écran Full HD de 15,6 pouces, et les ports DisplayPort, HDMI et USB vous permettent de vous connecter à divers appareils. La carte graphique NVIDIA GeForce GTX 1660 Ti est soutenue par une mémoire vidéo dédiée de 6 Go GDDR6 pour un GPU ultrarapide et avancé pour alimenter vos jeux. Conception mince et légère avec lecteur DVD\/CD omis pour une meilleure portabilité. Connectez-vous à un téléviseur HD ou à un moniteur haute définition pour configurer deux écrans côte à côte ou simplement voir une plus grande image."
+	},
+	{
+		"name" : "lenovo legion 81fv Y530-15ICH",
+		"category_id" : 6,
+		"short_description" : "lenovo legion 81fv Y530-15ICH - Core i7 8750H \/ 2.2 GHz - Windows 10 - 8 Go RAM - 1 To HDD up to SSD possible  - 15.6\" IPS 1920 x 1080 (Full HD) - GF GTX 1050 Ti  4 Go dedie - Wi-Fi 5, Bluetooth - noir",
+		"original_price" : 480000.0,
+		"description" : "Processeur Intel Core i7 2,20 GHz offrant une vitesse fulgurante et des performances de pointe pour les tâches et les jeux les plus difficiles\nAvec 8 Go de mémoire, les utilisateurs peuvent exécuter de nombreux programmes sans perdre l'exécution\nL'écran 15,6\" avec une résolution de 1920 x 1080 affiche des films, des jeux et des photos avec une clarté impressionnante\nWindows 10 Home est livré avec un accrochage 2 x 2 amélioré, vous aide à être plus productif au travail\nL'autonomie de la batterie de 9,50 heures vous permet de rester sans fil et de travailler plus longtemps sans interruption"
+	},
+	{
+		"name" : "HP EliteBook 840 G3 ",
+		"category_id" : 6,
+		"short_description" : "HP EliteBook 840 G3\/ core i5 6300U 6em generation \/ disque dur 500Go SHDD\/ 8Go Ram PC4\/ carte graphique intel FHD 620\/ Écran 14\" \/ windows 10 Pro ",
+		"original_price" : 220000.0,
+		"description" : "Processeur : Intel Core i5 6300U - 2.4 - 3.00 Ghz - 4 Threads\nChipset : Intel SoC plattform\nMémoire Vive : 8 Go - DDR4\nDisque stockage : 500 Go SHDD  \nCarte graphique : Intégrée - Intel HD Graphics 520 qui permettra l'utilisation de logiciels de conception 3D sans avoir à se plaindre d'éventuels ralentissements.\nCarte son : Intégrée - Enceintes et microphone\nRéseau : 100\/1000 - Gigabit Ethernet\nWifi : Oui\nBluetooth : Oui Version 4.0\nWebcam : Oui\nEcran : 14'' Full HD - LCD - 16\/9 - Anti-reflets\nRésolution de la dalle : 1920 x 1080\nSystème d'exploitation installé : Microsoft Windows 10 Professionnel 64 bits\nDimensions : Hauteur : 1.89 cm - Largeur : 33.8 cm - Profondeur : 23.7 cm\nPoids : 1.48Kg\nReconditionné\nPorts de connexion\n(1) USB 3.1 Gen 1 en charge\n1 ports USB 3.1 Gén 1\n(1) USB Type-C standard\n1 ports DisplayPort\n1 port VGA\n1 port RJ-45\/Ethernet\n1 connecteur pour station d'accueil\n1 combiné casque\/microphone\n1 connecteur secteur"
+	},
+	{
+		"name" : "APPLE MacBook Air 2017 A1466 ",
+		"category_id" : 6,
+		"short_description" : "MacBook Air MQD32FN\/A - Mi-2017 - Core i5 1.8 GHz 8 Go RAM 128 Go SSD Argent ",
+		"original_price" : 300000.0,
+		"description" : "Processeur : Intel Core i5 (5ème génération) 1.8 GHz RAM : 8 Go Résolution : 1440 x 900 (WXGA+) Fonctions : Brillant Stockage principal : 128 Go SSD PCIe Processeur graphique : Intel HD Graphics 6000 Durée de fonctionnement : Jusqu'à 12 heures Système d'exploitation : Apple macOS Catalina 10.15 Poids : 1.35 kg"
+	},
+	{
+		"name" : "Lenovo V14-82C6",
+		"category_id" : 6,
+		"short_description" : "Lenovo V14-82C6  \/AMD Athon Gold 3150U (2,4 GHz) \/ 4 Go DDR4 \/ 128 Go SSD \/ (14'') , AMD Radeon Graphic \/ Windows 10 Pro",
+		"original_price" : 160000.0,
+		"description" : "PC portable compact, le Lenovo V14 ADA (82C6006DFR) pas cher convient tout à fait à une utilisation courante avec sa bonne quantité de mémoire vive de 8 Go et son processeur AMD Athon Gold 3150u. Cet ordinateur élégant avec son design argent tournant sous Windows 10 Pro bénéficie d'un écran 14 pouces Full HD antireflet mais aussi d'un stockage stockage SSD rapide qui renforce sa réactivité."
+	},
+	{
+		"name" : "HP EliteDesk 800 G1",
+		"category_id" : 7,
+		"short_description" : "HP EliteDesk 800 G1 Intel Core i5-4570 3,20GHz - Mémoire vive: ram 4Go DDR3L - Disque HDD : 500Go Système d'exploitation: Windows 10 Famille 64bits  Chipset graphique: IntelHD Graphics 4600",
+		"original_price" : 75000.0,
+		"description" : "Modèle : HP EliteDesk 800 G1 format SFF (Slim)Processeur : Intel Core i5-4570 - 3.2 GHz - 4 coeurs - Cache : 6 Mo - Socket 1150 \/ H3 \/ LGA1150Mémoire Vive : 4 Go - DDR3Disque dur : 500 Go SATA (Format 3,5\")Lecteur optique : Graveur DVDContrôleur graphique : Intégré au processeur - HD 4600Réseau : RJ-45 Ethernet 10\/100\/1000 Mbps + Clef USB WifiSystème d'exploitation : Windows 10Dimensions : Hauteur : 33.8 cm \/"
+	},
+	{
+		"name" : "Le Dell Inspiron 15 5510 ",
+		"category_id" : 6,
+		"short_description" : "Dell inspiron 15 5510\/ INTEL CORE I5-11300H 11ème génération \/ram 8 GO\/disque dur SSD 256 GO \/ écran sans bordure 15.6\"1S et IPS FHD \/carte graphique intel iris Xe graphic 4Go WI-FI AX\/BLUETOOTH WEBCAM empreinte digital \/WINDOWS 10 FAMILLE 64 BITS",
+		"original_price" : 350000.0,
+		"description" : "Le Dell Inspiron 15 5510 est conçu avec : un processeur Intel® Core™ i5-11300H de 11e génération (8 Mo de cache, jusqu'à 4,4 GHz), un écran WVA à bordure étroite non tactile avec rétroéclairage LED antireflet 15,6 pouces (1 920 x 1 080), 8 Go DDR4 3200 MHz, 256 Go M.2 [PCIe] NVMe (SSD), Intel® Iris® Xe Graphics avec mémoire graphique partagée, Platinum Sliver."
+	},
+	{
+		"name" : "Dell latitude 3340",
+		"category_id" : 7,
+		"short_description" : " DELL Latitude 3340 13,3\" - Intel Core i3-4030U 1,90 GHz \/4 Go de RAM \/500 Go de disque dur \/Webcam \/Windows 10 Pro",
+		"original_price" : 120000.0,
+		"description" : "Ordinateur portable DELL Latitude 3340 remis à neuf\nProcesseur Intel® Core™ i3-4030U de 4e génération Cache 3M, 1,90 GHz\nÉcran LED NonTouch grand écran de 13,3 pouces (1366 x 768)\n4 Go de mémoire\nDisque dur de 500 Go\nWebcam\nIntel Dual Band Wireless-AC 7260 802.11 ac\/a\/b\/g\/n 2x2 + Bluetooth 4.0\nWindows 10 Professionnel\nChargeur inclus\nPAS d'optique"
+	},
+	{
+		"name" : " HP ProBook x360 11-G2 ",
+		"category_id" : 7,
+		"short_description" : "Ordinateur portable convertible HP ProBook x360 11-G2\/ Intel : i5-7Y54 7ém génération,Ram 8 Go, 128 Go\/SSD, WiFi+Bluetooth, webcam double caméra , écran tactile 11,6\", Windows 10 Pro-64",
+		"original_price" : 200000.0,
+		"description" : "Conçu pour les étudiants, les enseignants et les professionnels de l'informatique, l'ordinateur portable 2-en-1 ProBook x360 11 G2 EE 11,6\" Multi-Touch de HP est un système dont l'écran peut pivoter jusqu'à 360 ° pour varier entre ordinateur portable, tente, support et mode tablette. Le mode ordinateur portable présente la disposition traditionnelle d'un ordinateur portable où vous utilisez le clavier et le pavé tactile pour naviguer sur l'écran. Le mode support est l'endroit où vous pouvez regarder des vidéos et afficher des photos avec peu ou pas d'interactions tactiles avec l'ordinateur. Le mode tablette est lorsque vous poussez l'écran complètement en arrière, transformant ce bloc-notes en tablette. Le mode tente est lorsque vous placez le système sur ses bords, ressemblant à une tente, ce qui est bien adapté aux présentations PowerPoint. Ce système peut facilement faire la transition entre la salle de classe et domicile."
+	},
+	{
+		"name" : "Lenovo Miix 630",
+		"category_id" : 6,
+		"short_description" : "Lenovo Miix 630, ordinateur portable Windows 12 pouces, ordinateur portable 2 en 1, (Qualcomm Snapdragon 835, 4 Go LPDDR4X, 128 Go UFS 2.1, Windows 10 S), 81F10001US, gris fer",
+		"original_price" : 300000.0,
+		"description" : "Lenovo Miix 630 2-en-1\nAvec un puissant traitement Qualcomm ® Snapdragon ™ , une 4G LTE ultra-rapide et une batterie épique de 20 heures, le Miix 630 rend tout simple. La connexion aux réseaux de données est un jeu d'enfant. Les e-mails et les messages sont synchronisés même en mode veille. Le clavier est détachable, révélant une superbe tablette de 12,3 pouces. Et vous pouvez vous connecter avec un simple sourire. Préchargé avec Windows 10, il est livré avec un stylo numérique."
+	},
+	{
+		"name" : "HP Pavilion Gaming Laptop 16-a0035nr",
+		"category_id" : 6,
+		"short_description" : "Ordinateur portable de jeu HP Pavilion 16,1 pouces (1920 x 1080) FHD 144 Hz, Intel Core i5-10300H, NVIDIA GeForce GTX 1660 Ti 4 Go dedie  avec conception Max-Q, 16 Go de RAM, 256 Go SSD + 1000Go SHDD , Windows 10 Famille",
+		"original_price" : 500000.0,
+		"description" : "Windows 10 Famille, affichage du taux de rafraîchissement FHD 144 Hz de 16,1 pouces\nIntel Core i5-10300H 2,5 GHz, NVIDIA GeForce GTX 1660TI 4 Go Dédié ,\n16 Go DDR4 (2 * emplacements), 256 Go SSD + 1000Gb SHDD\n2x USB 3.0 Type A, 1x USB 3.0 Type C, 1x sorties HDMI, 1x ports Ethernet et 1x prise combo casque\/microphone\nClavier rétroéclairé, Wireless-AC Bluetooth 5.0, double haut-parleurs B&O, Lithium-ion polymère 3-Cell, lecteur DVD\/CD non inclus"
+	},
+	{
+		"name" : "Dell latitude e5450",
+		"category_id" : 6,
+		"short_description" : "Dell latitude E5450 \/intel core i5\/disque dur 512 Go  \/4 Go ram \/14''",
+		"original_price" : 150000.0,
+		"description" : null
+	},
+	{
+		"name" : "HP Probook 640 G1",
+		"category_id" : 6,
+		"short_description" : "HP Probook 640 G1\/ intel core i5 2.70 Ghz \/ disque dur 1To HDD  \/ ram 8Go\/ carte Graphique AMD RADEON Go 1dédié GDDR5 \/ 14’’\/",
+		"original_price" : 190000.0,
+		"description" : "HP Probook 640 G1\/ intel core i5 2.70 Ghz \/ disque dur 1To HDD  \/ ram 8Go\/ carte Graphique AMD RADEON Go 1dédié GDDR5 \/ 14’’\/"
+	},
+	{
+		"name" : "Microsoft 3",
+		"category_id" : 6,
+		"short_description" : "Microsoft Surface 3 Ecran tactile 10,8\" (Intel Atom X7, 2 Go de RAM, SSD 64 Go, Windows 10)",
+		"original_price" : 180000.0,
+		"description" : null
+	},
+	{
+		"name" : "MSI GF65 ",
+		"category_id" : 6,
+		"short_description" : "MSI GF65 - intel core i7 10750H 10 em génération ( 12 cœur ) - disque dur 512Go SSD -  1To HHD externe -16Go ram Pc4 - 6Go dédie Nvidia GTX 1660Ti - écran 15.6\" 144 Hz",
+		"original_price" : 700000.0,
+		"description" : null
+	},
+	{
+		"name" : "Lenovo L14",
+		"category_id" : 7,
+		"short_description" : "Lenovo Thinkpad L14 | i5 10e génération | 16 Go de RAM | SSD 256 Go \/ écran 14'' IPS 2K ultra propre 90Hz \/ autonimie 7h| Win 10 Pro + Office 2019 – Prêt pour Windows 11",
+		"original_price" : 350000.0,
+		"description" : null
+	},
+	{
+		"name" : "HP Pavillon X360",
+		"category_id" : 6,
+		"short_description" : "HP Pavillon X360. PC Portable Gaming ultra compact Intel Core  i7-8550U 2.0Ghz (8èmegénération ) \/ 8Go de RAM\/  Stockage 1 To + SSD 128 Go, NVIDIA GeForce MX130  4Go dédié\/Écran Tactile 14.1pouces rotatifa 360°\/ USB 3.0, 3.1,HDMI WEBCAM WI-FI Bluetooth \/ Batterie 4h\/ Win 10",
+		"original_price" : 480000.0,
+		"description" : null
+	},
+	{
+		"name" : "MSI",
+		"category_id" : 6,
+		"short_description" : "500HDD ET 4G RAM",
+		"original_price" : 250000.0,
+		"description" : null
+	},
+	{
+		"name" : "Lenovo Légion Y540",
+		"category_id" : 6,
+		"short_description" : " Ordinateur portable Gaming Lenovo Légion Y540\/  Intel Core i7-9750H 2.6GHz (12 CPUs) \/ 32 Go RAM, \/ 256 Go SSD + 1To, \/6Go carte graphique Dédiée RTX2060, ",
+		"original_price" : 700000.0,
+		"description" : null
+	},
+	{
+		"name" : "HP OMEN GAMING   Ryzen 7 ",
+		"category_id" : 6,
+		"short_description" : "💻 HP OMEN GAMING   Ryzen 7 10ÈME GÉNÉRATION avec 6GB dédié🔥 \n\n👉 Ryzen 7  10eme génération\n👉🏾 CPU: 2.90 GHz  4800H 16 cœur \n👉Ram 16go ddr4 extensible à 64GB\n👉disque dur 500GB   SSD \n👉 carte graphique NVIDIA GTX  1660ti  6GB  dédié Gddr6 🔥\n👉Clavier rétro-éclairé  RGB\n👉écran 15.6\" POUCES 144Hz",
+		"original_price" : 600000.0,
+		"description" : null
+	},
+	{
+		"name" : "MSI Gaming ",
+		"category_id" : 6,
+		"short_description" : "💻 MSI GAMING I5 8coeur avec 4GB dédié Nvidia GTX 🔥 \n\n👉 I5 9eme génération\n👉🏾 CPU: 2.40 GHz 9300H 8 cœur \n👉Ram 16go ddr4 extensible 32\n👉disque dur 256GB SSD \n👉 carte graphique NVIDIA GTX 1060TI 4GB  dédié Gddr6 🔥\n👉écran 15.6\" FHD  IPS",
+		"original_price" : 480000.0,
+		"description" : null
+	},
+	{
+		"name" : "LENOVO TOUT EN UN ThinkCentre M80",
+		"category_id" : 7,
+		"short_description" : "LENOVO TOUT EN UN ThinkCentre M80 INTEL i5  2.50Ghz 4 GO 500 GO écran 22\" \/WEBCAM\/ DVD WI-FI WINDOWS PROFESSIONNEL 64 BITS",
+		"original_price" : 160000.0,
+		"description" : null
+	},
+	{
+		"name" : "Airpod pro",
+		"category_id" : 15,
+		"short_description" : "Airpod Pro qualité certifiée ",
+		"original_price" : 18000.0,
+		"description" : null
+	},
+	{
+		"name" : "Iphone 6s ",
+		"category_id" : 16,
+		"short_description" : "Iphone 6s 32go tout les couleurs disponibles ",
+		"original_price" : 70000.0,
+		"description" : null
+	}
+]

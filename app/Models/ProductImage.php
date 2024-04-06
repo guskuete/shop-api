@@ -13,8 +13,8 @@ class ProductImage extends Model
         'product_id',
         'name',
         'thumbnail',
-        'smallImage',
-        'mediumImage'
+        'small',
+        'medium'
     ];
 
 

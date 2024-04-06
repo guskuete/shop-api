@@ -72,7 +72,7 @@ class AuthController extends Controller
 
     #[OAT\Post(
         path: "/api/login",
-        summary: "Authenticte user",
+        summary: "Authenticate user",
         requestBody: new OAT\RequestBody(
             required: true,
             content: new OAT\MediaType(
